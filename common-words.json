@@ -1,4 +1,6 @@
-[
+{
+  "updatedAt" : "2025-06-17 13:50",
+  "data" : [
   {
     "englishMeaning": "I",
     "thaiSpelling": "ฉัน",
@@ -3150,3 +3152,5 @@
     "exampleInEnglish": "I'm alone"
   }
 ]
+
+}
