@@ -1,0 +1,3152 @@
+[
+  {
+    "englishMeaning": "I",
+    "thaiSpelling": "ฉัน",
+    "phonetic": "chan",
+    "burmesePronunciation": "ချန်း",
+    "exampleInThai": "ฉัน รัก เธอ",
+    "exampleInPhonetic": "chan rák thoe",
+    "exampleInEnglish": "I love you"
+  },
+  {
+    "englishMeaning": "you",
+    "thaiSpelling": "คุณ",
+    "phonetic": "khun",
+    "burmesePronunciation": "ခွန်း",
+    "exampleInThai": "คุณ สบาย ดี ไหม",
+    "exampleInPhonetic": "khun sa-baai dii mai",
+    "exampleInEnglish": "Are you doing well?"
+  },
+  {
+    "englishMeaning": "he",
+    "thaiSpelling": "เขา",
+    "phonetic": "khao",
+    "burmesePronunciation": "ခေါ",
+    "exampleInThai": "เขา มา แล้ว",
+    "exampleInPhonetic": "khao maa láew",
+    "exampleInEnglish": "He has arrived"
+  },
+  {
+    "englishMeaning": "she",
+    "thaiSpelling": "เธอ",
+    "phonetic": "thoe",
+    "burmesePronunciation": "ထယ်",
+    "exampleInThai": "เธอ น่า รัก มาก",
+    "exampleInPhonetic": "thoe nâa rák mâak",
+    "exampleInEnglish": "She is very cute"
+  },
+  {
+    "englishMeaning": "we",
+    "thaiSpelling": "เรา",
+    "phonetic": "rao",
+    "burmesePronunciation": "ရွာ",
+    "exampleInThai": "เรา จะ ไป ตลาด กัน",
+    "exampleInPhonetic": "rao ja bpai dta-làat gan",
+    "exampleInEnglish": "We will go to the market"
+  },
+  {
+    "englishMeaning": "they",
+    "thaiSpelling": "พวกเขา",
+    "phonetic": "phûak-khao",
+    "burmesePronunciation": "ဖွတ်-ခေါ",
+    "exampleInThai": "พวกเขา ทำ งาน อยู่",
+    "exampleInPhonetic": "phûak-khao tham ngaan yùu",
+    "exampleInEnglish": "They are working"
+  },
+  {
+    "englishMeaning": "this",
+    "thaiSpelling": "นี่",
+    "phonetic": "nîi",
+    "burmesePronunciation": "နီး",
+    "exampleInThai": "นี่ คือ หนังสือ",
+    "exampleInPhonetic": "nîi khue năng-sǔe",
+    "exampleInEnglish": "This is a book"
+  },
+  {
+    "englishMeaning": "that",
+    "thaiSpelling": "นั่น",
+    "phonetic": "nân",
+    "burmesePronunciation": "နန်း",
+    "exampleInThai": "นั่น คือ โรงเรียน",
+    "exampleInPhonetic": "nân khue roong-rian",
+    "exampleInEnglish": "That is a school"
+  },
+  {
+    "englishMeaning": "what",
+    "thaiSpelling": "อะไร",
+    "phonetic": "a-rai",
+    "burmesePronunciation": "အရိုင်း",
+    "exampleInThai": "คุณ พูด ว่า อะไร",
+    "exampleInPhonetic": "khun phût wâa a-rai",
+    "exampleInEnglish": "What did you say?"
+  },
+  {
+    "englishMeaning": "where",
+    "thaiSpelling": "ที่ไหน",
+    "phonetic": "thîi-năi",
+    "burmesePronunciation": "တီ-နိုင်",
+    "exampleInThai": "คุณ จะ ไป ที่ไหน",
+    "exampleInPhonetic": "khun ja bpai thîi-năi",
+    "exampleInEnglish": "Where are you going?"
+  },
+  {
+    "englishMeaning": "when",
+    "thaiSpelling": "เมื่อไหร่",
+    "phonetic": "mêuua-rài",
+    "burmesePronunciation": "မူး-ရိုင်း",
+    "exampleInThai": "คุณ มา เมื่อไหร่",
+    "exampleInPhonetic": "khun maa mêuua-rài",
+    "exampleInEnglish": "When did you come?"
+  },
+  {
+    "englishMeaning": "why",
+    "thaiSpelling": "ทำไม",
+    "phonetic": "tham-mai",
+    "burmesePronunciation": "ထမ်-မိုင်",
+    "exampleInThai": "ทำไม คุณ ไม่ มา",
+    "exampleInPhonetic": "tham-mai khun mâi maa",
+    "exampleInEnglish": "Why didn't you come?"
+  },
+  {
+    "englishMeaning": "how",
+    "thaiSpelling": "อย่างไร",
+    "phonetic": "yàang-rai",
+    "burmesePronunciation": "ယာန်-ရိုင်း",
+    "exampleInThai": "คุณ ทำ อย่างไร",
+    "exampleInPhonetic": "khun tham yàang-rai",
+    "exampleInEnglish": "How did you do it?"
+  },
+  {
+    "englishMeaning": "yes",
+    "thaiSpelling": "ใช่",
+    "phonetic": "chai",
+    "burmesePronunciation": "ခြိုင်",
+    "exampleInThai": "ใช่ ฉัน เห็น ด้วย",
+    "exampleInPhonetic": "chai chan hěn dûay",
+    "exampleInEnglish": "Yes"
+  },
+  {
+    "englishMeaning": "no",
+    "thaiSpelling": "ไม่ใช่",
+    "phonetic": "mâi-chai",
+    "burmesePronunciation": "မိုင်-ခြိုင်",
+    "exampleInThai": "ไม่ใช่ ของ ฉัน",
+    "exampleInPhonetic": "mâi-chai khǎawng chan",
+    "exampleInEnglish": "No"
+  },
+  {
+    "englishMeaning": "can",
+    "thaiSpelling": "สามารถ",
+    "phonetic": "sǎa-mâat",
+    "burmesePronunciation": "သာမတ်",
+    "exampleInThai": "ฉัน สามารถ ทำ ได้",
+    "exampleInPhonetic": "chan sǎa-mâat tham dâai",
+    "exampleInEnglish": "I can do it"
+  },
+  {
+    "englishMeaning": "have",
+    "thaiSpelling": "มี",
+    "phonetic": "mee",
+    "burmesePronunciation": "မီး",
+    "exampleInThai": "ฉัน มี เงิน",
+    "exampleInPhonetic": "chan mee ngoen",
+    "exampleInEnglish": "I have money"
+  },
+  {
+    "englishMeaning": "like",
+    "thaiSpelling": "ชอบ",
+    "phonetic": "châawp",
+    "burmesePronunciation": "ချော့",
+    "exampleInThai": "ฉัน ชอบ เพลง นี้",
+    "exampleInPhonetic": "chan châawp phleeng níi",
+    "exampleInEnglish": "I like this song"
+  },
+  {
+    "englishMeaning": "want",
+    "thaiSpelling": "ต้องการ",
+    "phonetic": "tâawng-gaan",
+    "burmesePronunciation": "တောင်း-ကန်း",
+    "exampleInThai": "ฉัน ต้องการ น้ำ",
+    "exampleInPhonetic": "chan tâawng-gaan nám",
+    "exampleInEnglish": "I want water"
+  },
+  {
+    "englishMeaning": "need",
+    "thaiSpelling": "จำเป็น",
+    "phonetic": "jam-bpen",
+    "burmesePronunciation": "ဂျမ်-ပိန်း",
+    "exampleInThai": "เรา จำเป็น ต้อง ไป",
+    "exampleInPhonetic": "rao jam-bpen tâawng bpai",
+    "exampleInEnglish": "We need to go"
+  },
+  {
+    "englishMeaning": "come",
+    "thaiSpelling": "มา",
+    "phonetic": "maa",
+    "burmesePronunciation": "မာ",
+    "exampleInThai": "เขา มา แล้ว",
+    "exampleInPhonetic": "khao maa láew",
+    "exampleInEnglish": "He came already"
+  },
+  {
+    "englishMeaning": "go",
+    "thaiSpelling": "ไป",
+    "phonetic": "bpai",
+    "burmesePronunciation": "ပိုင်",
+    "exampleInThai": "เรา จะ ไป ตลาด",
+    "exampleInPhonetic": "rao ja bpai dta-làat",
+    "exampleInEnglish": "We will go to the market"
+  },
+  {
+    "englishMeaning": "do",
+    "thaiSpelling": "ทำ",
+    "phonetic": "tham",
+    "burmesePronunciation": "ထမ်",
+    "exampleInThai": "คุณ ทำ อะไร",
+    "exampleInPhonetic": "khun tham a-rai",
+    "exampleInEnglish": "What are you doing?"
+  },
+  {
+    "englishMeaning": "say",
+    "thaiSpelling": "พูด",
+    "phonetic": "phût",
+    "burmesePronunciation": "ဖွတ်",
+    "exampleInThai": "เขา พูด ความจริง",
+    "exampleInPhonetic": "khao phût khwaam-jing",
+    "exampleInEnglish": "He speaks the truth"
+  },
+  {
+    "englishMeaning": "speak",
+    "thaiSpelling": "พูด",
+    "phonetic": "phût",
+    "burmesePronunciation": "ဖွတ်",
+    "exampleInThai": "ฉัน พูด ภาษาไทย ได้",
+    "exampleInPhonetic": "chan phût phaa-sǎa thai dâai",
+    "exampleInEnglish": "I can speak Thai"
+  },
+  {
+    "englishMeaning": "see",
+    "thaiSpelling": "เห็น",
+    "phonetic": "hěn",
+    "burmesePronunciation": "ဟင်း",
+    "exampleInThai": "ฉัน เห็น เธอ แล้ว",
+    "exampleInPhonetic": "chan hěn thoe láew",
+    "exampleInEnglish": "I saw you already"
+  },
+  {
+    "englishMeaning": "look",
+    "thaiSpelling": "มอง",
+    "phonetic": "maawng",
+    "burmesePronunciation": "မောင်",
+    "exampleInThai": "เขา มอง ฉัน",
+    "exampleInPhonetic": "khao maawng chan",
+    "exampleInEnglish": "He looked at me"
+  },
+  {
+    "englishMeaning": "hear",
+    "thaiSpelling": "ได้ยิน",
+    "phonetic": "dâai-yin",
+    "burmesePronunciation": "ဒါယင်",
+    "exampleInThai": "ฉัน ได้ยิน เสียง",
+    "exampleInPhonetic": "chan dâai-yin sǐiang",
+    "exampleInEnglish": "I heard a sound"
+  },
+  {
+    "englishMeaning": "eat",
+    "thaiSpelling": "กิน",
+    "phonetic": "gin",
+    "burmesePronunciation": "ဂင်",
+    "exampleInThai": "ฉัน กิน ข้าว แล้ว",
+    "exampleInPhonetic": "chan gin khâao láew",
+    "exampleInEnglish": "I already ate"
+  },
+  {
+    "englishMeaning": "drink",
+    "thaiSpelling": "ดื่ม",
+    "phonetic": "dùuem",
+    "burmesePronunciation": "ဒူးမ်",
+    "exampleInThai": "ฉัน ดื่ม น้ำ",
+    "exampleInPhonetic": "chan dùuem nám",
+    "exampleInEnglish": "I drink water"
+  },
+  {
+    "englishMeaning": "sleep",
+    "thaiSpelling": "นอน",
+    "phonetic": "naawn",
+    "burmesePronunciation": "နွန်",
+    "exampleInThai": "เขา นอน อยู่",
+    "exampleInPhonetic": "khao naawn yùu",
+    "exampleInEnglish": "He is sleeping"
+  },
+  {
+    "englishMeaning": "wake up",
+    "thaiSpelling": "ตื่น",
+    "phonetic": "tùuen",
+    "burmesePronunciation": "တဿန်",
+    "exampleInThai": "ฉัน ตื่น แล้ว",
+    "exampleInPhonetic": "chan tùuen láew",
+    "exampleInEnglish": "I'm awake now"
+  },
+  {
+    "englishMeaning": "walk",
+    "thaiSpelling": "เดิน",
+    "phonetic": "dooen",
+    "burmesePronunciation": "ဒန်း",
+    "exampleInThai": "เรา เดิน ไป โรงเรียน",
+    "exampleInPhonetic": "rao dooen bpai roong-rian",
+    "exampleInEnglish": "We walk to school"
+  },
+  {
+    "englishMeaning": "run",
+    "thaiSpelling": "วิ่ง",
+    "phonetic": "wîng",
+    "burmesePronunciation": "ဝင်း",
+    "exampleInThai": "เด็ก วิ่ง เร็ว มาก",
+    "exampleInPhonetic": "dèk wîng reo mâak",
+    "exampleInEnglish": "The child runs very fast"
+  },
+  {
+    "englishMeaning": "buy",
+    "thaiSpelling": "ซื้อ",
+    "phonetic": "súue",
+    "burmesePronunciation": "ဆူး",
+    "exampleInThai": "ฉัน ซื้อ ขนม",
+    "exampleInPhonetic": "chan súue khà-nǒm",
+    "exampleInEnglish": "I bought snacks"
+  },
+  {
+    "englishMeaning": "sell",
+    "thaiSpelling": "ขาย",
+    "phonetic": "khǎai",
+    "burmesePronunciation": "ခိုင်",
+    "exampleInThai": "แม่ ขาย ผัก",
+    "exampleInPhonetic": "mâe khǎai phàk",
+    "exampleInEnglish": "Mom sells vegetables"
+  },
+  {
+    "englishMeaning": "make",
+    "thaiSpelling": "ทำ",
+    "phonetic": "tham",
+    "burmesePronunciation": "ထမ်",
+    "exampleInThai": "เขา ทำ อาหาร",
+    "exampleInPhonetic": "khao tham aa-hǎan",
+    "exampleInEnglish": "He makes food"
+  },
+  {
+    "englishMeaning": "live",
+    "thaiSpelling": "อยู่",
+    "phonetic": "yùu",
+    "burmesePronunciation": "ယူ",
+    "exampleInThai": "ฉัน อยู่ ที่นี่",
+    "exampleInPhonetic": "chan yùu thîi-nîi",
+    "exampleInEnglish": "I live here"
+  },
+  {
+    "englishMeaning": "die",
+    "thaiSpelling": "ตาย",
+    "phonetic": "dtaai",
+    "burmesePronunciation": "တိုင်း",
+    "exampleInThai": "เขา ตาย แล้ว",
+    "exampleInPhonetic": "khao dtaai láew",
+    "exampleInEnglish": "He has died"
+  },
+  {
+    "englishMeaning": "open",
+    "thaiSpelling": "เปิด",
+    "phonetic": "bpòoet",
+    "burmesePronunciation": "ပဿတ်",
+    "exampleInThai": "เปิด ประตู",
+    "exampleInPhonetic": "bpòoet bprà-dtuu",
+    "exampleInEnglish": "Open the door"
+  },
+  {
+    "englishMeaning": "close",
+    "thaiSpelling": "ปิด",
+    "phonetic": "bpìt",
+    "burmesePronunciation": "ပစ်",
+    "exampleInThai": "ปิด ไฟ ด้วย",
+    "exampleInPhonetic": "bpìt fai dûay",
+    "exampleInEnglish": "Please turn off the light"
+  },
+  {
+    "englishMeaning": "know",
+    "thaiSpelling": "รู้",
+    "phonetic": "róo",
+    "burmesePronunciation": "ရူး",
+    "exampleInThai": "ฉัน รู้ แล้ว",
+    "exampleInPhonetic": "chan róo láew",
+    "exampleInEnglish": "I know already"
+  },
+  {
+    "englishMeaning": "understand",
+    "thaiSpelling": "เข้าใจ",
+    "phonetic": "khâo-jai",
+    "burmesePronunciation": "ခေါ်-ဇိုင်",
+    "exampleInThai": "ฉัน เข้าใจ ดี",
+    "exampleInPhonetic": "chan khâo-jai dii",
+    "exampleInEnglish": "I understand well"
+  },
+  {
+    "englishMeaning": "learn",
+    "thaiSpelling": "เรียน",
+    "phonetic": "rian",
+    "burmesePronunciation": "ရီးယန်",
+    "exampleInThai": "เรา เรียน ภาษาไทย",
+    "exampleInPhonetic": "rao rian phaa-sǎa thai",
+    "exampleInEnglish": "We learn Thai"
+  },
+  {
+    "englishMeaning": "teach",
+    "thaiSpelling": "สอน",
+    "phonetic": "sǎawn",
+    "burmesePronunciation": "ဆောင်း",
+    "exampleInThai": "ครู สอน ภาษาอังกฤษ",
+    "exampleInPhonetic": "kruu sǎawn phaa-sǎa ang-grìt",
+    "exampleInEnglish": "Teacher teaches English"
+  },
+  {
+    "englishMeaning": "read",
+    "thaiSpelling": "อ่าน",
+    "phonetic": "àan",
+    "burmesePronunciation": "အန်",
+    "exampleInThai": "ฉัน อ่าน หนังสือ",
+    "exampleInPhonetic": "chan àan năng-sǔe",
+    "exampleInEnglish": "I read a book"
+  },
+  {
+    "englishMeaning": "write",
+    "thaiSpelling": "เขียน",
+    "phonetic": "khǐian",
+    "burmesePronunciation": "ချင်",
+    "exampleInThai": "เขา เขียน จดหมาย",
+    "exampleInPhonetic": "khao khǐian jòt-mǎai",
+    "exampleInEnglish": "He writes a letter"
+  },
+  {
+    "englishMeaning": "sit",
+    "thaiSpelling": "นั่ง",
+    "phonetic": "nâng",
+    "burmesePronunciation": "နင်",
+    "exampleInThai": "ฉัน นั่ง รอ อยู่",
+    "exampleInPhonetic": "chan nâng raaw yùu",
+    "exampleInEnglish": "I'm sitting and waiting"
+  },
+  {
+    "englishMeaning": "stand",
+    "thaiSpelling": "ยืน",
+    "phonetic": "yuuen",
+    "burmesePronunciation": "ယူန်",
+    "exampleInThai": "เขา ยืน อยู่",
+    "exampleInPhonetic": "khao yuuen yùu",
+    "exampleInEnglish": "He is standing"
+  },
+  {
+    "englishMeaning": "wait",
+    "thaiSpelling": "รอ",
+    "phonetic": "raaw",
+    "burmesePronunciation": "ရော်",
+    "exampleInThai": "รอ ฉัน แป๊บ หนึ่ง",
+    "exampleInPhonetic": "raaw chan bpáep nèung",
+    "exampleInEnglish": "Wait a moment"
+  },
+  {
+    "englishMeaning": "call",
+    "thaiSpelling": "โทร",
+    "phonetic": "thoo",
+    "burmesePronunciation": "ထိုး",
+    "exampleInThai": "ฉัน โทร หา แม่",
+    "exampleInPhonetic": "chan thoo hǎa mâe",
+    "exampleInEnglish": "I call mom"
+  },
+  {
+    "englishMeaning": "help",
+    "thaiSpelling": "ช่วย",
+    "phonetic": "chûuai",
+    "burmesePronunciation": "ချွိုင်",
+    "exampleInThai": "ช่วย ฉัน หน่อย",
+    "exampleInPhonetic": "chûuai chan nàwy",
+    "exampleInEnglish": "Help me"
+  },
+  {
+    "englishMeaning": "start",
+    "thaiSpelling": "เริ่ม",
+    "phonetic": "rôem",
+    "burmesePronunciation": "ရမ်း",
+    "exampleInThai": "เรา เริ่ม ทำ งาน แล้ว",
+    "exampleInPhonetic": "rao rôem tham ngaan láew",
+    "exampleInEnglish": "We started working"
+  },
+  {
+    "englishMeaning": "stop",
+    "thaiSpelling": "หยุด",
+    "phonetic": "yùt",
+    "burmesePronunciation": "ယူတ်",
+    "exampleInThai": "หยุด รถ ตรงนี้",
+    "exampleInPhonetic": "yùt rót dtrong níi",
+    "exampleInEnglish": "Stop the car here"
+  },
+  {
+    "englishMeaning": "wait",
+    "thaiSpelling": "รอ",
+    "phonetic": "raaw",
+    "burmesePronunciation": "ရော်",
+    "exampleInThai": "คุณ รอ สัก ครู่",
+    "exampleInPhonetic": "khun raaw sàk khrûu",
+    "exampleInEnglish": "Please wait a moment"
+  },
+  {
+    "englishMeaning": "love",
+    "thaiSpelling": "รัก",
+    "phonetic": "rák",
+    "burmesePronunciation": "ရတ်",
+    "exampleInThai": "ฉัน รัก ครอบครัว",
+    "exampleInPhonetic": "chan rák khrâawp-khrua",
+    "exampleInEnglish": "I love my family"
+  },
+  {
+    "englishMeaning": "hate",
+    "thaiSpelling": "เกลียด",
+    "phonetic": "glìat",
+    "burmesePronunciation": "ဂလိပ်",
+    "exampleInThai": "เขา เกลียด ฉัน",
+    "exampleInPhonetic": "khao glìat chan",
+    "exampleInEnglish": "He hates me"
+  },
+  {
+    "englishMeaning": "feel",
+    "thaiSpelling": "รู้สึก",
+    "phonetic": "róo-sùek",
+    "burmesePronunciation": "ရူး-ဆတ်",
+    "exampleInThai": "ฉัน รู้สึก ดี",
+    "exampleInPhonetic": "chan róo-sùek dii",
+    "exampleInEnglish": "I feel good"
+  },
+  {
+    "englishMeaning": "happy",
+    "thaiSpelling": "มีความสุข",
+    "phonetic": "mii khwaam-sùk",
+    "burmesePronunciation": "မီး-ခွမ်-ဆုတ်",
+    "exampleInThai": "ฉัน มีความสุข",
+    "exampleInPhonetic": "chan mii khwaam-sùk",
+    "exampleInEnglish": "I am happy"
+  },
+  {
+    "englishMeaning": "sad",
+    "thaiSpelling": "เศร้า",
+    "phonetic": "sâo",
+    "burmesePronunciation": "ဆော",
+    "exampleInThai": "ฉัน รู้สึก เศร้า",
+    "exampleInPhonetic": "chan róo-sùek sâo",
+    "exampleInEnglish": "I feel sad"
+  },
+  {
+    "englishMeaning": "angry",
+    "thaiSpelling": "โกรธ",
+    "phonetic": "gròot",
+    "burmesePronunciation": "ဂရုတ်",
+    "exampleInThai": "เขา โกรธ มาก",
+    "exampleInPhonetic": "khao gròot mâak",
+    "exampleInEnglish": "He is very angry"
+  },
+  {
+    "englishMeaning": "hot",
+    "thaiSpelling": "ร้อน",
+    "phonetic": "ráawn",
+    "burmesePronunciation": "ရောန်",
+    "exampleInThai": "อากาศ ร้อน มาก",
+    "exampleInPhonetic": "aa-gàat ráawn mâak",
+    "exampleInEnglish": "The weather is very hot"
+  },
+  {
+    "englishMeaning": "cold",
+    "thaiSpelling": "หนาว",
+    "phonetic": "nǎao",
+    "burmesePronunciation": "နောင်",
+    "exampleInThai": "อากาศ หนาว",
+    "exampleInPhonetic": "nǎao aa-gàat",
+    "exampleInEnglish": "It’s cold"
+  },
+  {
+    "englishMeaning": "beautiful",
+    "thaiSpelling": "สวย",
+    "phonetic": "sǔuai",
+    "burmesePronunciation": "ဆွိုင်",
+    "exampleInThai": "ผู้หญิง คน นี้ สวย",
+    "exampleInPhonetic": "phûu-yǐng khon níi sǔuai",
+    "exampleInEnglish": "This woman is beautiful"
+  },
+  {
+    "englishMeaning": "big",
+    "thaiSpelling": "ใหญ่",
+    "phonetic": "yài",
+    "burmesePronunciation": "ယိုင်",
+    "exampleInThai": "บ้าน ใหญ่ มาก",
+    "exampleInPhonetic": "bâan yài mâak",
+    "exampleInEnglish": "The house is very big"
+  },
+  {
+    "englishMeaning": "small",
+    "thaiSpelling": "เล็ก",
+    "phonetic": "lék",
+    "burmesePronunciation": "လိတ်",
+    "exampleInThai": "บ้าน เล็ก",
+    "exampleInPhonetic": "bâan lék",
+    "exampleInEnglish": "A small house"
+  },
+  {
+    "englishMeaning": "good",
+    "thaiSpelling": "ดี",
+    "phonetic": "dii",
+    "burmesePronunciation": "ဒီ",
+    "exampleInThai": "คุณ ทำ ดี มาก",
+    "exampleInPhonetic": "khun tham dii mâak",
+    "exampleInEnglish": "You did well"
+  },
+  {
+    "englishMeaning": "bad",
+    "thaiSpelling": "ไม่ดี",
+    "phonetic": "mâi dii",
+    "burmesePronunciation": "မိုက်-ဒီ",
+    "exampleInThai": "เขา เป็น คน ไม่ดี",
+    "exampleInPhonetic": "khao bpen khon mâi dii",
+    "exampleInEnglish": "He is a bad person"
+  },
+  {
+    "englishMeaning": "new",
+    "thaiSpelling": "ใหม่",
+    "phonetic": "mài",
+    "burmesePronunciation": "မိုင်",
+    "exampleInThai": "เสื้อ ใหม่ สวย มาก",
+    "exampleInPhonetic": "sêuua mài sǔuai mâak",
+    "exampleInEnglish": "The new shirt is beautiful"
+  },
+  {
+    "englishMeaning": "old",
+    "thaiSpelling": "เก่า",
+    "phonetic": "gào",
+    "burmesePronunciation": "ဂေါ်",
+    "exampleInThai": "หนังสือ เล่ม เก่า",
+    "exampleInPhonetic": "năng-sǔe lêm gào",
+    "exampleInEnglish": "An old book"
+  },
+  {
+    "englishMeaning": "name",
+    "thaiSpelling": "ชื่อ",
+    "phonetic": "chûue",
+    "burmesePronunciation": "ချဿး",
+    "exampleInThai": "คุณ ชื่อ อะไร",
+    "exampleInPhonetic": "khun chûue a-rai",
+    "exampleInEnglish": "What is your name?"
+  },
+  {
+    "englishMeaning": "friend",
+    "thaiSpelling": "เพื่อน",
+    "phonetic": "phûuean",
+    "burmesePronunciation": "ဖွဉ်",
+    "exampleInThai": "เขา เป็น เพื่อน ของ ฉัน",
+    "exampleInPhonetic": "khao bpen phûuean khǎawng chan",
+    "exampleInEnglish": "He is my friend"
+  },
+  {
+    "englishMeaning": "family",
+    "thaiSpelling": "ครอบครัว",
+    "phonetic": "khrâawp-khrua",
+    "burmesePronunciation": "ခရော့-ခရူဝါ",
+    "exampleInThai": "ฉัน รัก ครอบครัว",
+    "exampleInPhonetic": "chan rák khrâawp-khrua",
+    "exampleInEnglish": "I love my family"
+  },
+  {
+    "englishMeaning": "house",
+    "thaiSpelling": "บ้าน",
+    "phonetic": "bâan",
+    "burmesePronunciation": "ဗန်း",
+    "exampleInThai": "บ้าน ของ ฉัน ใหญ่",
+    "exampleInPhonetic": "bâan khǎawng chan yài",
+    "exampleInEnglish": "My house is big"
+  },
+  {
+    "englishMeaning": "school",
+    "thaiSpelling": "โรงเรียน",
+    "phonetic": "roong-rian",
+    "burmesePronunciation": "ရုံ-ရိန်း",
+    "exampleInThai": "เด็ก ไป โรงเรียน",
+    "exampleInPhonetic": "dèk bpai roong-rian",
+    "exampleInEnglish": "Children go to school"
+  },
+  {
+    "englishMeaning": "work",
+    "thaiSpelling": "งาน",
+    "phonetic": "ngaan",
+    "burmesePronunciation": "ငန်း",
+    "exampleInThai": "ฉัน มี งาน เยอะ",
+    "exampleInPhonetic": "chan mii ngaan yóe",
+    "exampleInEnglish": "I have a lot of work"
+  },
+  {
+    "englishMeaning": "job",
+    "thaiSpelling": "อาชีพ",
+    "phonetic": "aa-chîip",
+    "burmesePronunciation": "အာ-ချိပ်",
+    "exampleInThai": "อาชีพ ของ เขา คือ หมอ",
+    "exampleInPhonetic": "aa-chîip khǎawng khao khue maaw",
+    "exampleInEnglish": "His job is a doctor"
+  },
+  {
+    "englishMeaning": "money",
+    "thaiSpelling": "เงิน",
+    "phonetic": "ngoen",
+    "burmesePronunciation": "ငွေ",
+    "exampleInThai": "ฉัน มี เงิน ไม่ พอ",
+    "exampleInPhonetic": "chan mii ngoen mâi phaaw",
+    "exampleInEnglish": "I don’t have enough money"
+  },
+  {
+    "englishMeaning": "market",
+    "thaiSpelling": "ตลาด",
+    "phonetic": "dta-làat",
+    "burmesePronunciation": "တလာတ်",
+    "exampleInThai": "เรา ไป ตลาด กัน",
+    "exampleInPhonetic": "rao bpai dta-làat gan",
+    "exampleInEnglish": "Let’s go to the market"
+  },
+  {
+    "englishMeaning": "shop",
+    "thaiSpelling": "ร้านค้า",
+    "phonetic": "ráan-kháa",
+    "burmesePronunciation": "ရမ်း-ခါး",
+    "exampleInThai": "ร้านค้า เปิด แล้ว",
+    "exampleInPhonetic": "ráan-kháa bpòoet láew",
+    "exampleInEnglish": "The shop is open"
+  },
+  {
+    "englishMeaning": "food",
+    "thaiSpelling": "อาหาร",
+    "phonetic": "aa-hǎan",
+    "burmesePronunciation": "အာဟန်",
+    "exampleInThai": "อาหาร นี้ อร่อย มาก",
+    "exampleInPhonetic": "aa-hǎan níi a-ràwy mâak",
+    "exampleInEnglish": "This food is delicious"
+  },
+  {
+    "englishMeaning": "water",
+    "thaiSpelling": "น้ำ",
+    "phonetic": "nám",
+    "burmesePronunciation": "နမ်း",
+    "exampleInThai": "ขอ น้ำ หน่อย",
+    "exampleInPhonetic": "khǎaw nám nàwy",
+    "exampleInEnglish": "Can I have some water?"
+  },
+  {
+    "englishMeaning": "rice",
+    "thaiSpelling": "ข้าว",
+    "phonetic": "khâao",
+    "burmesePronunciation": "ခေါ",
+    "exampleInThai": "ฉัน กิน ข้าว อยู่",
+    "exampleInPhonetic": "chan gin khâao yùu",
+    "exampleInEnglish": "I'm eating rice"
+  },
+  {
+    "englishMeaning": "fruit",
+    "thaiSpelling": "ผลไม้",
+    "phonetic": "phǒn-lá-máai",
+    "burmesePronunciation": "ဖုန်-လ-မိုင်",
+    "exampleInThai": "ผลไม้ นี้ หวาน",
+    "exampleInPhonetic": "phǒn-lá-máai níi wǎan",
+    "exampleInEnglish": "This fruit is sweet"
+  },
+  {
+    "englishMeaning": "vegetable",
+    "thaiSpelling": "ผัก",
+    "phonetic": "phàk",
+    "burmesePronunciation": "ဖတ်",
+    "exampleInThai": "แม่ ซื้อ ผัก มา",
+    "exampleInPhonetic": "mâe súue phàk maa",
+    "exampleInEnglish": "Mom bought vegetables"
+  },
+  {
+    "englishMeaning": "car",
+    "thaiSpelling": "รถ",
+    "phonetic": "rót",
+    "burmesePronunciation": "ရပ်",
+    "exampleInThai": "ฉัน มี รถ ใหม่",
+    "exampleInPhonetic": "chan mii rót mài",
+    "exampleInEnglish": "I have a new car"
+  },
+  {
+    "englishMeaning": "motorbike",
+    "thaiSpelling": "รถจักรยานยนต์",
+    "phonetic": "rót jàk-gra-yaan-yon",
+    "burmesePronunciation": "ရပ်-ဂျက်",
+    "exampleInThai": "เขา ขี่ รถจักรยานยนต์",
+    "exampleInPhonetic": "khao khìi rót jàk-gra-yaan-yon",
+    "exampleInEnglish": "He rides a motorbike"
+  },
+  {
+    "englishMeaning": "road",
+    "thaiSpelling": "ถนน",
+    "phonetic": "thà-nǒn",
+    "burmesePronunciation": "သနုန်",
+    "exampleInThai": "ถนน นี้ แคบ มาก",
+    "exampleInPhonetic": "thà-nǒn níi khâep mâak",
+    "exampleInEnglish": "This road is very narrow"
+  },
+  {
+    "englishMeaning": "room",
+    "thaiSpelling": "ห้อง",
+    "phonetic": "hâawng",
+    "burmesePronunciation": "ဟောင်း",
+    "exampleInThai": "ห้อง นี้ สะอาด",
+    "exampleInPhonetic": "hâawng níi sà-àat",
+    "exampleInEnglish": "This room is clean"
+  },
+  {
+    "englishMeaning": "door",
+    "thaiSpelling": "ประตู",
+    "phonetic": "bprà-dtuu",
+    "burmesePronunciation": "ပရတူ",
+    "exampleInThai": "ปิด ประตู ด้วย",
+    "exampleInPhonetic": "bpìt bprà-dtuu dûay",
+    "exampleInEnglish": "Please close the door"
+  },
+  {
+    "englishMeaning": "window",
+    "thaiSpelling": "หน้าต่าง",
+    "phonetic": "nâa-dtàang",
+    "burmesePronunciation": "နာတာန်",
+    "exampleInThai": "เปิด หน้าต่าง",
+    "exampleInPhonetic": "bpòoet nâa-dtàang",
+    "exampleInEnglish": "Open the window"
+  },
+  {
+    "englishMeaning": "bed",
+    "thaiSpelling": "เตียง",
+    "phonetic": "dtiiang",
+    "burmesePronunciation": "တီယံ",
+    "exampleInThai": "ฉัน นอน บน เตียง",
+    "exampleInPhonetic": "chan naawn bon dtiiang",
+    "exampleInEnglish": "I sleep on the bed"
+  },
+  {
+    "englishMeaning": "chair",
+    "thaiSpelling": "เก้าอี้",
+    "phonetic": "gâo-îi",
+    "burmesePronunciation": "ကေအို-အီး",
+    "exampleInThai": "นั่ง บน เก้าอี้",
+    "exampleInPhonetic": "nâng bon gâo-îi",
+    "exampleInEnglish": "Sit on the chair"
+  },
+  {
+    "englishMeaning": "table",
+    "thaiSpelling": "โต๊ะ",
+    "phonetic": "dtó",
+    "burmesePronunciation": "တို့",
+    "exampleInThai": "ของ อยู่ บน โต๊ะ",
+    "exampleInPhonetic": "khǎawng yùu bon dtó",
+    "exampleInEnglish": "Things are on the table"
+  },
+  {
+    "englishMeaning": "phone",
+    "thaiSpelling": "โทรศัพท์",
+    "phonetic": "thoo-rá-sàp",
+    "burmesePronunciation": "ထိုးရစ်ဆပ်",
+    "exampleInThai": "ฉัน ใช้ โทรศัพท์ ทุกวัน",
+    "exampleInPhonetic": "chan chái thoo-rá-sàp thúk wan",
+    "exampleInEnglish": "I use phone every day"
+  },
+  {
+    "englishMeaning": "computer",
+    "thaiSpelling": "คอมพิวเตอร์",
+    "phonetic": "khawm-phiú-dtôe",
+    "burmesePronunciation": "ခမ်း-ဖျူး-တာ",
+    "exampleInThai": "ฉัน เล่น คอมพิวเตอร์ ทุกวัน",
+    "exampleInPhonetic": "chan lên khawm-phiú-dtôe thúk wan",
+    "exampleInEnglish": "I use computer every day"
+  },
+  {
+    "englishMeaning": "book",
+    "thaiSpelling": "หนังสือ",
+    "phonetic": "năng-sǔe",
+    "burmesePronunciation": "နင်း-ဆယ်",
+    "exampleInThai": "ฉัน อ่าน หนังสือ",
+    "exampleInPhonetic": "chan àan năng-sǔe",
+    "exampleInEnglish": "I read a book"
+  },
+  {
+    "englishMeaning": "pen",
+    "thaiSpelling": "ปากกา",
+    "phonetic": "bpàak-gaa",
+    "burmesePronunciation": "ပါက-ကာ",
+    "exampleInThai": "ฉัน มี ปากกา",
+    "exampleInPhonetic": "bpàak-gaa mii",
+    "exampleInEnglish": "I have a pen"
+  },
+  {
+    "englishMeaning": "shirt",
+    "thaiSpelling": "เสื้อ",
+    "phonetic": "sêuua",
+    "burmesePronunciation": "ဆယ်",
+    "exampleInThai": "ฉัน ซื้อ เสื้อ ใหม่",
+    "exampleInPhonetic": "chan súue sêuua mài",
+    "exampleInEnglish": "I bought a new shirt"
+  },
+  {
+    "englishMeaning": "pants",
+    "thaiSpelling": "กางเกง",
+    "phonetic": "gaang-geeng",
+    "burmesePronunciation": "ကန်-ကင်း",
+    "exampleInThai": "เขา ใส่ กางเกง ยีนส์",
+    "exampleInPhonetic": "khao sài gaang-geeng yiin",
+    "exampleInEnglish": "He wears jeans"
+  },
+  {
+    "englishMeaning": "shoes",
+    "thaiSpelling": "รองเท้า",
+    "phonetic": "raawng-tháao",
+    "burmesePronunciation": "ရောင်း-ထောင်း",
+    "exampleInThai": "ฉัน ใส่ รองเท้า ใหม่",
+    "exampleInPhonetic": "chan sài raawng-tháao mài",
+    "exampleInEnglish": "I wear new shoes"
+  },
+  {
+    "englishMeaning": "week",
+    "thaiSpelling": "สัปดาห์",
+    "phonetic": "sàp-daa",
+    "burmesePronunciation": "စပ်ဒါ",
+    "exampleInThai": "ฉัน ทำงาน ทุก สัปดาห์",
+    "exampleInPhonetic": "chan tham-ngaan thúk sàp-daa",
+    "exampleInEnglish": "I work every week"
+  },
+  {
+    "englishMeaning": "month",
+    "thaiSpelling": "เดือน",
+    "phonetic": "duuean",
+    "burmesePronunciation": "ဒွန်း",
+    "exampleInThai": "เขา มา ทุก เดือน",
+    "exampleInPhonetic": "khao maa thúk duuean",
+    "exampleInEnglish": "He comes every month"
+  },
+  {
+    "englishMeaning": "year",
+    "thaiSpelling": "ปี",
+    "phonetic": "bpii",
+    "burmesePronunciation": "ပီ",
+    "exampleInThai": "ฉัน อยู่ ที่นี่ หนึ่ง ปี แล้ว",
+    "exampleInPhonetic": "chan yùu thîi-nîi nèung bpii láew",
+    "exampleInEnglish": "I've been here one year"
+  },
+  {
+    "englishMeaning": "today",
+    "thaiSpelling": "วันนี้",
+    "phonetic": "wan-níi",
+    "burmesePronunciation": "ဝမ်-နီး",
+    "exampleInThai": "วันนี้ อากาศ ดี",
+    "exampleInPhonetic": "wan-níi aa-gàat dii",
+    "exampleInEnglish": "The weather is good today"
+  },
+  {
+    "englishMeaning": "yesterday",
+    "thaiSpelling": "เมื่อวาน",
+    "phonetic": "mêuua-waan",
+    "burmesePronunciation": "မူးဝမ်",
+    "exampleInThai": "เมื่อวาน ฉัน ไป ตลาด",
+    "exampleInPhonetic": "mêuua-waan chan bpai dta-làat",
+    "exampleInEnglish": "I went to the market yesterday"
+  },
+  {
+    "englishMeaning": "tomorrow",
+    "thaiSpelling": "พรุ่งนี้",
+    "phonetic": "phrûng-níi",
+    "burmesePronunciation": "ဖြုန်း-နီး",
+    "exampleInThai": "พรุ่งนี้ เรา จะ เดินทาง",
+    "exampleInPhonetic": "phrûng-níi rao ja dooen-thaang",
+    "exampleInEnglish": "We will travel tomorrow"
+  },
+  {
+    "englishMeaning": "morning",
+    "thaiSpelling": "เช้า",
+    "phonetic": "cháao",
+    "burmesePronunciation": "ခြေါ်",
+    "exampleInThai": "ฉัน ตื่น ตอน เช้า",
+    "exampleInPhonetic": "chan tùuen dtaawn cháao",
+    "exampleInEnglish": "I wake up in the morning"
+  },
+  {
+    "englishMeaning": "afternoon",
+    "thaiSpelling": "บ่าย",
+    "phonetic": "baài",
+    "burmesePronunciation": "ဘိုင်",
+    "exampleInThai": "ฉัน ทำงาน ตอน บ่าย",
+    "exampleInPhonetic": "chan tham-ngaan dtaawn baài",
+    "exampleInEnglish": "I work in the afternoon"
+  },
+  {
+    "englishMeaning": "evening",
+    "thaiSpelling": "เย็น",
+    "phonetic": "yen",
+    "burmesePronunciation": "ယင်း",
+    "exampleInThai": "ฉัน กลับ บ้าน ตอน เย็น",
+    "exampleInPhonetic": "chan glàp bâan dtaawn yen",
+    "exampleInEnglish": "I go home in the evening"
+  },
+  {
+    "englishMeaning": "night",
+    "thaiSpelling": "กลางคืน",
+    "phonetic": "glaang-khuuen",
+    "burmesePronunciation": "ကလန်-ခွန်း",
+    "exampleInThai": "ฉัน นอน ตอน กลางคืน",
+    "exampleInPhonetic": "chan naawn dtaawn glaang-khuuen",
+    "exampleInEnglish": "I sleep at night"
+  },
+  {
+    "englishMeaning": "now",
+    "thaiSpelling": "ตอนนี้",
+    "phonetic": "dtaawn-níi",
+    "burmesePronunciation": "တွန်-နီး",
+    "exampleInThai": "ตอนนี้ ฉัน ไม่ ว่าง",
+    "exampleInPhonetic": "dtaawn-níi chan mâi wâang",
+    "exampleInEnglish": "I am not free now"
+  },
+  {
+    "englishMeaning": "later",
+    "thaiSpelling": "ภายหลัง",
+    "phonetic": "phaai-lǎng",
+    "burmesePronunciation": "ဖိုင်-လန်",
+    "exampleInThai": "ฉัน จะ โทร หา เธอ ภายหลัง",
+    "exampleInPhonetic": "chan ja thoo hǎa thoe phaai-lǎng",
+    "exampleInEnglish": "I’ll call you later"
+  },
+  {
+    "englishMeaning": "early",
+    "thaiSpelling": "แต่เช้า",
+    "phonetic": "dtàae-cháao",
+    "burmesePronunciation": "တယ်-ခြေါ်",
+    "exampleInThai": "เขา มา แต่เช้า",
+    "exampleInPhonetic": "khao maa dtàae-cháao",
+    "exampleInEnglish": "He came early"
+  },
+  {
+    "englishMeaning": "late",
+    "thaiSpelling": "สาย",
+    "phonetic": "sǎai",
+    "burmesePronunciation": "စား",
+    "exampleInThai": "เขา มา สาย",
+    "exampleInPhonetic": "khao maa sǎai",
+    "exampleInEnglish": "He is late"
+  },
+  {
+    "englishMeaning": "always",
+    "thaiSpelling": "เสมอ",
+    "phonetic": "sà-mǒoe",
+    "burmesePronunciation": "စမော",
+    "exampleInThai": "ฉัน ไป วัด เสมอ",
+    "exampleInPhonetic": "chan bpai wát sà-mǒoe",
+    "exampleInEnglish": "I always go to temple"
+  },
+  {
+    "englishMeaning": "sometimes",
+    "thaiSpelling": "บางครั้ง",
+    "phonetic": "baang-khráng",
+    "burmesePronunciation": "ဘန်း-ခရန်",
+    "exampleInThai": "ฉัน บางครั้ง ก็ ลืม",
+    "exampleInPhonetic": "chan baang-khráng gâw luuem",
+    "exampleInEnglish": "Sometimes I forget"
+  },
+  {
+    "englishMeaning": "never",
+    "thaiSpelling": "ไม่เคย",
+    "phonetic": "mâi-khooei",
+    "burmesePronunciation": "မယ်-ခွယ်",
+    "exampleInThai": "ฉัน ไม่เคย ไป นั่น",
+    "exampleInPhonetic": "chan mâi-khooei bpai nân",
+    "exampleInEnglish": "I’ve never been there"
+  },
+  {
+    "englishMeaning": "again",
+    "thaiSpelling": "อีก",
+    "phonetic": "ìik",
+    "burmesePronunciation": "အိတ်",
+    "exampleInThai": "พูด อีก ครั้ง ได้ ไหม",
+    "exampleInPhonetic": "phût ìik khráng dâai mái",
+    "exampleInEnglish": "Can you say it again?"
+  },
+  {
+    "englishMeaning": "always",
+    "thaiSpelling": "ตลอดเวลา",
+    "phonetic": "dtà-làawt-way-laa",
+    "burmesePronunciation": "တလော့-ဝေလာ",
+    "exampleInThai": "ฉัน รัก เธอ ตลอดเวลา",
+    "exampleInPhonetic": "chan rák thoe dtà-làawt-way-laa",
+    "exampleInEnglish": "I love you all the time"
+  },
+  {
+    "englishMeaning": "soon",
+    "thaiSpelling": "เร็วๆ นี้",
+    "phonetic": "reo reo níi",
+    "burmesePronunciation": "ရယ်-ရယ်-နီး",
+    "exampleInThai": "เขา จะ มา เร็วๆ นี้",
+    "exampleInPhonetic": "khao ja maa reo reo níi",
+    "exampleInEnglish": "He will come soon"
+  },
+  {
+    "englishMeaning": "wait a moment",
+    "thaiSpelling": "รอสักครู่",
+    "phonetic": "raaw sàk khrûu",
+    "burmesePronunciation": "ရော်-ဆတ်-ခူး",
+    "exampleInThai": "รอสักครู่ นะครับ",
+    "exampleInPhonetic": "raaw sàk khrûu ná khráp",
+    "exampleInEnglish": "Please wait a moment"
+  },
+  {
+    "englishMeaning": "right now",
+    "thaiSpelling": "เดี๋ยวนี้",
+    "phonetic": "dǐiao-níi",
+    "burmesePronunciation": "ဒျယ်-နီး",
+    "exampleInThai": "ฉัน ต้อง ไป เดี๋ยวนี้",
+    "exampleInPhonetic": "chan dtâawng bpai dǐiao-níi",
+    "exampleInEnglish": "I must go right now"
+  },
+  {
+    "englishMeaning": "later on",
+    "thaiSpelling": "ต่อไป",
+    "phonetic": "dtàaw-bpai",
+    "burmesePronunciation": "တော်-ပိုင်",
+    "exampleInThai": "เราจะ พูด ต่อไป",
+    "exampleInPhonetic": "rao ja phût dtàaw-bpai",
+    "exampleInEnglish": "We will speak later"
+  },
+  {
+    "englishMeaning": "left (direction)",
+    "thaiSpelling": "ซ้าย",
+    "phonetic": "sáai",
+    "burmesePronunciation": "စိုင်း",
+    "exampleInThai": "เลี้ยว ซ้าย ที่ มุม นั้น",
+    "exampleInPhonetic": "líew sáai thîi mum nán",
+    "exampleInEnglish": "Turn left at that corner"
+  },
+  {
+    "englishMeaning": "right (direction)",
+    "thaiSpelling": "ขวา",
+    "phonetic": "khwǎa",
+    "burmesePronunciation": "ခွာ",
+    "exampleInThai": "ไป ทาง ขวา",
+    "exampleInPhonetic": "bpai thaang khwǎa",
+    "exampleInEnglish": "Go to the right"
+  },
+  {
+    "englishMeaning": "straight",
+    "thaiSpelling": "ตรง",
+    "phonetic": "dtrong",
+    "burmesePronunciation": "ဒရွန်",
+    "exampleInThai": "เดิน ตรง ไป",
+    "exampleInPhonetic": "dooen dtrong bpai",
+    "exampleInEnglish": "Walk straight ahead"
+  },
+  {
+    "englishMeaning": "near",
+    "thaiSpelling": "ใกล้",
+    "phonetic": "glâi",
+    "burmesePronunciation": "ကိုလေး",
+    "exampleInThai": "บ้าน อยู่ ใกล้ โรงเรียน",
+    "exampleInPhonetic": "bâan yùu glâi roong-rian",
+    "exampleInEnglish": "The house is near the school"
+  },
+  {
+    "englishMeaning": "far",
+    "thaiSpelling": "ไกล",
+    "phonetic": "glai",
+    "burmesePronunciation": "ကိုလိုင်",
+    "exampleInThai": "ที่ทำงาน อยู่ ไกล",
+    "exampleInPhonetic": "thîi-tham-ngaan yùu glai",
+    "exampleInEnglish": "The office is far"
+  },
+  {
+    "englishMeaning": "inside",
+    "thaiSpelling": "ข้างใน",
+    "phonetic": "kâang-nai",
+    "burmesePronunciation": "ခါန်-နိုင်",
+    "exampleInThai": "ข้างใน มี ของ",
+    "exampleInPhonetic": "kâang-nai mii khǎawng",
+    "exampleInEnglish": "There are things inside"
+  },
+  {
+    "englishMeaning": "outside",
+    "thaiSpelling": "ข้างนอก",
+    "phonetic": "kâang-nâawk",
+    "burmesePronunciation": "ခါန်-နော့",
+    "exampleInThai": "อย่า ออก ไป ข้างนอก",
+    "exampleInPhonetic": "yàa àawk bpai kâang-nâawk",
+    "exampleInEnglish": "Don’t go outside"
+  },
+  {
+    "englishMeaning": "above",
+    "thaiSpelling": "ข้างบน",
+    "phonetic": "kâang-bon",
+    "burmesePronunciation": "ခါန်-ဘုံ",
+    "exampleInThai": "หนังสือ อยู่ ข้างบน",
+    "exampleInPhonetic": "năng-sǔe yùu kâang-bon",
+    "exampleInEnglish": "The book is above"
+  },
+  {
+    "englishMeaning": "below",
+    "thaiSpelling": "ข้างล่าง",
+    "phonetic": "kâang-lâang",
+    "burmesePronunciation": "ခါန်-လောင်း",
+    "exampleInThai": "รองเท้า อยู่ ข้างล่าง",
+    "exampleInPhonetic": "raawng-tháao yùu kâang-lâang",
+    "exampleInEnglish": "Shoes are below"
+  },
+  {
+    "englishMeaning": "nearby",
+    "thaiSpelling": "ใกล้ๆ",
+    "phonetic": "glâi glâi",
+    "burmesePronunciation": "ကိုလိုင်-ကိုလိုင်",
+    "exampleInThai": "ร้าน อยู่ ใกล้ๆ บ้าน",
+    "exampleInPhonetic": "ráan yùu glâi glâi bâan",
+    "exampleInEnglish": "The shop is near the house"
+  },
+  {
+    "englishMeaning": "together",
+    "thaiSpelling": "ด้วยกัน",
+    "phonetic": "dûuay-gan",
+    "burmesePronunciation": "ဒူး-ယံ",
+    "exampleInThai": "เรา ไป ด้วยกัน",
+    "exampleInPhonetic": "rao bpai dûuay-gan",
+    "exampleInEnglish": "We go together"
+  },
+  {
+    "englishMeaning": "alone",
+    "thaiSpelling": "คนเดียว",
+    "phonetic": "khon-diao",
+    "burmesePronunciation": "ခွန်-ဒီယော်",
+    "exampleInThai": "เขา มา คนเดียว",
+    "exampleInPhonetic": "khao maa khon-diao",
+    "exampleInEnglish": "He came alone"
+  },
+  {
+    "englishMeaning": "everybody",
+    "thaiSpelling": "ทุกคน",
+    "phonetic": "thúk-khon",
+    "burmesePronunciation": "သူ့-ခွန်",
+    "exampleInThai": "ทุกคน พร้อม แล้ว",
+    "exampleInPhonetic": "thúk-khon phráawm láew",
+    "exampleInEnglish": "Everyone is ready"
+  },
+  {
+    "englishMeaning": "everything",
+    "thaiSpelling": "ทุกอย่าง",
+    "phonetic": "thúk-yàang",
+    "burmesePronunciation": "သူ့-ယန်း",
+    "exampleInThai": "ฉัน ชอบ ทุกอย่าง",
+    "exampleInPhonetic": "chan châawp thúk-yàang",
+    "exampleInEnglish": "I like everything"
+  },
+  {
+    "englishMeaning": "nothing",
+    "thaiSpelling": "ไม่มี อะไร",
+    "phonetic": "mâi mii a-rai",
+    "burmesePronunciation": "မယ်-မီ-အရာ",
+    "exampleInThai": "ไม่มี อะไร อยู่ ตรงนั้น",
+    "exampleInPhonetic": "mâi mii a-rai yùu dtrong-nán",
+    "exampleInEnglish": "There’s nothing there"
+  },
+  {
+    "englishMeaning": "something",
+    "thaiSpelling": "บางอย่าง",
+    "phonetic": "baang-yàang",
+    "burmesePronunciation": "ဘာန်-ယန်း",
+    "exampleInThai": "ฉัน เห็น บางอย่าง แปลก",
+    "exampleInPhonetic": "chan hěn baang-yàang bplàaek",
+    "exampleInEnglish": "I saw something strange"
+  },
+  {
+    "englishMeaning": "anything",
+    "thaiSpelling": "อะไรก็ได้",
+    "phonetic": "a-rai gâw dâai",
+    "burmesePronunciation": "အရာ-ကော-ဒါး",
+    "exampleInThai": "กิน อะไรก็ได้",
+    "exampleInPhonetic": "gin a-rai gâw dâai",
+    "exampleInEnglish": "Anything is fine to eat"
+  },
+  {
+    "englishMeaning": "wait a moment",
+    "thaiSpelling": "รอสักครู่",
+    "phonetic": "raaw sàk khrûu",
+    "burmesePronunciation": "ရော်-ဆတ်-ခူး",
+    "exampleInThai": "รอสักครู่ นะครับ",
+    "exampleInPhonetic": "raaw sàk khrûu ná khráp",
+    "exampleInEnglish": "Please wait a moment"
+  },
+  {
+    "englishMeaning": "right now",
+    "thaiSpelling": "เดี๋ยวนี้",
+    "phonetic": "dǐiao-níi",
+    "burmesePronunciation": "ဒျယ်-နီး",
+    "exampleInThai": "ฉัน ต้อง ไป เดี๋ยวนี้",
+    "exampleInPhonetic": "chan dtâawng bpai dǐiao-níi",
+    "exampleInEnglish": "I must go right now"
+  },
+  {
+    "englishMeaning": "later on",
+    "thaiSpelling": "ต่อไป",
+    "phonetic": "dtàaw-bpai",
+    "burmesePronunciation": "တော်-ပိုင်",
+    "exampleInThai": "เราจะ พูด ต่อไป",
+    "exampleInPhonetic": "rao ja phût dtàaw-bpai",
+    "exampleInEnglish": "We will speak later"
+  },
+  {
+    "englishMeaning": "left (direction)",
+    "thaiSpelling": "ซ้าย",
+    "phonetic": "sáai",
+    "burmesePronunciation": "စိုင်း",
+    "exampleInThai": "เลี้ยว ซ้าย ที่ มุม นั้น",
+    "exampleInPhonetic": "líew sáai thîi mum nán",
+    "exampleInEnglish": "Turn left at that corner"
+  },
+  {
+    "englishMeaning": "right (direction)",
+    "thaiSpelling": "ขวา",
+    "phonetic": "khwǎa",
+    "burmesePronunciation": "ခွာ",
+    "exampleInThai": "ไป ทาง ขวา",
+    "exampleInPhonetic": "bpai thaang khwǎa",
+    "exampleInEnglish": "Go to the right"
+  },
+  {
+    "englishMeaning": "straight",
+    "thaiSpelling": "ตรง",
+    "phonetic": "dtrong",
+    "burmesePronunciation": "ဒရွန်",
+    "exampleInThai": "เดิน ตรง ไป",
+    "exampleInPhonetic": "dooen dtrong bpai",
+    "exampleInEnglish": "Walk straight ahead"
+  },
+  {
+    "englishMeaning": "near",
+    "thaiSpelling": "ใกล้",
+    "phonetic": "glâi",
+    "burmesePronunciation": "ကိုလေး",
+    "exampleInThai": "บ้าน อยู่ ใกล้ โรงเรียน",
+    "exampleInPhonetic": "bâan yùu glâi roong-rian",
+    "exampleInEnglish": "The house is near the school"
+  },
+  {
+    "englishMeaning": "far",
+    "thaiSpelling": "ไกล",
+    "phonetic": "glai",
+    "burmesePronunciation": "ကိုလိုင်",
+    "exampleInThai": "ที่ทำงาน อยู่ ไกล",
+    "exampleInPhonetic": "thîi-tham-ngaan yùu glai",
+    "exampleInEnglish": "The office is far"
+  },
+  {
+    "englishMeaning": "inside",
+    "thaiSpelling": "ข้างใน",
+    "phonetic": "kâang-nai",
+    "burmesePronunciation": "ခါန်-နိုင်",
+    "exampleInThai": "ข้างใน มี ของ",
+    "exampleInPhonetic": "kâang-nai mii khǎawng",
+    "exampleInEnglish": "There are things inside"
+  },
+  {
+    "englishMeaning": "outside",
+    "thaiSpelling": "ข้างนอก",
+    "phonetic": "kâang-nâawk",
+    "burmesePronunciation": "ခါန်-နော့",
+    "exampleInThai": "อย่า ออก ไป ข้างนอก",
+    "exampleInPhonetic": "yàa àawk bpai kâang-nâawk",
+    "exampleInEnglish": "Don’t go outside"
+  },
+  {
+    "englishMeaning": "above",
+    "thaiSpelling": "ข้างบน",
+    "phonetic": "kâang-bon",
+    "burmesePronunciation": "ခါန်-ဘုံ",
+    "exampleInThai": "หนังสือ อยู่ ข้างบน",
+    "exampleInPhonetic": "năng-sǔe yùu kâang-bon",
+    "exampleInEnglish": "The book is above"
+  },
+  {
+    "englishMeaning": "below",
+    "thaiSpelling": "ข้างล่าง",
+    "phonetic": "kâang-lâang",
+    "burmesePronunciation": "ခါန်-လောင်း",
+    "exampleInThai": "รองเท้า อยู่ ข้างล่าง",
+    "exampleInPhonetic": "raawng-tháao yùu kâang-lâang",
+    "exampleInEnglish": "Shoes are below"
+  },
+  {
+    "englishMeaning": "nearby",
+    "thaiSpelling": "ใกล้ๆ",
+    "phonetic": "glâi glâi",
+    "burmesePronunciation": "ကိုလိုင်-ကိုလိုင်",
+    "exampleInThai": "ร้าน อยู่ ใกล้ๆ บ้าน",
+    "exampleInPhonetic": "ráan yùu glâi glâi bâan",
+    "exampleInEnglish": "The shop is near the house"
+  },
+  {
+    "englishMeaning": "together",
+    "thaiSpelling": "ด้วยกัน",
+    "phonetic": "dûuay-gan",
+    "burmesePronunciation": "ဒူး-ယံ",
+    "exampleInThai": "เรา ไป ด้วยกัน",
+    "exampleInPhonetic": "rao bpai dûuay-gan",
+    "exampleInEnglish": "We go together"
+  },
+  {
+    "englishMeaning": "alone",
+    "thaiSpelling": "คนเดียว",
+    "phonetic": "khon-diao",
+    "burmesePronunciation": "ခွန်-ဒီယော်",
+    "exampleInThai": "เขา มา คนเดียว",
+    "exampleInPhonetic": "khao maa khon-diao",
+    "exampleInEnglish": "He came alone"
+  },
+  {
+    "englishMeaning": "everybody",
+    "thaiSpelling": "ทุกคน",
+    "phonetic": "thúk-khon",
+    "burmesePronunciation": "သူ့-ခွန်",
+    "exampleInThai": "ทุกคน พร้อม แล้ว",
+    "exampleInPhonetic": "thúk-khon phráawm láew",
+    "exampleInEnglish": "Everyone is ready"
+  },
+  {
+    "englishMeaning": "everything",
+    "thaiSpelling": "ทุกอย่าง",
+    "phonetic": "thúk-yàang",
+    "burmesePronunciation": "သူ့-ယန်း",
+    "exampleInThai": "ฉัน ชอบ ทุกอย่าง",
+    "exampleInPhonetic": "chan châawp thúk-yàang",
+    "exampleInEnglish": "I like everything"
+  },
+  {
+    "englishMeaning": "nothing",
+    "thaiSpelling": "ไม่มี อะไร",
+    "phonetic": "mâi mii a-rai",
+    "burmesePronunciation": "မယ်-မီ-အရာ",
+    "exampleInThai": "ไม่มี อะไร อยู่ ตรงนั้น",
+    "exampleInPhonetic": "mâi mii a-rai yùu dtrong-nán",
+    "exampleInEnglish": "There’s nothing there"
+  },
+  {
+    "englishMeaning": "something",
+    "thaiSpelling": "บางอย่าง",
+    "phonetic": "baang-yàang",
+    "burmesePronunciation": "ဘာန်-ယန်း",
+    "exampleInThai": "ฉัน เห็น บางอย่าง แปลก",
+    "exampleInPhonetic": "chan hěn baang-yàang bplàaek",
+    "exampleInEnglish": "I saw something strange"
+  },
+  {
+    "englishMeaning": "anything",
+    "thaiSpelling": "อะไรก็ได้",
+    "phonetic": "a-rai gâw dâai",
+    "burmesePronunciation": "အရာ-ကော-ဒါး",
+    "exampleInThai": "กิน อะไรก็ได้",
+    "exampleInPhonetic": "gin a-rai gâw dâai",
+    "exampleInEnglish": "Anything is fine to eat"
+  },
+  {
+    "englishMeaning": "many",
+    "thaiSpelling": "มาก",
+    "phonetic": "mâak",
+    "burmesePronunciation": "မာတ်",
+    "exampleInThai": "คน มาก มาย",
+    "exampleInPhonetic": "khohn mâak maai",
+    "exampleInEnglish": "Many people"
+  },
+  {
+    "englishMeaning": "few",
+    "thaiSpelling": "น้อย",
+    "phonetic": "náawy",
+    "burmesePronunciation": "နွိုင်း",
+    "exampleInThai": "ของ เหลือ น้อย",
+    "exampleInPhonetic": "khǎawng lǔuea náawy",
+    "exampleInEnglish": "There is little left"
+  },
+  {
+    "englishMeaning": "all",
+    "thaiSpelling": "ทั้งหมด",
+    "phonetic": "tháng-mòt",
+    "burmesePronunciation": "ထံမုတ်",
+    "exampleInThai": "ฉัน ชอบ ทั้งหมด",
+    "exampleInPhonetic": "chan châawp tháng-mòt",
+    "exampleInEnglish": "I like them all"
+  },
+  {
+    "englishMeaning": "some",
+    "thaiSpelling": "บางคน",
+    "phonetic": "baang-khon",
+    "burmesePronunciation": "ဘမ်-ခွန်",
+    "exampleInThai": "บางคน ไม่ มา",
+    "exampleInPhonetic": "baang-khon mâi maa",
+    "exampleInEnglish": "Some people didn’t come"
+  },
+  {
+    "englishMeaning": "each",
+    "thaiSpelling": "แต่ละคน",
+    "phonetic": "dtàae-lá-khon",
+    "burmesePronunciation": "တယ်-လ-ခွန်",
+    "exampleInThai": "แต่ละคน มี งาน",
+    "exampleInPhonetic": "dtàae-lá-khon mii ngaan",
+    "exampleInEnglish": "Each person has work"
+  },
+  {
+    "englishMeaning": "other",
+    "thaiSpelling": "อื่นๆ",
+    "phonetic": "ùuen ùuen",
+    "burmesePronunciation": "ဥန်ဥန်",
+    "exampleInThai": "คน อื่น ไม่ รู้",
+    "exampleInPhonetic": "khohn ùuen mâi rúu",
+    "exampleInEnglish": "Other people don’t know"
+  },
+  {
+    "englishMeaning": "same",
+    "thaiSpelling": "เหมือนกัน",
+    "phonetic": "mǔuean-gan",
+    "burmesePronunciation": "မွန်-ဂန်",
+    "exampleInThai": "เรา คิด เหมือนกัน",
+    "exampleInPhonetic": "rao khít mǔuean-gan",
+    "exampleInEnglish": "We think the same"
+  },
+  {
+    "englishMeaning": "different",
+    "thaiSpelling": "ต่างกัน",
+    "phonetic": "dtàang-gan",
+    "burmesePronunciation": "တောင်း-ဂန်",
+    "exampleInThai": "ความเห็น ต่างกัน",
+    "exampleInPhonetic": "khwaam-hěn dtàang-gan",
+    "exampleInEnglish": "Different opinions"
+  },
+  {
+    "englishMeaning": "big",
+    "thaiSpelling": "ใหญ่",
+    "phonetic": "yài",
+    "burmesePronunciation": "ใหญ่",
+    "exampleInThai": "บ้าน ของ เขา ใหญ่ มาก",
+    "exampleInPhonetic": "bâan khǎawng khao yài mâak",
+    "exampleInEnglish": "His house is very big"
+  },
+  {
+    "englishMeaning": "small",
+    "thaiSpelling": "เล็ก",
+    "phonetic": "lék",
+    "burmesePronunciation": "လစ်",
+    "exampleInThai": "ห้อง นี้ เล็ก",
+    "exampleInPhonetic": "hâawng níi lék",
+    "exampleInEnglish": "This room is small"
+  },
+  {
+    "englishMeaning": "long",
+    "thaiSpelling": "ยาว",
+    "phonetic": "yaao",
+    "burmesePronunciation": "ရာဝ်",
+    "exampleInThai": "ผม ยาว",
+    "exampleInPhonetic": "yáao pǒm",
+    "exampleInEnglish": "Long hair"
+  },
+  {
+    "englishMeaning": "short",
+    "thaiSpelling": "สั้น",
+    "phonetic": "sân",
+    "burmesePronunciation": "စန်း",
+    "exampleInThai": "กางเกง สั้น มาก",
+    "exampleInPhonetic": "gaang-geeng sân mâak",
+    "exampleInEnglish": "The shorts are very short"
+  },
+  {
+    "englishMeaning": "hot",
+    "thaiSpelling": "ร้อน",
+    "phonetic": "ráawn",
+    "burmesePronunciation": "ရောင်း",
+    "exampleInThai": "อากาศ ร้อน",
+    "exampleInPhonetic": "ràawn aa-gàat",
+    "exampleInEnglish": "It’s hot"
+  },
+  {
+    "englishMeaning": "cold",
+    "thaiSpelling": "หนาว",
+    "phonetic": "nǎao",
+    "burmesePronunciation": "နော",
+    "exampleInThai": "อากาศ หนาว",
+    "exampleInPhonetic": "nǎao aa-gàat",
+    "exampleInEnglish": "It’s cold"
+  },
+  {
+    "englishMeaning": "fast",
+    "thaiSpelling": "เร็ว",
+    "phonetic": "reo",
+    "burmesePronunciation": "ရယ်",
+    "exampleInThai": "เขา วิ่ง เร็ว มาก",
+    "exampleInPhonetic": "khao wîng reo mâak",
+    "exampleInEnglish": "He runs very fast"
+  },
+  {
+    "englishMeaning": "slow",
+    "thaiSpelling": "ช้า",
+    "phonetic": "cháa",
+    "burmesePronunciation": "ခြား",
+    "exampleInThai": "พูด ช้า หน่อย",
+    "exampleInPhonetic": "phût cháa nàwy",
+    "exampleInEnglish": "Speak slowly please"
+  },
+  {
+    "englishMeaning": "easy",
+    "thaiSpelling": "ง่าย",
+    "phonetic": "ngâai",
+    "burmesePronunciation": "ငိုင်",
+    "exampleInThai": "แบบฝึก ง่าย",
+    "exampleInPhonetic": "baàp-fùek ngâai",
+    "exampleInEnglish": "The exercise is easy"
+  },
+  {
+    "englishMeaning": "difficult",
+    "thaiSpelling": "ยาก",
+    "phonetic": "yâak",
+    "burmesePronunciation": "ယတ်",
+    "exampleInThai": "คำถาม ยาก มาก",
+    "exampleInPhonetic": "kham-thǎam yâak mâak",
+    "exampleInEnglish": "The question is very hard"
+  },
+  {
+    "englishMeaning": "good",
+    "thaiSpelling": "ดี",
+    "phonetic": "dii",
+    "burmesePronunciation": "ဒီ",
+    "exampleInThai": "หนัง เรื่อง นี้ ดี มาก",
+    "exampleInPhonetic": "nǎng rûueang níi dii mâak",
+    "exampleInEnglish": "This movie is very good"
+  },
+  {
+    "englishMeaning": "bad",
+    "thaiSpelling": "แย่",
+    "phonetic": "yâae",
+    "burmesePronunciation": "ယဲ่",
+    "exampleInThai": "เขา ทำ ตัว แย่ มาก",
+    "exampleInPhonetic": "khao tham dtua yâae mâak",
+    "exampleInEnglish": "He behaves very badly"
+  },
+  {
+    "englishMeaning": "happy",
+    "thaiSpelling": "มีความสุข",
+    "phonetic": "mii khwaam sùk",
+    "burmesePronunciation": "မီ-ခွမ်-စုတ်",
+    "exampleInThai": "ฉัน มีความสุข มาก",
+    "exampleInPhonetic": "chan mii khwaam sùk mâak",
+    "exampleInEnglish": "I’m very happy"
+  },
+  {
+    "englishMeaning": "sad",
+    "thaiSpelling": "เศร้า",
+    "phonetic": "sâo",
+    "burmesePronunciation": "စော်",
+    "exampleInThai": "เขา ดู เศร้า มาก",
+    "exampleInPhonetic": "khao duu sâo mâak",
+    "exampleInEnglish": "He looks very sad"
+  },
+  {
+    "englishMeaning": "angry",
+    "thaiSpelling": "โกรธ",
+    "phonetic": "gròot",
+    "burmesePronunciation": "ဂရုတ်",
+    "exampleInThai": "อย่า โกรธ ฉัน",
+    "exampleInPhonetic": "yàa gròot chan",
+    "exampleInEnglish": "Don’t be angry at me"
+  },
+  {
+    "englishMeaning": "tired",
+    "thaiSpelling": "เหนื่อย",
+    "phonetic": "nùueai",
+    "burmesePronunciation": "နှွေး",
+    "exampleInThai": "ฉัน เหนื่อย มาก",
+    "exampleInPhonetic": "chan nùueai mâak",
+    "exampleInEnglish": "I’m very tired"
+  },
+  {
+    "englishMeaning": "hungry",
+    "thaiSpelling": "หิว",
+    "phonetic": "hǐu",
+    "burmesePronunciation": "ဟီဠု",
+    "exampleInThai": "ฉัน หิว ข้าว มาก",
+    "exampleInPhonetic": "chan hǐu khâao mâak",
+    "exampleInEnglish": "I’m very hungry"
+  },
+  {
+    "englishMeaning": "thirsty",
+    "thaiSpelling": "กระหายน้ำ",
+    "phonetic": "grà-hǎai nám",
+    "burmesePronunciation": "ဂရဟိုင်နမ်း",
+    "exampleInThai": "เขา กระหายน้ำ",
+    "exampleInPhonetic": "khao grà-hǎai nám",
+    "exampleInEnglish": "He is thirsty"
+  },
+  {
+    "englishMeaning": "sleepy",
+    "thaiSpelling": "ง่วง",
+    "phonetic": "nûuang",
+    "burmesePronunciation": "ငွုန်",
+    "exampleInThai": "ฉัน ง่วง แล้ว",
+    "exampleInPhonetic": "chan nûuang láew",
+    "exampleInEnglish": "I’m sleepy"
+  },
+  {
+    "englishMeaning": "sick",
+    "thaiSpelling": "ป่วย",
+    "phonetic": "bpùuai",
+    "burmesePronunciation": "ပွိုင်",
+    "exampleInThai": "เขา ป่วย",
+    "exampleInPhonetic": "khao bpùuai",
+    "exampleInEnglish": "He is sick"
+  },
+  {
+    "englishMeaning": "healthy",
+    "thaiSpelling": "แข็งแรง",
+    "phonetic": "khǎeng-raeng",
+    "burmesePronunciation": "ခန့်-ရန်",
+    "exampleInThai": "เธอ แข็งแรง มาก",
+    "exampleInPhonetic": "thoe khǎeng-raeng mâak",
+    "exampleInEnglish": "You are very healthy"
+  },
+  {
+    "englishMeaning": "beautiful",
+    "thaiSpelling": "สวย",
+    "phonetic": "sǔuai",
+    "burmesePronunciation": "ဆွိုင်",
+    "exampleInThai": "เธอ สวย มาก",
+    "exampleInPhonetic": "thoe sǔuai mâak",
+    "exampleInEnglish": "You are very beautiful"
+  },
+  {
+    "englishMeaning": "handsome",
+    "thaiSpelling": "หล่อ",
+    "phonetic": "làaw",
+    "burmesePronunciation": "လော်",
+    "exampleInThai": "เขา หล่อ",
+    "exampleInPhonetic": "làaw khao",
+    "exampleInEnglish": "He is handsome"
+  },
+  {
+    "englishMeaning": "clean",
+    "thaiSpelling": "สะอาด",
+    "phonetic": "sà-àat",
+    "burmesePronunciation": "သအတ်",
+    "exampleInThai": "ห้อง นี้ สะอาด",
+    "exampleInPhonetic": "hâawng níi sà-àat",
+    "exampleInEnglish": "This room is clean"
+  },
+  {
+    "englishMeaning": "dirty",
+    "thaiSpelling": "สกปรก",
+    "phonetic": "sòk-gà-bpròk",
+    "burmesePronunciation": "စောက်-က-ပရော့",
+    "exampleInThai": "โต๊ะ สกปรก มาก",
+    "exampleInPhonetic": "dtó sòk-gà-bpròk mâak",
+    "exampleInEnglish": "The table is very dirty"
+  },
+  {
+    "englishMeaning": "strong",
+    "thaiSpelling": "แข็งแรง",
+    "phonetic": "khǎeng-raeng",
+    "burmesePronunciation": "ခန့်-ရန်",
+    "exampleInThai": "เขา แข็งแรง มาก",
+    "exampleInPhonetic": "khao khǎeng-raeng mâak",
+    "exampleInEnglish": "He is very strong"
+  },
+  {
+    "englishMeaning": "weak",
+    "thaiSpelling": "อ่อนแอ",
+    "phonetic": "àawn-ae",
+    "burmesePronunciation": "အွန်အဲ",
+    "exampleInThai": "เขา ดู อ่อนแอ",
+    "exampleInPhonetic": "khao duu àawn-ae",
+    "exampleInEnglish": "He looks weak"
+  },
+  {
+    "englishMeaning": "rich",
+    "thaiSpelling": "รวย",
+    "phonetic": "ruuai",
+    "burmesePronunciation": "ရုွယ်",
+    "exampleInThai": "เขา รวย มาก",
+    "exampleInPhonetic": "khao ruuai mâak",
+    "exampleInEnglish": "He is very rich"
+  },
+  {
+    "englishMeaning": "poor",
+    "thaiSpelling": "จน",
+    "phonetic": "john",
+    "burmesePronunciation": "ဂျွန်",
+    "exampleInThai": "เขา จน แต่ ใจ ดี",
+    "exampleInPhonetic": "khao john dtàae jai dii",
+    "exampleInEnglish": "He is poor but kind"
+  },
+  {
+    "englishMeaning": "smart",
+    "thaiSpelling": "ฉลาด",
+    "phonetic": "chà-làat",
+    "burmesePronunciation": "ချလတ်",
+    "exampleInThai": "เธอ ฉลาด มาก",
+    "exampleInPhonetic": "thoe chà-làat mâak",
+    "exampleInEnglish": "She is very smart"
+  },
+  {
+    "englishMeaning": "stupid",
+    "thaiSpelling": "โง่",
+    "phonetic": "ngôo",
+    "burmesePronunciation": "ငိုး",
+    "exampleInThai": "อย่า โง่",
+    "exampleInPhonetic": "yàa ngôo",
+    "exampleInEnglish": "Don’t be stupid"
+  },
+  {
+    "englishMeaning": "important",
+    "thaiSpelling": "สำคัญ",
+    "phonetic": "sǎm-khan",
+    "burmesePronunciation": "ဆမ်းခန်",
+    "exampleInThai": "เรื่อง นี้ สำคัญ มาก",
+    "exampleInPhonetic": "rûueang níi sǎm-khan mâak",
+    "exampleInEnglish": "This is very important"
+  },
+  {
+    "englishMeaning": "interesting",
+    "thaiSpelling": "น่าสนใจ",
+    "phonetic": "nâa-sǒn-jai",
+    "burmesePronunciation": "နာ-ဆုံ-ဇိုင်",
+    "exampleInThai": "เรื่อง นี้ น่าสนใจ มาก",
+    "exampleInPhonetic": "rûueang níi nâa-sǒn-jai mâak",
+    "exampleInEnglish": "This topic is very interesting"
+  },
+  {
+    "englishMeaning": "boring",
+    "thaiSpelling": "น่าเบื่อ",
+    "phonetic": "nâa-bùuea",
+    "burmesePronunciation": "နာ-ဘူးယ",
+    "exampleInThai": "งาน นี้ น่าเบื่อ มาก",
+    "exampleInPhonetic": "ngaan níi nâa-bùuea mâak",
+    "exampleInEnglish": "This work is very boring"
+  },
+  {
+    "englishMeaning": "expensive",
+    "thaiSpelling": "แพง",
+    "phonetic": "phaaeng",
+    "burmesePronunciation": "ဖဲင်း",
+    "exampleInThai": "ของ นี้ แพง มาก",
+    "exampleInPhonetic": "khǎawng níi phaaeng mâak",
+    "exampleInEnglish": "This is very expensive"
+  },
+  {
+    "englishMeaning": "cheap",
+    "thaiSpelling": "ถูก",
+    "phonetic": "thùuk",
+    "burmesePronunciation": "ထုတ်",
+    "exampleInThai": "ของ นี้ ถูก มาก",
+    "exampleInPhonetic": "khǎawng níi thùuk mâak",
+    "exampleInEnglish": "This is very cheap"
+  },
+  {
+    "englishMeaning": "new",
+    "thaiSpelling": "ใหม่",
+    "phonetic": "mài",
+    "burmesePronunciation": "မိုင်",
+    "exampleInThai": "โทรศัพท์ เครื่อง ใหม่",
+    "exampleInPhonetic": "thoo-rá-sàp khrûueang mài",
+    "exampleInEnglish": "New phone"
+  },
+  {
+    "englishMeaning": "old",
+    "thaiSpelling": "เก่า",
+    "phonetic": "gào",
+    "burmesePronunciation": "ကော",
+    "exampleInThai": "เสื้อ ตัว เก่า",
+    "exampleInPhonetic": "sêuua dtua gào",
+    "exampleInEnglish": "Old shirt"
+  },
+  {
+    "englishMeaning": "correct",
+    "thaiSpelling": "ถูกต้อง",
+    "phonetic": "thùuk-dtâwng",
+    "burmesePronunciation": "ထုတ်-တောင်း",
+    "exampleInThai": "คำตอบ ถูกต้อง",
+    "exampleInPhonetic": "kham-dtàawp thùuk-dtâwng",
+    "exampleInEnglish": "The answer is correct"
+  },
+  {
+    "englishMeaning": "wrong",
+    "thaiSpelling": "ผิด",
+    "phonetic": "phìt",
+    "burmesePronunciation": "ဖစ်",
+    "exampleInThai": "เขา ตอบ ผิด",
+    "exampleInPhonetic": "khao dtàawp phìt",
+    "exampleInEnglish": "He answered wrong"
+  },
+  {
+    "englishMeaning": "open",
+    "thaiSpelling": "เปิด",
+    "phonetic": "bpòoet",
+    "burmesePronunciation": "ပုတ်",
+    "exampleInThai": "เปิด ประตู",
+    "exampleInPhonetic": "bpòoet bprà-dtuu",
+    "exampleInEnglish": "Open the door"
+  },
+  {
+    "englishMeaning": "close",
+    "thaiSpelling": "ปิด",
+    "phonetic": "bpìt",
+    "burmesePronunciation": "ပစ်",
+    "exampleInThai": "ปิด โทรศัพท์",
+    "exampleInPhonetic": "bpìt thoo-rá-sàp",
+    "exampleInEnglish": "Turn off the phone"
+  },
+  {
+    "englishMeaning": "start",
+    "thaiSpelling": "เริ่ม",
+    "phonetic": "rôoem",
+    "burmesePronunciation": "ရမ်း",
+    "exampleInThai": "เริ่ม ทำงาน ตอนนี้",
+    "exampleInPhonetic": "rôoem tham-ngaan dtaawn-níi",
+    "exampleInEnglish": "Start working now"
+  },
+  {
+    "englishMeaning": "stop",
+    "thaiSpelling": "หยุด",
+    "phonetic": "yùt",
+    "burmesePronunciation": "ယူတ်",
+    "exampleInThai": "หยุด เดี๋ยวนี้",
+    "exampleInPhonetic": "yùt dǐiao-níi",
+    "exampleInEnglish": "Stop right now"
+  },
+  {
+    "englishMeaning": "come",
+    "thaiSpelling": "มา",
+    "phonetic": "maa",
+    "burmesePronunciation": "မာ",
+    "exampleInThai": "เขา มา แล้ว",
+    "exampleInPhonetic": "khao maa láew",
+    "exampleInEnglish": "He came already"
+  },
+  {
+    "englishMeaning": "go",
+    "thaiSpelling": "ไป",
+    "phonetic": "bpai",
+    "burmesePronunciation": "ပိုင်",
+    "exampleInThai": "ฉัน จะ ไป ตอนนี้",
+    "exampleInPhonetic": "chan ja bpai dtaawn-níi",
+    "exampleInEnglish": "I’m going now"
+  },
+  {
+    "englishMeaning": "walk",
+    "thaiSpelling": "เดิน",
+    "phonetic": "dooen",
+    "burmesePronunciation": "ဒရင်း",
+    "exampleInThai": "เรา เดิน ไป โรงเรียน",
+    "exampleInPhonetic": "rao dooen bpai roong-rian",
+    "exampleInEnglish": "We walk to school"
+  },
+  {
+    "englishMeaning": "run",
+    "thaiSpelling": "วิ่ง",
+    "phonetic": "wîng",
+    "burmesePronunciation": "ဝင်း",
+    "exampleInThai": "เด็ก วิ่ง เร็ว มาก",
+    "exampleInPhonetic": "dèk wîng reo mâak",
+    "exampleInEnglish": "The child runs very fast"
+  },
+  {
+    "englishMeaning": "sit",
+    "thaiSpelling": "นั่ง",
+    "phonetic": "nâng",
+    "burmesePronunciation": "နင်း",
+    "exampleInThai": "นั่ง บน เก้าอี้",
+    "exampleInPhonetic": "nâng bon gâo-îi",
+    "exampleInEnglish": "Sit on the chair"
+  },
+  {
+    "englishMeaning": "stand",
+    "thaiSpelling": "ยืน",
+    "phonetic": "yuuun",
+    "burmesePronunciation": "ယူန်",
+    "exampleInThai": "ยืน ตรง นี้",
+    "exampleInPhonetic": "yuuun dtrong níi",
+    "exampleInEnglish": "Stand here"
+  },
+  {
+    "englishMeaning": "see",
+    "thaiSpelling": "เห็น",
+    "phonetic": "hěn",
+    "burmesePronunciation": "ဟန်",
+    "exampleInThai": "ฉัน เห็น เธอ",
+    "exampleInPhonetic": "chan hěn thoe",
+    "exampleInEnglish": "I see you"
+  },
+  {
+    "englishMeaning": "look",
+    "thaiSpelling": "มอง",
+    "phonetic": "maawng",
+    "burmesePronunciation": "မောင်",
+    "exampleInThai": "มอง ไป ข้างหน้า",
+    "exampleInPhonetic": "maawng bpai khâang-nâa",
+    "exampleInEnglish": "Look forward"
+  },
+  {
+    "englishMeaning": "water",
+    "thaiSpelling": "น้ำ",
+    "phonetic": "nám",
+    "burmesePronunciation": "နမ်",
+    "exampleInThai": "น้ำ ดื่ม สะอาด",
+    "exampleInPhonetic": "nám dùem sà-àat",
+    "exampleInEnglish": "Clean drinking water"
+  },
+  {
+    "englishMeaning": "food",
+    "thaiSpelling": "อาหาร",
+    "phonetic": "aa-hǎan",
+    "burmesePronunciation": "အာ-ဟာန်",
+    "exampleInThai": "อาหาร ไทย อร่อย",
+    "exampleInPhonetic": "aa-hǎan thai à-ròi",
+    "exampleInEnglish": "Thai food is delicious"
+  },
+  {
+    "englishMeaning": "rice",
+    "thaiSpelling": "ข้าว",
+    "phonetic": "khâao",
+    "burmesePronunciation": "ခေါ်",
+    "exampleInThai": "ข้าว สวย ขาว",
+    "exampleInPhonetic": "khâao sǔuai khǎao",
+    "exampleInEnglish": "The rice is beautiful and white"
+  },
+  {
+    "englishMeaning": "vegetable",
+    "thaiSpelling": "ผัก",
+    "phonetic": "pàk",
+    "burmesePronunciation": "ပတ်",
+    "exampleInThai": "ผัก สด ดี",
+    "exampleInPhonetic": "pàk sòt dii",
+    "exampleInEnglish": "The vegetable is fresh and good"
+  },
+  {
+    "englishMeaning": "fruit",
+    "thaiSpelling": "ผลไม้",
+    "phonetic": "phǒn-lá-máai",
+    "burmesePronunciation": "ဖုန်-လ-မိုင်",
+    "exampleInThai": "ผลไม้ หวาน",
+    "exampleInPhonetic": "phǒn-lá-máai wǎan",
+    "exampleInEnglish": "Fruit is sweet"
+  },
+  {
+    "englishMeaning": "meat",
+    "thaiSpelling": "เนื้อสัตว์",
+    "phonetic": "nʉ́a sàt",
+    "burmesePronunciation": "နွား-ဆတ်",
+    "exampleInThai": "เนื้อสัตว์ ใหม่",
+    "exampleInPhonetic": "nʉ́a sàt mài",
+    "exampleInEnglish": "Fresh meat"
+  },
+  {
+    "englishMeaning": "fish",
+    "thaiSpelling": "ปลา",
+    "phonetic": "bplaa",
+    "burmesePronunciation": "ဘလာ",
+    "exampleInThai": "ปลา ใน แม่น้ำ",
+    "exampleInPhonetic": "bplaa nai mâe-nám",
+    "exampleInEnglish": "Fish in the river"
+  },
+  {
+    "englishMeaning": "chicken",
+    "thaiSpelling": "ไก่",
+    "phonetic": "gài",
+    "burmesePronunciation": "ကိုယ်",
+    "exampleInThai": "ไก่ ย่าง อร่อย",
+    "exampleInPhonetic": "gài yâang à-ròi",
+    "exampleInEnglish": "Grilled chicken is delicious"
+  },
+  {
+    "englishMeaning": "egg",
+    "thaiSpelling": "ไข่",
+    "phonetic": "kài",
+    "burmesePronunciation": "ไข",
+    "exampleInThai": "ไข่ ต้ม สุก",
+    "exampleInPhonetic": "kài dtôm sùk",
+    "exampleInEnglish": "Boiled egg"
+  },
+  {
+    "englishMeaning": "milk",
+    "thaiSpelling": "นม",
+    "phonetic": "nom",
+    "burmesePronunciation": "နွမ်",
+    "exampleInThai": "นม สด",
+    "exampleInPhonetic": "nom sòt",
+    "exampleInEnglish": "Fresh milk"
+  },
+  {
+    "englishMeaning": "tea",
+    "thaiSpelling": "ชา",
+    "phonetic": "chaa",
+    "burmesePronunciation": "ဆာ",
+    "exampleInThai": "ชา ร้อน",
+    "exampleInPhonetic": "chaa rón",
+    "exampleInEnglish": "Hot tea"
+  },
+  {
+    "englishMeaning": "coffee",
+    "thaiSpelling": "กาแฟ",
+    "phonetic": "gaa-faae",
+    "burmesePronunciation": "ဂါ-ဖဲ",
+    "exampleInThai": "กาแฟ เย็น",
+    "exampleInPhonetic": "gaa-faae yen",
+    "exampleInEnglish": "Iced coffee"
+  },
+  {
+    "englishMeaning": "bread",
+    "thaiSpelling": "ขนมปัง",
+    "phonetic": "khà-nǒm bpang",
+    "burmesePronunciation": "ခနွမ်း-ပင်း",
+    "exampleInThai": "ขนมปัง นุ่ม",
+    "exampleInPhonetic": "khà-nǒm bpang nûm",
+    "exampleInEnglish": "Soft bread"
+  },
+  {
+    "englishMeaning": "sugar",
+    "thaiSpelling": "น้ำตาล",
+    "phonetic": "nám-dtaan",
+    "burmesePronunciation": "နမ်-တန်",
+    "exampleInThai": "น้ำตาล หวาน",
+    "exampleInPhonetic": "nám-dtaan wǎan",
+    "exampleInEnglish": "Sugar is sweet"
+  },
+  {
+    "englishMeaning": "salt",
+    "thaiSpelling": "เกลือ",
+    "phonetic": "glʉa",
+    "burmesePronunciation": "ဂလူး",
+    "exampleInThai": "เกลือ มาก ไป",
+    "exampleInPhonetic": "glʉa mâak bpai",
+    "exampleInEnglish": "Too much salt"
+  },
+  {
+    "englishMeaning": "pepper",
+    "thaiSpelling": "พริก",
+    "phonetic": "phrík",
+    "burmesePronunciation": "ဖရစ်",
+    "exampleInThai": "พริก เผ็ด",
+    "exampleInPhonetic": "phrík pèt",
+    "exampleInEnglish": "Spicy pepper"
+  },
+  {
+    "englishMeaning": "spicy",
+    "thaiSpelling": "เผ็ด",
+    "phonetic": "pèt",
+    "burmesePronunciation": "ပက်",
+    "exampleInThai": "อาหาร เผ็ด มาก",
+    "exampleInPhonetic": "aa-hǎan pèt mâak",
+    "exampleInEnglish": "The food is very spicy"
+  },
+  {
+    "englishMeaning": "sweet",
+    "thaiSpelling": "หวาน",
+    "phonetic": "wǎan",
+    "burmesePronunciation": "ဝမ်",
+    "exampleInThai": "น้ำหวาน หวาน มาก",
+    "exampleInPhonetic": "nám wǎan wǎan mâak",
+    "exampleInEnglish": "The syrup is very sweet"
+  },
+  {
+    "englishMeaning": "sour",
+    "thaiSpelling": "เปรี้ยว",
+    "phonetic": "bprîao",
+    "burmesePronunciation": "ဘရေော်",
+    "exampleInThai": "ผลไม้ เปรี้ยว",
+    "exampleInPhonetic": "phǒn-lá-máai bprîao",
+    "exampleInEnglish": "Fruit is sour"
+  },
+  {
+    "englishMeaning": "bitter",
+    "thaiSpelling": "ขม",
+    "phonetic": "kǒm",
+    "burmesePronunciation": "ခမ်",
+    "exampleInThai": "กาแฟ ขม มาก",
+    "exampleInPhonetic": "gaa-faae kǒm mâak",
+    "exampleInEnglish": "Coffee is very bitter"
+  },
+  {
+    "englishMeaning": "hot (temperature)",
+    "thaiSpelling": "ร้อน",
+    "phonetic": "ráawn",
+    "burmesePronunciation": "ရောင်း",
+    "exampleInThai": "น้ำ ร้อน",
+    "exampleInPhonetic": "rám nâm ráawn",
+    "exampleInEnglish": "Hot water"
+  },
+  {
+    "englishMeaning": "cold (temperature)",
+    "thaiSpelling": "เย็น",
+    "phonetic": "yen",
+    "burmesePronunciation": "ယိန်",
+    "exampleInThai": "น้ำ เย็น",
+    "exampleInPhonetic": "nám yen",
+    "exampleInEnglish": "Cold water"
+  },
+  {
+    "englishMeaning": "day",
+    "thaiSpelling": "วัน",
+    "phonetic": "wan",
+    "burmesePronunciation": "ဝမ်",
+    "exampleInThai": "วันนี้ อากาศ ดี",
+    "exampleInPhonetic": "wan-níi aa-gàat dii",
+    "exampleInEnglish": "Today the weather is good"
+  },
+  {
+    "englishMeaning": "night",
+    "thaiSpelling": "คืน",
+    "phonetic": "kʉʉn",
+    "burmesePronunciation": "ကွန်း",
+    "exampleInThai": "คืนนี้ หนาว",
+    "exampleInPhonetic": "kʉʉn-níi nǎao",
+    "exampleInEnglish": "Tonight is cold"
+  },
+  {
+    "englishMeaning": "morning",
+    "thaiSpelling": "เช้า",
+    "phonetic": "cháo",
+    "burmesePronunciation": "ချော",
+    "exampleInThai": "เช้า นี้ สดใส",
+    "exampleInPhonetic": "cháo níi sòt-sǎi",
+    "exampleInEnglish": "This morning is bright"
+  },
+  {
+    "englishMeaning": "afternoon",
+    "thaiSpelling": "บ่าย",
+    "phonetic": "bàai",
+    "burmesePronunciation": "ဗိုင်း",
+    "exampleInThai": "บ่าย นี้ ร้อน",
+    "exampleInPhonetic": "bàai níi rón",
+    "exampleInEnglish": "This afternoon is hot"
+  },
+  {
+    "englishMeaning": "evening",
+    "thaiSpelling": "เย็น",
+    "phonetic": "yen",
+    "burmesePronunciation": "ယိန်",
+    "exampleInThai": "เย็น นี้ สบาย",
+    "exampleInPhonetic": "yen níi sà-baai",
+    "exampleInEnglish": "This evening is comfortable"
+  },
+  {
+    "englishMeaning": "week",
+    "thaiSpelling": "สัปดาห์",
+    "phonetic": "sàp-daa",
+    "burmesePronunciation": "စပ်-တာ",
+    "exampleInThai": "สัปดาห์ หน้า",
+    "exampleInPhonetic": "sàp-daa nâa",
+    "exampleInEnglish": "Next week"
+  },
+  {
+    "englishMeaning": "month",
+    "thaiSpelling": "เดือน",
+    "phonetic": "dʉan",
+    "burmesePronunciation": "ဒွန်း",
+    "exampleInThai": "เดือน นี้ หนาว",
+    "exampleInPhonetic": "dʉan níi nǎao",
+    "exampleInEnglish": "This month is cold"
+  },
+  {
+    "englishMeaning": "year",
+    "thaiSpelling": "ปี",
+    "phonetic": "bpii",
+    "burmesePronunciation": "ပီ",
+    "exampleInThai": "ปี ใหม่ มา แล้ว",
+    "exampleInPhonetic": "bpii mài maa láew",
+    "exampleInEnglish": "The new year has come"
+  },
+  {
+    "englishMeaning": "today",
+    "thaiSpelling": "วันนี้",
+    "phonetic": "wan-níi",
+    "burmesePronunciation": "ဝမ်-နီ",
+    "exampleInThai": "วันนี้ ฝน ตก",
+    "exampleInPhonetic": "wan-níi fǒn dtòk",
+    "exampleInEnglish": "It rains today"
+  },
+  {
+    "englishMeaning": "yesterday",
+    "thaiSpelling": "เมื่อวานนี้",
+    "phonetic": "mʉ̂a-waan-níi",
+    "burmesePronunciation": "မြေ-ဝမ်း-နီ",
+    "exampleInThai": "เมื่อวานนี้ ฉัน ไป",
+    "exampleInPhonetic": "mʉ̂a-waan-níi chan bpai",
+    "exampleInEnglish": "I went yesterday"
+  },
+  {
+    "englishMeaning": "tomorrow",
+    "thaiSpelling": "พรุ่งนี้",
+    "phonetic": "phrûng-níi",
+    "burmesePronunciation": "ဖရုန်း-နီ",
+    "exampleInThai": "พรุ่งนี้ ฉัน จะ ไป",
+    "exampleInPhonetic": "phrûng-níi chan ja bpai",
+    "exampleInEnglish": "I will go tomorrow"
+  },
+  {
+    "englishMeaning": "now",
+    "thaiSpelling": "ตอนนี้",
+    "phonetic": "dtaawn-níi",
+    "burmesePronunciation": "တောင်း-နီ",
+    "exampleInThai": "ตอนนี้ ฉัน อยู่",
+    "exampleInPhonetic": "dtaawn-níi chan yùu",
+    "exampleInEnglish": "I am here now"
+  },
+  {
+    "englishMeaning": "before",
+    "thaiSpelling": "ก่อน",
+    "phonetic": "gòn",
+    "burmesePronunciation": "ဂွန်း",
+    "exampleInThai": "ก่อน ฉัน ไป",
+    "exampleInPhonetic": "gòn chan bpai",
+    "exampleInEnglish": "Before I go"
+  },
+  {
+    "englishMeaning": "after",
+    "thaiSpelling": "หลัง",
+    "phonetic": "lǎng",
+    "burmesePronunciation": "လောင်း",
+    "exampleInThai": "หลัง งาน",
+    "exampleInPhonetic": "lǎng ngaan",
+    "exampleInEnglish": "After the work"
+  },
+  {
+    "englishMeaning": "time",
+    "thaiSpelling": "เวลา",
+    "phonetic": "wee-laa",
+    "burmesePronunciation": "ဝီ-လာ",
+    "exampleInThai": "เวลา หมด แล้ว",
+    "exampleInPhonetic": "wee-laa mòt láew",
+    "exampleInEnglish": "Time is up"
+  },
+  {
+    "englishMeaning": "hour",
+    "thaiSpelling": "ชั่วโมง",
+    "phonetic": "chûa-moong",
+    "burmesePronunciation": "ချွတ်-မွန်",
+    "exampleInThai": "ชั่วโมง นี้",
+    "exampleInPhonetic": "chûa-moong níi",
+    "exampleInEnglish": "This hour"
+  },
+  {
+    "englishMeaning": "minute",
+    "thaiSpelling": "นาที",
+    "phonetic": "naa-thii",
+    "burmesePronunciation": "နား-သီ",
+    "exampleInThai": "นาที สุดท้าย",
+    "exampleInPhonetic": "naa-thii sùt-tháai",
+    "exampleInEnglish": "Last minute"
+  },
+  {
+    "englishMeaning": "second",
+    "thaiSpelling": "วินาที",
+    "phonetic": "wi-naa-thii",
+    "burmesePronunciation": "ဝိ-နား-သီ",
+    "exampleInThai": "วินาที ที่ เร็ว",
+    "exampleInPhonetic": "wi-naa-thii thîi reo",
+    "exampleInEnglish": "Fast second"
+  },
+  {
+    "englishMeaning": "number",
+    "thaiSpelling": "หมายเลข",
+    "phonetic": "mǎai-lék",
+    "burmesePronunciation": "မယ်-လက်",
+    "exampleInThai": "หมายเลข รถ",
+    "exampleInPhonetic": "mǎai-lék rót",
+    "exampleInEnglish": "Car number"
+  },
+  {
+    "englishMeaning": "money",
+    "thaiSpelling": "เงิน",
+    "phonetic": "ngern",
+    "burmesePronunciation": "ငွမ်",
+    "exampleInThai": "เงิน มาก",
+    "exampleInPhonetic": "ngern mâak",
+    "exampleInEnglish": "Much money"
+  },
+  {
+    "englishMeaning": "price",
+    "thaiSpelling": "ราคา",
+    "phonetic": "raa-khaa",
+    "burmesePronunciation": "ရာ-ခါ",
+    "exampleInThai": "ราคา สูง",
+    "exampleInPhonetic": "raa-khaa sǔung",
+    "exampleInEnglish": "High price"
+  },
+  {
+    "englishMeaning": "cheap",
+    "thaiSpelling": "ถูก",
+    "phonetic": "thùuk",
+    "burmesePronunciation": "ထုတ်",
+    "exampleInThai": "ถูก มาก",
+    "exampleInPhonetic": "thùuk mâak",
+    "exampleInEnglish": "Very cheap"
+  },
+  {
+    "englishMeaning": "expensive",
+    "thaiSpelling": "แพง",
+    "phonetic": "phaaeng",
+    "burmesePronunciation": "ဖဲင်း",
+    "exampleInThai": "แพง มาก",
+    "exampleInPhonetic": "phaaeng mâak",
+    "exampleInEnglish": "Very expensive"
+  },
+  {
+    "englishMeaning": "buy",
+    "thaiSpelling": "ซื้อ",
+    "phonetic": "sʉ́ʉ",
+    "burmesePronunciation": "ဆူး",
+    "exampleInThai": "ฉัน ซื้อ แล้ว",
+    "exampleInPhonetic": "chan sʉ́ʉ láew",
+    "exampleInEnglish": "I bought it"
+  },
+  {
+    "englishMeaning": "sell",
+    "thaiSpelling": "ขาย",
+    "phonetic": "khǎai",
+    "burmesePronunciation": "ခိုင်",
+    "exampleInThai": "ขาย ของ",
+    "exampleInPhonetic": "khǎai khǎawng",
+    "exampleInEnglish": "Sell things"
+  },
+  {
+    "englishMeaning": "pay",
+    "thaiSpelling": "จ่าย",
+    "phonetic": "jàai",
+    "burmesePronunciation": "ဂျိုင်",
+    "exampleInThai": "จ่าย เงิน",
+    "exampleInPhonetic": "jàai ngern",
+    "exampleInEnglish": "Pay money"
+  },
+  {
+    "englishMeaning": "give",
+    "thaiSpelling": "ให้",
+    "phonetic": "hâi",
+    "burmesePronunciation": "ဟိုင်",
+    "exampleInThai": "ให้ ของ",
+    "exampleInPhonetic": "hâi khǎawng",
+    "exampleInEnglish": "Give something"
+  },
+  {
+    "englishMeaning": "take",
+    "thaiSpelling": "เอา",
+    "phonetic": "ao",
+    "burmesePronunciation": "အို",
+    "exampleInThai": "เอา ไป",
+    "exampleInPhonetic": "ao bpai",
+    "exampleInEnglish": "Take it"
+  },
+  {
+    "englishMeaning": "find",
+    "thaiSpelling": "หา",
+    "phonetic": "hǎa",
+    "burmesePronunciation": "ဟာ",
+    "exampleInThai": "หา งาน",
+    "exampleInPhonetic": "hǎa ngaan",
+    "exampleInEnglish": "Find job"
+  },
+  {
+    "englishMeaning": "lose",
+    "thaiSpelling": "เสีย",
+    "phonetic": "sǐa",
+    "burmesePronunciation": "စီအာ",
+    "exampleInThai": "เสีย ของ",
+    "exampleInPhonetic": "sǐa khǎawng",
+    "exampleInEnglish": "Lose thing"
+  },
+  {
+    "englishMeaning": "know",
+    "thaiSpelling": "รู้",
+    "phonetic": "rúu",
+    "burmesePronunciation": "ရူ",
+    "exampleInThai": "ฉัน รู้",
+    "exampleInPhonetic": "chan rúu",
+    "exampleInEnglish": "I know"
+  },
+  {
+    "englishMeaning": "understand",
+    "thaiSpelling": "เข้าใจ",
+    "phonetic": "kâo-jai",
+    "burmesePronunciation": "ကိုး-ဇိုင်",
+    "exampleInThai": "เข้าใจ แล้ว",
+    "exampleInPhonetic": "kâo-jai láew",
+    "exampleInEnglish": "Understood"
+  },
+  {
+    "englishMeaning": "learn",
+    "thaiSpelling": "เรียน",
+    "phonetic": "riian",
+    "burmesePronunciation": "ရီအန်",
+    "exampleInThai": "เรียน ภาษา ไทย",
+    "exampleInPhonetic": "riian phaa-sǎa thai",
+    "exampleInEnglish": "Learn Thai language"
+  },
+  {
+    "englishMeaning": "teach",
+    "thaiSpelling": "สอน",
+    "phonetic": "sǎawn",
+    "burmesePronunciation": "စေါန်",
+    "exampleInThai": "สอน นักเรียน",
+    "exampleInPhonetic": "sǎawn nák-riian",
+    "exampleInEnglish": "Teach students"
+  },
+  {
+    "englishMeaning": "ask",
+    "thaiSpelling": "ถาม",
+    "phonetic": "thǎam",
+    "burmesePronunciation": "သာမ်",
+    "exampleInThai": "ถาม คำถาม",
+    "exampleInPhonetic": "thǎam kham-thǎam",
+    "exampleInEnglish": "Ask questions"
+  },
+  {
+    "englishMeaning": "answer",
+    "thaiSpelling": "ตอบ",
+    "phonetic": "dtòop",
+    "burmesePronunciation": "တုပ်",
+    "exampleInThai": "ตอบ คำถาม",
+    "exampleInPhonetic": "dtòop kham-thǎam",
+    "exampleInEnglish": "Answer questions"
+  },
+  {
+    "englishMeaning": "work",
+    "thaiSpelling": "ทำงาน",
+    "phonetic": "tham-ngaan",
+    "burmesePronunciation": "ထမ်-ငန်း",
+    "exampleInThai": "ทำงาน ทุกวัน",
+    "exampleInPhonetic": "tham-ngaan thúk wan",
+    "exampleInEnglish": "Work every day"
+  },
+  {
+    "englishMeaning": "job",
+    "thaiSpelling": "งาน",
+    "phonetic": "ngaan",
+    "burmesePronunciation": "ငန်း",
+    "exampleInThai": "งาน ใหม่",
+    "exampleInPhonetic": "ngaan mài",
+    "exampleInEnglish": "New job"
+  },
+  {
+    "englishMeaning": "office",
+    "thaiSpelling": "สำนักงาน",
+    "phonetic": "sǎm-nák-ngaan",
+    "burmesePronunciation": "စမ်-နတ်-ငန်း",
+    "exampleInThai": "สำนักงาน ใหญ่",
+    "exampleInPhonetic": "sǎm-nák-ngaan yài",
+    "exampleInEnglish": "Big office"
+  },
+  {
+    "englishMeaning": "school",
+    "thaiSpelling": "โรงเรียน",
+    "phonetic": "roong-riian",
+    "burmesePronunciation": "ရွုံး-ရီအန်",
+    "exampleInThai": "โรงเรียน นี้ ดี",
+    "exampleInPhonetic": "roong-riian níi dii",
+    "exampleInEnglish": "This school is good"
+  },
+  {
+    "englishMeaning": "teacher",
+    "thaiSpelling": "ครู",
+    "phonetic": "kruu",
+    "burmesePronunciation": "ခရူး",
+    "exampleInThai": "ครู ดี",
+    "exampleInPhonetic": "kruu dii",
+    "exampleInEnglish": "Good teacher"
+  },
+  {
+    "englishMeaning": "student",
+    "thaiSpelling": "นักเรียน",
+    "phonetic": "nák-riian",
+    "burmesePronunciation": "နက်-ရီအန်",
+    "exampleInThai": "นักเรียน ขยัน",
+    "exampleInPhonetic": "nák-riian khà-yan",
+    "exampleInEnglish": "Hardworking student"
+  },
+  {
+    "englishMeaning": "book",
+    "thaiSpelling": "หนังสือ",
+    "phonetic": "nǎng-sʉ̌ʉ",
+    "burmesePronunciation": "နင်း-ဆူး",
+    "exampleInThai": "หนังสือ ใหม่",
+    "exampleInPhonetic": "nǎng-sʉ̌ʉ mài",
+    "exampleInEnglish": "New book"
+  },
+  {
+    "englishMeaning": "pen",
+    "thaiSpelling": "ปากกา",
+    "phonetic": "bpaak-gaa",
+    "burmesePronunciation": "ပတ်-ကာ",
+    "exampleInThai": "ปากกา น้ำเงิน",
+    "exampleInPhonetic": "bpaak-gaa nám-ngern",
+    "exampleInEnglish": "Blue pen"
+  },
+  {
+    "englishMeaning": "paper",
+    "thaiSpelling": "กระดาษ",
+    "phonetic": "grà-dàat",
+    "burmesePronunciation": "ကရဒါတ်",
+    "exampleInThai": "กระดาษ ขาว",
+    "exampleInPhonetic": "grà-dàat khǎao",
+    "exampleInEnglish": "White paper"
+  },
+  {
+    "englishMeaning": "bag",
+    "thaiSpelling": "กระเป๋า",
+    "phonetic": "grà-bpǎo",
+    "burmesePronunciation": "ကရ-ပေါ်",
+    "exampleInThai": "กระเป๋า ใหม่",
+    "exampleInPhonetic": "grà-bpǎo mài",
+    "exampleInEnglish": "New bag"
+  },
+  {
+    "englishMeaning": "car",
+    "thaiSpelling": "รถ",
+    "phonetic": "rót",
+    "burmesePronunciation": "ရုတ်",
+    "exampleInThai": "รถ ใหม่",
+    "exampleInPhonetic": "rót mài",
+    "exampleInEnglish": "New car"
+  },
+  {
+    "englishMeaning": "bus",
+    "thaiSpelling": "รถเมล์",
+    "phonetic": "rót-may",
+    "burmesePronunciation": "ရုတ်-မေ",
+    "exampleInThai": "รถเมล์ มา แล้ว",
+    "exampleInPhonetic": "rót-may maa láew",
+    "exampleInEnglish": "Bus has arrived"
+  },
+  {
+    "englishMeaning": "train",
+    "thaiSpelling": "รถไฟ",
+    "phonetic": "rót-fai",
+    "burmesePronunciation": "ရုတ်-ဖိုက်",
+    "exampleInThai": "รถไฟ เร็ว",
+    "exampleInPhonetic": "rót-fai reo",
+    "exampleInEnglish": "Train is fast"
+  },
+  {
+    "englishMeaning": "airplane",
+    "thaiSpelling": "เครื่องบิน",
+    "phonetic": "khrûueang-bin",
+    "burmesePronunciation": "ခရွင်-บิน",
+    "exampleInThai": "เครื่องบิน บิน",
+    "exampleInPhonetic": "khrûueang-bin bin",
+    "exampleInEnglish": "Airplane flies"
+  },
+  {
+    "englishMeaning": "boat",
+    "thaiSpelling": "เรือ",
+    "phonetic": "rʉa",
+    "burmesePronunciation": "ရူ",
+    "exampleInThai": "เรือ ใหญ่",
+    "exampleInPhonetic": "rʉa yài",
+    "exampleInEnglish": "Big boat"
+  },
+  {
+    "englishMeaning": "bicycle",
+    "thaiSpelling": "จักรยาน",
+    "phonetic": "ják-grà-yaan",
+    "burmesePronunciation": "ဂတ်-ခရ-ယန်း",
+    "exampleInThai": "จักรยาน สีแดง",
+    "exampleInPhonetic": "jàk-grà-yaan sǐi daaeng",
+    "exampleInEnglish": "Red bicycle"
+  },
+  {
+    "englishMeaning": "walk",
+    "thaiSpelling": "เดิน",
+    "phonetic": "dooen",
+    "burmesePronunciation": "ဒရင်း",
+    "exampleInThai": "เดิน ไป โรงเรียน",
+    "exampleInPhonetic": "dooen bpai roong-rian",
+    "exampleInEnglish": "Walk to school"
+  },
+  {
+    "englishMeaning": "run",
+    "thaiSpelling": "วิ่ง",
+    "phonetic": "wîng",
+    "burmesePronunciation": "ဝင်း",
+    "exampleInThai": "เด็ก วิ่ง เร็ว",
+    "exampleInPhonetic": "dèk wîng reo",
+    "exampleInEnglish": "Child runs fast"
+  },
+  {
+    "englishMeaning": "sit",
+    "thaiSpelling": "นั่ง",
+    "phonetic": "nâng",
+    "burmesePronunciation": "နင်း",
+    "exampleInThai": "นั่ง บน เก้าอี้",
+    "exampleInPhonetic": "nâng bon gâo-îi",
+    "exampleInEnglish": "Sit on the chair"
+  },
+  {
+    "englishMeaning": "stand",
+    "thaiSpelling": "ยืน",
+    "phonetic": "yuuun",
+    "burmesePronunciation": "ယူန်",
+    "exampleInThai": "ยืน ตรง นี้",
+    "exampleInPhonetic": "yuuun dtrong níi",
+    "exampleInEnglish": "Stand here"
+  },
+  {
+    "englishMeaning": "sleep",
+    "thaiSpelling": "นอน",
+    "phonetic": "nawn",
+    "burmesePronunciation": "နွမ်း",
+    "exampleInThai": "นอน หลับ",
+    "exampleInPhonetic": "nawn làp",
+    "exampleInEnglish": "Sleep well"
+  },
+  {
+    "englishMeaning": "wake up",
+    "thaiSpelling": "ตื่น",
+    "phonetic": "dtʉ̀ʉn",
+    "burmesePronunciation": "တူးန်",
+    "exampleInThai": "ตื่น แล้ว",
+    "exampleInPhonetic": "dtʉ̀ʉn láew",
+    "exampleInEnglish": "Wake up already"
+  },
+  {
+    "englishMeaning": "friend",
+    "thaiSpelling": "เพื่อน",
+    "phonetic": "phûuean",
+    "burmesePronunciation": "ဖွီး-အွန်း",
+    "exampleInThai": "เพื่อน ดี",
+    "exampleInPhonetic": "phûuean dii",
+    "exampleInEnglish": "Good friend"
+  },
+  {
+    "englishMeaning": "family",
+    "thaiSpelling": "ครอบครัว",
+    "phonetic": "khrôp-khrua",
+    "burmesePronunciation": "ခရုပ်-ခရူ",
+    "exampleInThai": "ครอบครัว ใหญ่",
+    "exampleInPhonetic": "khrôp-khrua yài",
+    "exampleInEnglish": "Big family"
+  },
+  {
+    "englishMeaning": "mother",
+    "thaiSpelling": "แม่",
+    "phonetic": "mâe",
+    "burmesePronunciation": "မဲ",
+    "exampleInThai": "แม่ ทำ อาหาร",
+    "exampleInPhonetic": "mâe tham aa-hǎan",
+    "exampleInEnglish": "Mother cooks food"
+  },
+  {
+    "englishMeaning": "father",
+    "thaiSpelling": "พ่อ",
+    "phonetic": "pâaw",
+    "burmesePronunciation": "ဖေါ်",
+    "exampleInThai": "พ่อ ไป ทำงาน",
+    "exampleInPhonetic": "pâaw bpai tham-ngaan",
+    "exampleInEnglish": "Father goes to work"
+  },
+  {
+    "englishMeaning": "child",
+    "thaiSpelling": "เด็ก",
+    "phonetic": "dèk",
+    "burmesePronunciation": "ဒက်",
+    "exampleInThai": "เด็ก เล่น สนุก",
+    "exampleInPhonetic": "dèk lên sà-nùk",
+    "exampleInEnglish": "Child plays happily"
+  },
+  {
+    "englishMeaning": "baby",
+    "thaiSpelling": "ทารก",
+    "phonetic": "thaa-ròk",
+    "burmesePronunciation": "သာ-ရုတ်",
+    "exampleInThai": "ทารก นอน หลับ",
+    "exampleInPhonetic": "thaa-ròk nawn làp",
+    "exampleInEnglish": "Baby sleeps"
+  },
+  {
+    "englishMeaning": "man",
+    "thaiSpelling": "ผู้ชาย",
+    "phonetic": "phûu-chaai",
+    "burmesePronunciation": "ဖူး-ချိုင်",
+    "exampleInThai": "ผู้ชาย สูง",
+    "exampleInPhonetic": "phûu-chaai sǔung",
+    "exampleInEnglish": "Tall man"
+  },
+  {
+    "englishMeaning": "woman",
+    "thaiSpelling": "ผู้หญิง",
+    "phonetic": "phûu-yǐng",
+    "burmesePronunciation": "ဖူး-ရင်း",
+    "exampleInThai": "ผู้หญิง สวย",
+    "exampleInPhonetic": "phûu-yǐng sǔai",
+    "exampleInEnglish": "Beautiful woman"
+  },
+  {
+    "englishMeaning": "boy",
+    "thaiSpelling": "เด็กผู้ชาย",
+    "phonetic": "dèk phûu-chaai",
+    "burmesePronunciation": "ဒက် ဖူး-ချိုင်",
+    "exampleInThai": "เด็กผู้ชาย วิ่งเร็ว",
+    "exampleInPhonetic": "dèk phûu-chaai wîng reo",
+    "exampleInEnglish": "Boy runs fast"
+  },
+  {
+    "englishMeaning": "girl",
+    "thaiSpelling": "เด็กผู้หญิง",
+    "phonetic": "dèk phûu-yǐng",
+    "burmesePronunciation": "ဒက် ဖူး-ရင်း",
+    "exampleInThai": "เด็กผู้หญิง น่ารัก",
+    "exampleInPhonetic": "dèk phûu-yǐng nâa-rák",
+    "exampleInEnglish": "Cute girl"
+  },
+  {
+    "englishMeaning": "happy",
+    "thaiSpelling": "มีความสุข",
+    "phonetic": "mii kwaam sùk",
+    "burmesePronunciation": "မီး-ကွမ်-ဆွတ်",
+    "exampleInThai": "ฉัน มีความสุข",
+    "exampleInPhonetic": "chan mii kwaam sùk",
+    "exampleInEnglish": "I am happy"
+  },
+  {
+    "englishMeaning": "sad",
+    "thaiSpelling": "เศร้า",
+    "phonetic": "sâo",
+    "burmesePronunciation": "စေါ်",
+    "exampleInThai": "เขา รู้สึก เศร้า",
+    "exampleInPhonetic": "khǎo rúu-sùek sâo",
+    "exampleInEnglish": "He feels sad"
+  },
+  {
+    "englishMeaning": "angry",
+    "thaiSpelling": "โกรธ",
+    "phonetic": "gròot",
+    "burmesePronunciation": "ဂရုပ်",
+    "exampleInThai": "เขา โกรธ มาก",
+    "exampleInPhonetic": "khǎo gròot mâak",
+    "exampleInEnglish": "He is very angry"
+  },
+  {
+    "englishMeaning": "love",
+    "thaiSpelling": "รัก",
+    "phonetic": "rák",
+    "burmesePronunciation": "รัก",
+    "exampleInThai": "ฉัน รัก คุณ",
+    "exampleInPhonetic": "chan rák khun",
+    "exampleInEnglish": "I love you"
+  },
+  {
+    "englishMeaning": "hate",
+    "thaiSpelling": "เกลียด",
+    "phonetic": "glìat",
+    "burmesePronunciation": "ဂလိပ်",
+    "exampleInThai": "ฉัน เกลียด มัน",
+    "exampleInPhonetic": "chan glìat man",
+    "exampleInEnglish": "I hate it"
+  },
+  {
+    "englishMeaning": "big",
+    "thaiSpelling": "ใหญ่",
+    "phonetic": "yài",
+    "burmesePronunciation": "ရိုက်",
+    "exampleInThai": "บ้าน ใหญ่",
+    "exampleInPhonetic": "bâan yài",
+    "exampleInEnglish": "Big house"
+  },
+  {
+    "englishMeaning": "small",
+    "thaiSpelling": "เล็ก",
+    "phonetic": "lék",
+    "burmesePronunciation": "လက်",
+    "exampleInThai": "บ้าน เล็ก",
+    "exampleInPhonetic": "bâan lék",
+    "exampleInEnglish": "Small house"
+  },
+  {
+    "englishMeaning": "long",
+    "thaiSpelling": "ยาว",
+    "phonetic": "yaao",
+    "burmesePronunciation": "ရาว်",
+    "exampleInThai": "ถนน ยาว",
+    "exampleInPhonetic": "thanon yaao",
+    "exampleInEnglish": "Long road"
+  },
+  {
+    "englishMeaning": "short",
+    "thaiSpelling": "สั้น",
+    "phonetic": "sân",
+    "burmesePronunciation": "ဆန်",
+    "exampleInThai": "ผม สั้น",
+    "exampleInPhonetic": "phǒm sân",
+    "exampleInEnglish": "Short hair"
+  },
+  {
+    "englishMeaning": "fast",
+    "thaiSpelling": "เร็ว",
+    "phonetic": "reo",
+    "burmesePronunciation": "ရေ",
+    "exampleInThai": "รถ เร็ว",
+    "exampleInPhonetic": "rót reo",
+    "exampleInEnglish": "Fast car"
+  },
+  {
+    "englishMeaning": "slow",
+    "thaiSpelling": "ช้า",
+    "phonetic": "chaa",
+    "burmesePronunciation": "ချာ",
+    "exampleInThai": "รถ ช้า",
+    "exampleInPhonetic": "rót chaa",
+    "exampleInEnglish": "Slow car"
+  },
+  {
+    "englishMeaning": "new",
+    "thaiSpelling": "ใหม่",
+    "phonetic": "mài",
+    "burmesePronunciation": "မိုင်",
+    "exampleInThai": "ของ ใหม่",
+    "exampleInPhonetic": "khǎawng mài",
+    "exampleInEnglish": "New thing"
+  },
+  {
+    "englishMeaning": "old",
+    "thaiSpelling": "เก่า",
+    "phonetic": "gào",
+    "burmesePronunciation": "ဂေါ်",
+    "exampleInThai": "ของ เก่า",
+    "exampleInPhonetic": "khǎawng gào",
+    "exampleInEnglish": "Old thing"
+  },
+  {
+    "englishMeaning": "hot (weather)",
+    "thaiSpelling": "ร้อน",
+    "phonetic": "rón",
+    "burmesePronunciation": "ရုံ",
+    "exampleInThai": "อากาศ ร้อน",
+    "exampleInPhonetic": "aa-gàat rón",
+    "exampleInEnglish": "Hot weather"
+  },
+  {
+    "englishMeaning": "cold (weather)",
+    "thaiSpelling": "หนาว",
+    "phonetic": "nǎao",
+    "burmesePronunciation": "နာ",
+    "exampleInThai": "อากาศ หนาว",
+    "exampleInPhonetic": "aa-gàat nǎao",
+    "exampleInEnglish": "Cold weather"
+  },
+  {
+    "englishMeaning": "clean",
+    "thaiSpelling": "สะอาด",
+    "phonetic": "sà-àat",
+    "burmesePronunciation": "ဆ-အတ်",
+    "exampleInThai": "ห้อง สะอาด",
+    "exampleInPhonetic": "hông sà-àat",
+    "exampleInEnglish": "Clean room"
+  },
+  {
+    "englishMeaning": "dirty",
+    "thaiSpelling": "สกปรก",
+    "phonetic": "sòk-grà-bpòk",
+    "burmesePronunciation": "စောက်-ကရာ-ပေါက်",
+    "exampleInThai": "ถนน สกปรก",
+    "exampleInPhonetic": "thanon sòk-grà-bpòk",
+    "exampleInEnglish": "Dirty street"
+  },
+  {
+    "englishMeaning": "beautiful",
+    "thaiSpelling": "สวย",
+    "phonetic": "sǔai",
+    "burmesePronunciation": "စွယ်",
+    "exampleInThai": "ผู้หญิง สวย",
+    "exampleInPhonetic": "phûu-yǐng sǔai",
+    "exampleInEnglish": "Beautiful woman"
+  },
+  {
+    "englishMeaning": "ugly",
+    "thaiSpelling": "น่าเกลียด",
+    "phonetic": "nâa glìat",
+    "burmesePronunciation": "နာ-ဂလိပ်",
+    "exampleInThai": "บ้าน น่าเกลียด",
+    "exampleInPhonetic": "bâan nâa glìat",
+    "exampleInEnglish": "Ugly house"
+  },
+  {
+    "englishMeaning": "easy",
+    "thaiSpelling": "ง่าย",
+    "phonetic": "ngâai",
+    "burmesePronunciation": "ငယ်",
+    "exampleInThai": "งาน ง่าย",
+    "exampleInPhonetic": "ngaan ngâai",
+    "exampleInEnglish": "Easy work"
+  },
+  {
+    "englishMeaning": "difficult",
+    "thaiSpelling": "ยาก",
+    "phonetic": "yâak",
+    "burmesePronunciation": "ရတ်",
+    "exampleInThai": "งาน ยาก",
+    "exampleInPhonetic": "ngaan yâak",
+    "exampleInEnglish": "Difficult work"
+  },
+  {
+    "englishMeaning": "strong",
+    "thaiSpelling": "แข็งแรง",
+    "phonetic": "khǎeng-rɛɛng",
+    "burmesePronunciation": "ချင့်-ရေး",
+    "exampleInThai": "เขา แข็งแรง",
+    "exampleInPhonetic": "khǎo khǎeng-rɛɛng",
+    "exampleInEnglish": "He is strong"
+  },
+  {
+    "englishMeaning": "weak",
+    "thaiSpelling": "อ่อนแอ",
+    "phonetic": "ɔ̀ɔn-ɛɛ",
+    "burmesePronunciation": "အွန်း-အဲ",
+    "exampleInThai": "เขา อ่อนแอ",
+    "exampleInPhonetic": "khǎo ɔ̀ɔn-ɛɛ",
+    "exampleInEnglish": "He is weak"
+  },
+  {
+    "englishMeaning": "happy",
+    "thaiSpelling": "ดีใจ",
+    "phonetic": "dii-jai",
+    "burmesePronunciation": "ဒီ-ဇိုင်",
+    "exampleInThai": "ฉัน ดีใจ",
+    "exampleInPhonetic": "chan dii-jai",
+    "exampleInEnglish": "I'm glad"
+  },
+  {
+    "englishMeaning": "sad",
+    "thaiSpelling": "เสียใจ",
+    "phonetic": "sǐa-jai",
+    "burmesePronunciation": "စီအာ-ဇိုင်",
+    "exampleInThai": "เธอ เสียใจ",
+    "exampleInPhonetic": "thoe sǐa-jai",
+    "exampleInEnglish": "She is sad"
+  },
+  {
+    "englishMeaning": "hungry",
+    "thaiSpelling": "หิว",
+    "phonetic": "hǐw",
+    "burmesePronunciation": "ဟိူ",
+    "exampleInThai": "ฉัน หิว",
+    "exampleInPhonetic": "chan hǐw",
+    "exampleInEnglish": "I'm hungry"
+  },
+  {
+    "englishMeaning": "thirsty",
+    "thaiSpelling": "กระหาย",
+    "phonetic": "grà-hǎai",
+    "burmesePronunciation": "ကရ-ဟိုင်",
+    "exampleInThai": "ฉัน กระหาย",
+    "exampleInPhonetic": "chan grà-hǎai",
+    "exampleInEnglish": "I'm thirsty"
+  },
+  {
+    "englishMeaning": "tired",
+    "thaiSpelling": "เหนื่อย",
+    "phonetic": "nʉ̀ai",
+    "burmesePronunciation": "ငွေ",
+    "exampleInThai": "ฉัน เหนื่อย",
+    "exampleInPhonetic": "chan nʉ̀ai",
+    "exampleInEnglish": "I'm tired"
+  },
+  {
+    "englishMeaning": "sleepy",
+    "thaiSpelling": "ง่วง",
+    "phonetic": "ngûang",
+    "burmesePronunciation": "ငွေ",
+    "exampleInThai": "ฉัน ง่วง",
+    "exampleInPhonetic": "chan ngûang",
+    "exampleInEnglish": "I'm sleepy"
+  },
+  {
+    "englishMeaning": "dangerous",
+    "thaiSpelling": "อันตราย",
+    "phonetic": "an-dtaa-rai",
+    "burmesePronunciation": "အန်-တရာ်",
+    "exampleInThai": "ที่นี่ อันตราย",
+    "exampleInPhonetic": "thîi-nîi an-dtaa-rai",
+    "exampleInEnglish": "This place is dangerous"
+  },
+  {
+    "englishMeaning": "safe",
+    "thaiSpelling": "ปลอดภัย",
+    "phonetic": "bplàawt-phai",
+    "burmesePronunciation": "ပေါတ်-ဖိုင်",
+    "exampleInThai": "ที่นี่ ปลอดภัย",
+    "exampleInPhonetic": "thîi-nîi bplàawt-phai",
+    "exampleInEnglish": "This place is safe"
+  },
+  {
+    "englishMeaning": "happy",
+    "thaiSpelling": "สนุก",
+    "phonetic": "sà-nùk",
+    "burmesePronunciation": "ဆ-နွတ်",
+    "exampleInThai": "ฉัน สนุก",
+    "exampleInPhonetic": "chan sà-nùk",
+    "exampleInEnglish": "I'm having fun"
+  },
+  {
+    "englishMeaning": "boring",
+    "thaiSpelling": "น่าเบื่อ",
+    "phonetic": "nâa-bʉ̀a",
+    "burmesePronunciation": "နာ-ဘွဲ့",
+    "exampleInThai": "หนัง น่าเบื่อ",
+    "exampleInPhonetic": "nǎng nâa-bʉ̀a",
+    "exampleInEnglish": "The movie is boring"
+  },
+  {
+    "englishMeaning": "beautiful",
+    "thaiSpelling": "น่ารัก",
+    "phonetic": "nâa-rák",
+    "burmesePronunciation": "နာ-ရပ်",
+    "exampleInThai": "เด็ก น่ารัก",
+    "exampleInPhonetic": "dèk nâa-rák",
+    "exampleInEnglish": "Cute child"
+  },
+  {
+    "englishMeaning": "ugly",
+    "thaiSpelling": "น่ากลัว",
+    "phonetic": "nâa-glua",
+    "burmesePronunciation": "နာ-ဂွယ်",
+    "exampleInThai": "สัตว์ น่ากลัว",
+    "exampleInPhonetic": "sàt nâa-glua",
+    "exampleInEnglish": "Scary animal"
+  },
+  {
+    "englishMeaning": "fast",
+    "thaiSpelling": "เร็ว ๆ",
+    "phonetic": "reo reo",
+    "burmesePronunciation": "ရေ ရေ",
+    "exampleInThai": "วิ่ง เร็ว ๆ",
+    "exampleInPhonetic": "wîng reo reo",
+    "exampleInEnglish": "Run fast"
+  },
+  {
+    "englishMeaning": "slowly",
+    "thaiSpelling": "ช้า ๆ",
+    "phonetic": "chaa chaa",
+    "burmesePronunciation": "ချာ ချာ",
+    "exampleInThai": "เดิน ช้า ๆ",
+    "exampleInPhonetic": "dooen chaa chaa",
+    "exampleInEnglish": "Walk slowly"
+  },
+  {
+    "englishMeaning": "together",
+    "thaiSpelling": "ด้วยกัน",
+    "phonetic": "dûay gan",
+    "burmesePronunciation": "ဒွေး-ဂန်",
+    "exampleInThai": "เราทำ ด้วยกัน",
+    "exampleInPhonetic": "rao tham dûay gan",
+    "exampleInEnglish": "We do it together"
+  },
+  {
+    "englishMeaning": "alone",
+    "thaiSpelling": "คนเดียว",
+    "phonetic": "khon-diao",
+    "burmesePronunciation": "ခွန်း-ဒီယို",
+    "exampleInThai": "ฉัน อยู่ คนเดียว",
+    "exampleInPhonetic": "chan yùu khon-diao",
+    "exampleInEnglish": "I'm alone"
+  }
+]
