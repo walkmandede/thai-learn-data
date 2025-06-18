@@ -1,0 +1,2096 @@
+[
+  {
+    "englishMeaning": "What is your name?",
+    "thaiSentence": "คุณชื่ออะไร",
+    "phonetic": "kun chûe à-rai",
+    "burmesePronunciation": "khun ချူ အာရိုင်"
+  },
+  {
+    "englishMeaning": "My name is…",
+    "thaiSentence": "ผมชื่อ… / ดิฉันชื่อ…",
+    "phonetic": "phǒm chûe… / dì-chǎn chûe…",
+    "burmesePronunciation": "ပွုံး ချူ... / ဒိချန် ချူ..."
+  },
+  {
+    "englishMeaning": "Where are you from?",
+    "thaiSentence": "คุณมาจากประเทศอะไร",
+    "phonetic": "kun maa jàak bprà-thêt à-rai",
+    "burmesePronunciation": "khun မာ ဇာ့ ပြထက် အာရိုင်"
+  },
+  {
+    "englishMeaning": "I'm from Myanmar.",
+    "thaiSentence": "ผมมาจากประเทศพม่า",
+    "phonetic": "phǒm maa jàak bprà-thêt phá-mâa",
+    "burmesePronunciation": "ပွုံး မာ ဇာ့ ပြထက် ဖမာ"
+  },
+  {
+    "englishMeaning": "How old are you?",
+    "thaiSentence": "คุณอายุเท่าไหร่",
+    "phonetic": "kun aa-yú tâo-rài",
+    "burmesePronunciation": "khun အာယု ထော ရိုင်"
+  },
+  {
+    "englishMeaning": "I’m 25 years old.",
+    "thaiSentence": "ผมอายุ 25 ปี",
+    "phonetic": "phǒm aa-yú yîi-sìp hâa bpii",
+    "burmesePronunciation": "ပွုံး အာယု ၂၅ ปี"
+  },
+  {
+    "englishMeaning": "What do you study?",
+    "thaiSentence": "คุณเรียนอะไร",
+    "phonetic": "kun rian à-rai",
+    "burmesePronunciation": "khun ရီယန် အာရိုင်"
+  },
+  {
+    "englishMeaning": "I study Thai language.",
+    "thaiSentence": "ผมเรียนภาษาไทย",
+    "phonetic": "phǒm rian paa-sǎa tai",
+    "burmesePronunciation": "ပွုံး ရီယန် ပါဆာ ထိုင်"
+  },
+  {
+    "englishMeaning": "What do you buy at the market?",
+    "thaiSentence": "คุณซื้ออะไรที่ตลาด",
+    "phonetic": "kun súe à-rai tîi tà-làat",
+    "burmesePronunciation": "khun စဉ် အာရိုင် ထီ တာလပ်"
+  },
+  {
+    "englishMeaning": "I buy rice and vegetables.",
+    "thaiSentence": "ผมซื้อข้าวและผัก",
+    "phonetic": "phǒm súe khâao láe phàk",
+    "burmesePronunciation": "ပွုံး စဉ် ခေါ လဲ ဖတ်"
+  },
+  {
+    "englishMeaning": "How do you go to school?",
+    "thaiSentence": "คุณไปโรงเรียนยังไง",
+    "phonetic": "kun bpai rohng-rian yang-ngai",
+    "burmesePronunciation": "khun ပိုင် ရောင် ရီယန် ယင် ငိုင်"
+  },
+  {
+    "englishMeaning": "Go straight.",
+    "thaiSentence": "ตรงไป",
+    "phonetic": "dtrong bpai",
+    "burmesePronunciation": "တဲွန် ပိုင်"
+  },
+  {
+    "englishMeaning": "Turn left.",
+    "thaiSentence": "เลี้ยวซ้าย",
+    "phonetic": "líew sáai",
+    "burmesePronunciation": "လီယော့ စာိုင်"
+  },
+  {
+    "englishMeaning": "Turn right.",
+    "thaiSentence": "เลี้ยวขวา",
+    "phonetic": "líew kwǎa",
+    "burmesePronunciation": "လီယော့ ခွါ"
+  },
+  {
+    "englishMeaning": "Stop at the traffic light.",
+    "thaiSentence": "หยุดที่ไฟแดง",
+    "phonetic": "yùt tîi fai-daeng",
+    "burmesePronunciation": "ယူတ် ထီ ဖိုင်ဒင်"
+  },
+  {
+    "englishMeaning": "I’ve arrived.",
+    "thaiSentence": "ถึงแล้วครับ/ค่ะ",
+    "phonetic": "thǔeng láew khráp/khâ",
+    "burmesePronunciation": "ထုံး လဲော် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "What is your name?",
+    "thaiSentence": "คุณชื่ออะไร",
+    "phonetic": "khun chʉ̂ʉ à-rai",
+    "burmesePronunciation": "ခွွန် ချူး အာရိုင်"
+  },
+  {
+    "englishMeaning": "My name is Kyaw Phyoe Han.",
+    "thaiSentence": "ผมชื่อ Kyaw Phyoe Han",
+    "phonetic": "phǒm chʉ̂ʉ Kyaw Phyoe Han",
+    "burmesePronunciation": "ပွုံး ချူး Kyaw Phyoe Han"
+  },
+  {
+    "englishMeaning": "What is your nationality?",
+    "thaiSentence": "คุณมีสัญชาติอะไร",
+    "phonetic": "khun mii sǎn-châat à-rai",
+    "burmesePronunciation": "ခွွန် မီး ဆန် ချပ် အာရိုင်"
+  },
+  {
+    "englishMeaning": "I am Burmese.",
+    "thaiSentence": "ผมเป็นคนพม่า",
+    "phonetic": "phǒm bpen khon phá-mâa",
+    "burmesePronunciation": "ပွုံး ပိန် ခွန် ဖမား"
+  },
+  {
+    "englishMeaning": "How old are you?",
+    "thaiSentence": "คุณอายุเท่าไหร่",
+    "phonetic": "khun aa-yú thâo-rài",
+    "burmesePronunciation": "ခွွန် အာ ယု ထေါ ရိုင်"
+  },
+  {
+    "englishMeaning": "I am 28 years old.",
+    "thaiSentence": "ผมอายุ 28 ปี",
+    "phonetic": "phǒm aa-yú yîi-sìp-pàaet bpii",
+    "burmesePronunciation": "ပွုံး အာ ယု ၂၈ ปี"
+  },
+  {
+    "englishMeaning": "Why are you in Thailand?",
+    "thaiSentence": "คุณมาเมืองไทยทำไม",
+    "phonetic": "khun maa mʉang thai tham-mai",
+    "burmesePronunciation": "ခွွန် မာ မွန် ထိုင် သမ် မိုင်"
+  },
+  {
+    "englishMeaning": "I’m here to study.",
+    "thaiSentence": "ผมมาเรียนหนังสือ",
+    "phonetic": "phǒm maa rian năng-sʉ̌ʉ",
+    "burmesePronunciation": "ပွုံး မာ ရီယန် နန် စဉ်း"
+  },
+  {
+    "englishMeaning": "Where do you study?",
+    "thaiSentence": "คุณเรียนที่ไหน",
+    "phonetic": "khun rian thîi nǎi",
+    "burmesePronunciation": "ခွွန် ရီယန် ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I study at XYZ language school.",
+    "thaiSentence": "ผมเรียนที่โรงเรียนภาษา XYZ",
+    "phonetic": "phǒm rian thîi rohng-rian phaa-sǎa XYZ",
+    "burmesePronunciation": "ပွုံး ရီယန် ထီ ရောင်း ရီယန် ဘာဆာ XYZ"
+  },
+  {
+    "englishMeaning": "What course are you studying?",
+    "thaiSentence": "คุณเรียนหลักสูตรอะไร",
+    "phonetic": "khun rian làk-sùut à-rai",
+    "burmesePronunciation": "ခွွန် ရီယန် လက် စုတ် အာရိုင်"
+  },
+  {
+    "englishMeaning": "I’m studying Thai language.",
+    "thaiSentence": "ผมเรียนภาษาไทย",
+    "phonetic": "phǒm rian phaa-sǎa thai",
+    "burmesePronunciation": "ပွုံး ရီယန် ဘာဆာ ထိုင်"
+  },
+  {
+    "englishMeaning": "How long is your course?",
+    "thaiSentence": "หลักสูตรของคุณนานแค่ไหน",
+    "phonetic": "làk-sùut khǎawng khun naan khâe nǎi",
+    "burmesePronunciation": "လက် စုတ် ခေါင် ခွွန် နန်း ခဲ နိုင်"
+  },
+  {
+    "englishMeaning": "It’s a one-year course.",
+    "thaiSentence": "หลักสูตรหนึ่งปี",
+    "phonetic": "làk-sùut nʉ̀ng bpii",
+    "burmesePronunciation": "လက် စုတ် နင်း ปี"
+  },
+  {
+    "englishMeaning": "How many days a week do you study?",
+    "thaiSentence": "คุณเรียนกี่วันต่อสัปดาห์",
+    "phonetic": "khun rian gìi wan dtàaw sàp-daa",
+    "burmesePronunciation": "ခွွန် ရီယန် ဂီး ဝမ် တော် စပ်ဒါ"
+  },
+  {
+    "englishMeaning": "Five days a week.",
+    "thaiSentence": "เรียนห้าวันต่อสัปดาห์",
+    "phonetic": "rian hâa wan dtàaw sàp-daa",
+    "burmesePronunciation": "ရီယန် ဟါ ဝမ် တော် စပ်ဒါ"
+  },
+  {
+    "englishMeaning": "What time is your class?",
+    "thaiSentence": "เรียนกี่โมง",
+    "phonetic": "rian gìi moong",
+    "burmesePronunciation": "ရီယန် ဂီး မုန်း"
+  },
+  {
+    "englishMeaning": "Class starts at 10am.",
+    "thaiSentence": "เรียนสิบโมงเช้า",
+    "phonetic": "rian sìp moong cháo",
+    "burmesePronunciation": "ရီယန် ဆစ် မုန်း ချော်"
+  },
+  {
+    "englishMeaning": "Can you speak Thai?",
+    "thaiSentence": "คุณพูดภาษาไทยได้ไหม",
+    "phonetic": "khun phûut phaa-sǎa thai dâai mái",
+    "burmesePronunciation": "ခွွန် ဖွတ် ဘာဆာ ထိုင် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I can speak Thai a little.",
+    "phonetic": "พูดได้นิดหน่อย",
+    "burmesePronunciation": "phûut dâai nít-nàwy",
+    "__parsed_extra": [
+      "ဖွတ် ဒိုင် နစ် နွယ်"
+    ]
+  },
+  {
+    "englishMeaning": "Where do you live?",
+    "thaiSentence": "คุณพักอยู่ที่ไหน",
+    "phonetic": "khun phák yùu thîi nǎi",
+    "burmesePronunciation": "ခွွန် ဖတ် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I live on Sukhumvit Road.",
+    "thaiSentence": "ผมพักอยู่ที่ถนนสุขุมวิท",
+    "phonetic": "phǒm phák yùu thîi thà-nǒn sù-khǔm-wít",
+    "burmesePronunciation": "ပွုံး ဖတ် ယု ထီ သနွန်း ဆုခွမ် ဝစ်"
+  },
+  {
+    "englishMeaning": "Do you have a lease?",
+    "thaiSentence": "คุณมีสัญญาเช่าหรือเปล่า",
+    "phonetic": "khun mii sǎn-yaa châo rʉ̌ʉ bplàao",
+    "burmesePronunciation": "ခွွန် မီး ဆန် ယာ ချော လား"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have a lease contract.",
+    "phonetic": "มีครับ เป็นสัญญาเช่า",
+    "burmesePronunciation": "mii khráp bpen sǎn-yaa châo",
+    "__parsed_extra": [
+      "မီး ခရပ် ပိန် ဆန် ယာ ချော"
+    ]
+  },
+  {
+    "englishMeaning": "How long have you been in Thailand?",
+    "thaiSentence": "คุณอยู่เมืองไทยมานานแค่ไหนแล้ว",
+    "phonetic": "khun yùu mʉang thai maa naan khâe nǎi láaeo",
+    "burmesePronunciation": "ခွွန် ယု မွန် ထိုင် မာ နန်း ခဲ နိုင် လေ"
+  },
+  {
+    "englishMeaning": "I have been here for 6 months.",
+    "thaiSentence": "อยู่มา 6 เดือนแล้ว",
+    "phonetic": "yùu maa hòk dʉan láaeo",
+    "burmesePronunciation": "ယု မာ ဟုတ် ဒွန်း လေ"
+  },
+  {
+    "englishMeaning": "When did you arrive?",
+    "thaiSentence": "คุณมาถึงเมื่อไหร่",
+    "phonetic": "khun maa thʉ̌ng mʉ̂a-rài",
+    "burmesePronunciation": "ခွွန် မာ ထွင်း မွား ရိုင်"
+  },
+  {
+    "englishMeaning": "I arrived in January.",
+    "thaiSentence": "ผมมาถึงเดือนมกราคม",
+    "phonetic": "phǒm maa thʉ̌ng dʉan má-gà-raa-khom",
+    "burmesePronunciation": "ပွုံး မာ ထွင်း ဒွန်း မကရာခုံး"
+  },
+  {
+    "englishMeaning": "Do you plan to stay longer?",
+    "thaiSentence": "คุณตั้งใจอยู่ต่อหรือเปล่า",
+    "phonetic": "khun dtâng-jai yùu dtàaw rʉ̌ʉ bplàao",
+    "burmesePronunciation": "ခွွန် တန် ဂျိုင် ယု တော် လား"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I want to extend my visa.",
+    "phonetic": "ใช่ครับ ผมต้องการต่อวีซ่า",
+    "burmesePronunciation": "châi khráp phǒm dtâawng gaan dtàaw wii-sâa",
+    "__parsed_extra": [
+      "ချိုင် ခရပ် ပွုံး တောင်း ဂန် တော် ဗီဇာ"
+    ]
+  },
+  {
+    "englishMeaning": "Do you have a valid visa?",
+    "thaiSentence": "คุณมีวีซ่าที่ใช้ได้ไหม",
+    "phonetic": "khun mii wii-sâa thîi chái dâai mái",
+    "burmesePronunciation": "ခွွန် မီး ဗီဇာ ထီ ချိုင် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " my visa is still valid.",
+    "phonetic": "ยังใช้ได้อยู่ครับ",
+    "burmesePronunciation": "yang chái dâai yùu khráp",
+    "__parsed_extra": [
+      "ယန် ချိုင် ဒိုင် ယု ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Do you understand Thai?",
+    "thaiSentence": "คุณเข้าใจภาษาไทยไหม",
+    "phonetic": "khun khâo-jai phaa-sǎa thai mái",
+    "burmesePronunciation": "ခွွန် ခေါို ဂျိုင် ဘာဆာ ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " a little.",
+    "phonetic": "เข้าใจนิดหน่อยครับ",
+    "burmesePronunciation": "khâo-jai nít-nàwy khráp",
+    "__parsed_extra": [
+      "ခေါို ဂျိုင် နစ် နွယ် ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Do you have your school documents?",
+    "thaiSentence": "คุณมีเอกสารโรงเรียนไหม",
+    "phonetic": "khun mii èek-gà-sǎan rohng-rian mái",
+    "burmesePronunciation": "ခွွန် မီး ဧက ဆာန် ရောင် ရီယန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I brought all documents.",
+    "phonetic": "มีครับ นำมาเรียบร้อยแล้ว",
+    "burmesePronunciation": "mii khráp nam maa rîap-ráawy láaeo",
+    "__parsed_extra": [
+      "မီး ခရပ် နမ် မာ ရီးယပ် ရွိုင် လေ"
+    ]
+  },
+  {
+    "englishMeaning": "Who pays your tuition?",
+    "thaiSentence": "ใครจ่ายค่าเรียน",
+    "phonetic": "khrai jàai khâa rian",
+    "burmesePronunciation": "ခရိုင် ဇိုင် ခါ ရီယန်"
+  },
+  {
+    "englishMeaning": "I pay it myself.",
+    "thaiSentence": "ผมจ่ายเองครับ",
+    "phonetic": "phǒm jàai eeng khráp",
+    "burmesePronunciation": "ပွုံး ဇိုင် အိန် ခရပ်"
+  },
+  {
+    "englishMeaning": "Do you have health insurance?",
+    "thaiSentence": "คุณมีประกันสุขภาพไหม",
+    "phonetic": "khun mii bprà-gan sùk-khà-phâap mái",
+    "burmesePronunciation": "ခွွန် မီး ပြု ကန် ဆုခ ဖပ် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I do.",
+    "phonetic": "มีครับ",
+    "burmesePronunciation": "mii khráp",
+    "__parsed_extra": [
+      "မီး ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Where is your school located?",
+    "thaiSentence": "โรงเรียนของคุณอยู่ที่ไหน",
+    "phonetic": "rohng-rian khǎawng khun yùu thîi nǎi",
+    "burmesePronunciation": "ရောင်း ရီယန် ခေါင် ခွွန် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "It’s near BTS station.",
+    "thaiSentence": "อยู่ใกล้สถานีบีทีเอส",
+    "phonetic": "yùu glâi sà-thǎa-nii BTS",
+    "burmesePronunciation": "ယု ဂလိုင် စထာနီ BTS"
+  },
+  {
+    "englishMeaning": "Do you go to class regularly?",
+    "thaiSentence": "คุณไปเรียนสม่ำเสมอไหม",
+    "phonetic": "khun bpai rian sà-màm sà-mə̌ə mái",
+    "burmesePronunciation": "ခွွန် ပိုင် ရီယန် စမမ် စမယ် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I attend every class.",
+    "phonetic": "ไปทุกครั้งครับ",
+    "burmesePronunciation": "bpai thúk khráŋ khráp",
+    "__parsed_extra": [
+      "ပိုင် ထုပ် ခရင်း ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "What is your attendance rate?",
+    "thaiSentence": "คุณเข้าเรียนกี่เปอร์เซ็นต์",
+    "phonetic": "khun khâo rian gìi pəə-sen",
+    "burmesePronunciation": "ခွွန် ခေါ ရီယန် ဂီး ပေါ စင်း"
+  },
+  {
+    "englishMeaning": "100 percent.",
+    "thaiSentence": "หนึ่งร้อยเปอร์เซ็นต์",
+    "phonetic": "nʉ̀ng ráawy pəə-sen",
+    "burmesePronunciation": "နင်း ရွိုင် ပေါ စင်း"
+  },
+  {
+    "englishMeaning": "Are you working in Thailand?",
+    "thaiSentence": "คุณทำงานในไทยไหม",
+    "phonetic": "khun tham-ngaan nai thai mái",
+    "burmesePronunciation": "ခွွန် သမ် ငန်း နိုင် ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I’m just studying.",
+    "phonetic": "ไม่ได้ทำงานครับ แค่มาเรียน",
+    "burmesePronunciation": "mâi dâai tham-ngaan khráp khâe maa rian",
+    "__parsed_extra": [
+      "မိုင် ဒိုင် သမ် ငန်း ခရပ် ခဲ မာ ရီယန်"
+    ]
+  },
+  {
+    "englishMeaning": "Do you plan to work later?",
+    "thaiSentence": "คุณมีแผนจะทำงานไหม",
+    "phonetic": "khun mii phǎen jà tham-ngaan mái",
+    "burmesePronunciation": "ခွွန် မီး ဖန် စ သမ် ငန်း မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I only want to study.",
+    "phonetic": "ไม่มีครับ ผมต้องการเรียนอย่างเดียว",
+    "burmesePronunciation": "mâi mii khráp phǒm dtâawng gaan rian yàang diao",
+    "__parsed_extra": [
+      "မီး မီး ခရပ် ပွုံး တောင်း ဂန် ရီယန် ယမ် ဒျော"
+    ]
+  },
+  {
+    "englishMeaning": "Where is your passport?",
+    "thaiSentence": "พาสปอร์ตอยู่ไหน",
+    "phonetic": "phaa-sà-bpòot yùu nǎi",
+    "burmesePronunciation": "ပါစပို့ ယု နိုင်"
+  },
+  {
+    "englishMeaning": "Here it is.",
+    "thaiSentence": "นี่ครับ",
+    "phonetic": "nîi khráp",
+    "burmesePronunciation": "နီ ခရပ်"
+  },
+  {
+    "englishMeaning": "Do you know the visa rules?",
+    "thaiSentence": "คุณรู้กฎของวีซ่าไหม",
+    "phonetic": "khun rúu gòt khǎawng wii-sâa mái",
+    "burmesePronunciation": "ခွွန် ရု ဂုတ် ခေါင် ဗီဇာ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I studied them.",
+    "phonetic": "รู้ครับ ผมศึกษาแล้ว",
+    "burmesePronunciation": "rúu khráp phǒm sʉ̀k-sǎa láaeo",
+    "__parsed_extra": [
+      "ရု ခရပ် ပွုံး ဆက် ဆာ လေ"
+    ]
+  },
+  {
+    "englishMeaning": "Why do you want to extend your visa?",
+    "thaiSentence": "ทำไมคุณถึงต่อวีซ่า",
+    "phonetic": "tham-mai khun thʉ̌ng dtàaw wii-sâa",
+    "burmesePronunciation": "သမ် မိုင် ခွွန် ထွင် တော် ဗီဇာ"
+  },
+  {
+    "englishMeaning": "Because I want to continue studying Thai.",
+    "thaiSentence": "เพราะอยากเรียนภาษาไทยต่อ",
+    "phonetic": "phrɔ́ yàak rian phaa-sǎa thai dtàaw",
+    "burmesePronunciation": "ဖရော့ ယပ် ရီယန် ဘာဆာ ထိုင် တော်"
+  },
+  {
+    "englishMeaning": "Do you plan to stay after your course?",
+    "thaiSentence": "หลังเรียนเสร็จคุณจะอยู่ต่อไหม",
+    "phonetic": "lǎng rian sèet khun jà yùu dtàaw mái",
+    "burmesePronunciation": "လန် ရီယန် ဆက် ခွွန် စ ယု တော် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I plan to return to Myanmar.",
+    "phonetic": "ไม่ครับ ผมจะกลับพม่า",
+    "burmesePronunciation": "mâi khráp phǒm jà glàp phá-mâa",
+    "__parsed_extra": [
+      "မိုင် ခရပ် ပွုံး စ ဂလပ် ဖမား"
+    ]
+  },
+  {
+    "englishMeaning": "Do you have your passport with you?",
+    "thaiSentence": "คุณมีหนังสือเดินทางไหม",
+    "phonetic": "khun mii năng-sʉ̌ʉ dern-thaang mái",
+    "burmesePronunciation": "ခွွန် မီး နန် ဆူး เดิน ထ่าง မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have my passport.",
+    "phonetic": "มีครับ ผมมีหนังสือเดินทาง",
+    "burmesePronunciation": "mii khráp phǒm mii năng-sʉ̌ʉ dern-thaang",
+    "__parsed_extra": [
+      "မီး ခရပ် ပွုံး မီး နန် ဆူး เดิน ထ่าง"
+    ]
+  },
+  {
+    "englishMeaning": "When did you enter Thailand?",
+    "thaiSentence": "คุณเข้าประเทศไทยวันไหน",
+    "phonetic": "khun khâo bprà-thêet thai wan nǎi",
+    "burmesePronunciation": "ခွွန် ခေါ် ပရသည် ထိုင် ဝမ် နိုင်"
+  },
+  {
+    "englishMeaning": "I entered two months ago.",
+    "thaiSentence": "ผมเข้าเมื่อสองเดือนก่อน",
+    "phonetic": "phǒm khâo mʉ̂a sǎawng dʉan gàawn",
+    "burmesePronunciation": "ပွုံး ခေါ် မှာ ဆိုင်း ဒွန်း ก่อน"
+  },
+  {
+    "englishMeaning": "What is the purpose of your visit?",
+    "thaiSentence": "มาวัตถุประสงค์อะไร",
+    "phonetic": "maa wát-thù bprà-sǒng à-rai",
+    "burmesePronunciation": "မာ ဝတ် ထူ ပရစွန်း အာရိုင်"
+  },
+  {
+    "englishMeaning": "To study Thai language.",
+    "thaiSentence": "มาเรียนภาษาไทย",
+    "phonetic": "maa rian phaa-sǎa thai",
+    "burmesePronunciation": "မာ ရီယန် ဘာဆာ ထိုင်"
+  },
+  {
+    "englishMeaning": "Do you have any relatives in Thailand?",
+    "thaiSentence": "คุณมีญาติในเมืองไทยไหม",
+    "phonetic": "khun mii yâat nai mʉang thai mái",
+    "burmesePronunciation": "ခွွန် မီး ရာတ် နိုင် မွန် ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I don’t have.",
+    "phonetic": "ไม่มีครับ",
+    "burmesePronunciation": "mâi mii khráp",
+    "__parsed_extra": [
+      "မိုင် မီး ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Where do you live?",
+    "thaiSentence": "คุณอยู่ที่ไหน",
+    "phonetic": "khun yùu thîi nǎi",
+    "burmesePronunciation": "ခွွန် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I live in Bangkok.",
+    "thaiSentence": "ผมอยู่กรุงเทพมหานคร",
+    "phonetic": "phǒm yùu grung-thêp mǎ-ha-na-khon",
+    "burmesePronunciation": "ပွုံး ယု ကရုံသေ့ မဟာနာခုံ"
+  },
+  {
+    "englishMeaning": "Do you understand the visa conditions?",
+    "thaiSentence": "คุณเข้าใจเงื่อนไขวีซ่าไหม",
+    "phonetic": "khun khâo-jai ngʉan-khǎi wii-sâa mái",
+    "burmesePronunciation": "ခွွန် ခေါ် ဂျိုင် ငွန်း ခိုင် ဗီဇာ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I understand.",
+    "phonetic": "เข้าใจครับ",
+    "burmesePronunciation": "khâo-jai khráp",
+    "__parsed_extra": [
+      "ခေါ် ဂျိုင် ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Have you taken a health check?",
+    "thaiSentence": "คุณตรวจสุขภาพหรือยัง",
+    "phonetic": "khun dtrùat sùk-kà-phâap rʉ̌ʉ yang",
+    "burmesePronunciation": "ခွွန် ဒြတ် ဆုค ပါ ဖပ် လား"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I took it.",
+    "phonetic": "ตรวจแล้วครับ",
+    "burmesePronunciation": "dtrùat láaeo khráp",
+    "__parsed_extra": [
+      "ဒြတ် လေ ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Are you employed in Thailand?",
+    "thaiSentence": "คุณทำงานในประเทศไทยไหม",
+    "phonetic": "khun tham-ngaan nai bprà-thêet thai mái",
+    "burmesePronunciation": "ခွွန် သမ် အန် နိုင် ပရသည် ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I am a student.",
+    "phonetic": "ไม่ครับ ผมเป็นนักเรียน",
+    "burmesePronunciation": "mâi khráp phǒm bpen nák-rian"
+  },
+  {
+    "englishMeaning": "How long will you stay?",
+    "thaiSentence": "คุณจะอยู่กี่เดือน",
+    "phonetic": "khun jà yùu gìi dʉan",
+    "burmesePronunciation": "ခွွန် ဇ ယု ဂီး ဒွန်း"
+  },
+  {
+    "englishMeaning": "I will stay six months.",
+    "thaiSentence": "ผมจะอยู่หกเดือน",
+    "phonetic": "phǒm jà yùu hòk dʉan"
+  },
+  {
+    "englishMeaning": "Do you have your education certificate?",
+    "thaiSentence": "คุณมีใบรับรองการศึกษาหรือไหม",
+    "phonetic": "khun mii bai ráp-rɔɔng gaan sʉ̀k-sǎa rʉ̌ʉ mái",
+    "burmesePronunciation": "ခွွန် မီး ဘိုင် ရပ် ရောင် ဂန်း ဆူးကာ လား"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I brought it.",
+    "phonetic": "มีครับ ผมนำมาครับ",
+    "burmesePronunciation": "mii khráp phǒm nam maa khráp"
+  },
+  {
+    "englishMeaning": "What is your nationality?",
+    "thaiSentence": "คุณสัญชาติอะไร",
+    "phonetic": "khun sǎn-châat à-rai",
+    "burmesePronunciation": "ခွွန် ဆန်ချတ် အာရိုင်"
+  },
+  {
+    "englishMeaning": "I am from Myanmar.",
+    "thaiSentence": "ผมมาจากเมียนมาร์",
+    "phonetic": "phǒm maa jàak miian-maa"
+  },
+  {
+    "englishMeaning": "Do you know how to renew your visa?",
+    "thaiSentence": "คุณรู้วิธีต่อวีซ่าไหม",
+    "phonetic": "khun rúu wí-thii dtɔ̀ɔ wii-sâa mái",
+    "burmesePronunciation": "ခွွန် ရု ဝီသီး တိုး ဗီဇာ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I know.",
+    "phonetic": "รู้ครับ",
+    "burmesePronunciation": "rúu khráp",
+    "__parsed_extra": [
+      "ရု ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "Have you submitted the visa renewal documents?",
+    "thaiSentence": "คุณส่งเอกสารต่อวีซ่าแล้วหรือยัง",
+    "phonetic": "khun sòng èek-gà-sǎan dtɔ̀ɔ wii-sâa láaeo rʉ̌ʉ yang",
+    "burmesePronunciation": "ခွွန် ဆော့ ဧက ဆာန် တိုး ဗီဇာ လေ လား"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I submitted.",
+    "phonetic": "ส่งแล้วครับ",
+    "burmesePronunciation": "sòng láaeo khráp"
+  },
+  {
+    "englishMeaning": "Are you registered with your school?",
+    "thaiSentence": "คุณลงทะเบียนกับโรงเรียนไหม",
+    "phonetic": "khun long-thà-biian gàp rohng-rian mái",
+    "burmesePronunciation": "ခွွန် လုန် ထဘီယန် ဂပ် ရောင်း ရီယန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I registered.",
+    "phonetic": "ลงทะเบียนแล้วครับ",
+    "burmesePronunciation": "long thà-biian láaeo khráp"
+  },
+  {
+    "englishMeaning": "Do you have a criminal record?",
+    "thaiSentence": "คุณมีประวัติอาชญากรรมหรือไหม",
+    "phonetic": "khun mii bprà-wàt aa-chá-yaa-gam rʉ̌ʉ mái",
+    "burmesePronunciation": "ခွွန် မီး ပရဝတ် အာချာ ရာ ဂမ် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I have none.",
+    "phonetic": "ไม่มีครับ",
+    "burmesePronunciation": "mâi mii khráp"
+  },
+  {
+    "englishMeaning": "Do you attend classes regularly?",
+    "thaiSentence": "คุณเข้าเรียนสม่ำเสมอไหม",
+    "phonetic": "khun khâo rian sà-mâm-sà-məə mái",
+    "burmesePronunciation": "ခွွန် ခေါ် ရီယန် စ မမ် စ မဲ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " every day.",
+    "phonetic": "ใช่ครับ ทุกวัน",
+    "burmesePronunciation": "châi khráp thúk wan"
+  },
+  {
+    "englishMeaning": "Do you have insurance?",
+    "thaiSentence": "คุณมีประกันภัยไหม",
+    "phonetic": "khun mii bprà-gan-phai mái",
+    "burmesePronunciation": "ခွွန် မီး ပရဂန် ဖိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have insurance.",
+    "phonetic": "มีครับ",
+    "burmesePronunciation": "mii khráp"
+  },
+  {
+    "englishMeaning": "Do you have emergency contact?",
+    "thaiSentence": "คุณมีเบอร์ฉุกเฉินไหม",
+    "phonetic": "khun mii bəə chùk-chəən mái",
+    "burmesePronunciation": "ခွွန် မီး ဘဲ ချုတ် ချင်း မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " my family.",
+    "phonetic": "มีครับ ครอบครัว",
+    "burmesePronunciation": "mii khráp khrôp-khrua"
+  },
+  {
+    "englishMeaning": "Are you married?",
+    "thaiSentence": "คุณแต่งงานหรือยัง",
+    "phonetic": "khun dtàeng-ngaan rʉ̌ʉ yang",
+    "burmesePronunciation": "ခွွန် တဲ့ အန် လား"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I am single.",
+    "phonetic": "ยังครับ ยังโสด",
+    "burmesePronunciation": "yang khráp yang sòot"
+  },
+  {
+    "englishMeaning": "Do you have any allergies?",
+    "thaiSentence": "คุณแพ้ยาอะไรไหม",
+    "phonetic": "khun phâe yaa à-rai mái",
+    "burmesePronunciation": "ခွွန် ဖေး ယာ အာရိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "No allergies.",
+    "thaiSentence": "ไม่มีครับ"
+  },
+  {
+    "englishMeaning": "Have you received a vaccination?",
+    "thaiSentence": "คุณได้รับวัคซีนไหม",
+    "phonetic": "khun dâi ráp wák-siin mái",
+    "burmesePronunciation": "ခွွန် ဒိုင် ရပ် ဝတ် ဆင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "ได้รับแล้วครับ"
+  },
+  {
+    "englishMeaning": "What is your date of birth?",
+    "thaiSentence": "วันเกิดของคุณคือวันไหน",
+    "phonetic": "wan gèrt khǎawng khun khʉʉ wan nǎi",
+    "burmesePronunciation": "ဝမ် ခ်တ် ခေါင် ခွွန် ခွီ ဝမ် နိုင်"
+  },
+  {
+    "englishMeaning": "I was born on January 1",
+    "thaiSentence": " 1995.",
+    "phonetic": "ผมเกิดวันที่ 1 มกราคม 2538"
+  },
+  {
+    "englishMeaning": "Can you speak Thai?",
+    "thaiSentence": "คุณพูดภาษาไทยได้ไหม",
+    "phonetic": "khun phûut phaa-sǎa thai dâai mái",
+    "burmesePronunciation": "ခွွန် ဖွတ် ဘာဆာ ထိုင် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "A little.",
+    "thaiSentence": "พูดได้นิดหน่อยครับ"
+  },
+  {
+    "englishMeaning": "Do you have a local phone number?",
+    "thaiSentence": "คุณมีเบอร์โทรศัพท์ท้องถิ่นไหม",
+    "phonetic": "khun mii bəə tho-ra-sàp tháawng-thîn mái",
+    "burmesePronunciation": "ခွွန် မီး ဘဲ တိုး ရာ ဆပ် ထောင်း သင်း မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I do.",
+    "phonetic": "มีครับ",
+    "burmesePronunciation": "mii khráp"
+  },
+  {
+    "englishMeaning": "How do you pay your tuition?",
+    "thaiSentence": "คุณจ่ายค่าเรียนอย่างไร",
+    "phonetic": "khun jàai khâa rian yàang-rai",
+    "burmesePronunciation": "ခွွန် ဇိုင် ခါ ရီယန် ယမ် ရိုင်"
+  },
+  {
+    "englishMeaning": "By bank transfer.",
+    "thaiSentence": "โอนเงินผ่านธนาคาร",
+    "phonetic": "oon ngern phàan tha-naa-khaan"
+  },
+  {
+    "englishMeaning": "Do you have a study plan?",
+    "thaiSentence": "คุณมีแผนการเรียนไหม",
+    "phonetic": "khun mii phɛ̌ɛn gaan rian mái",
+    "burmesePronunciation": "ခွွန် မီး ဖျန် ဂန်း ရီယန်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have one.",
+    "phonetic": "มีครับ",
+    "burmesePronunciation": "mii khráp"
+  },
+  {
+    "englishMeaning": "Have you visited the immigration office before?",
+    "thaiSentence": "คุณเคยไปสำนักงานตรวจคนเข้าเมืองไหม",
+    "phonetic": "khun khooei bpai sǎm-nák-ngaan dtrùat khon khâo mʉang mái",
+    "burmesePronunciation": "ခွွန် ခွေ ပိုင် ဆမ် နတ် အန် ဒြတ် ခွန် ခေါ် မွန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "เคยครับ"
+  },
+  {
+    "englishMeaning": "Do you need help filling the form?",
+    "thaiSentence": "คุณต้องการความช่วยเหลือในการกรอกแบบฟอร์มหรือไหม",
+    "phonetic": "khun dtông-gaan khwaam chûay-lʉ̌ʉ nai gaan grɔ̀ɔk bàep-fɔɔm rʉ̌ʉ mái",
+    "burmesePronunciation": "ခွွန် တုံး ဂန်း ခွမ် ခွေး လွယ် နိုင် ဂန်း ဂရုပ် ဘပ် ဖောင်း မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I can do it.",
+    "phonetic": "ไม่ครับ"
+  },
+  {
+    "englishMeaning": "Are you currently employed?",
+    "thaiSentence": "คุณทำงานอยู่ไหม",
+    "phonetic": "khun tham-ngaan yùu mái",
+    "burmesePronunciation": "ခွွန် သမ် အန် ယု မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " just studying.",
+    "phonetic": "ไม่ครับ แค่เรียน",
+    "burmesePronunciation": "mâi khráp khâe rian"
+  },
+  {
+    "englishMeaning": "What is your address?",
+    "thaiSentence": "ที่อยู่ของคุณคือที่ไหน",
+    "phonetic": "thîi yùu khǎawng khun khʉʉ thîi nǎi",
+    "burmesePronunciation": "ထီ ယု ခေါင် ခွွန် ခွီ ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I live at…",
+    "thaiSentence": "ผมอยู่ที่...",
+    "phonetic": "phǒm yùu thîi..."
+  },
+  {
+    "englishMeaning": "Do you have a bank account in Thailand?",
+    "thaiSentence": "คุณมีบัญชีธนาคารไหม",
+    "phonetic": "khun mii ban-chii tha-naa-khaan mái",
+    "burmesePronunciation": "ခွွန် မီး ဘန်ချီ သနာခန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have one.",
+    "phonetic": "มีครับ"
+  },
+  {
+    "englishMeaning": "Can you show me your student card?",
+    "thaiSentence": "ขอดูบัตรนักเรียนหน่อย",
+    "phonetic": "khɔ̌ɔ duu bàt nák-rian nòi",
+    "burmesePronunciation": "ခေါ် ဒူး ဘတ် နတ် ရီယန်"
+  },
+  {
+    "englishMeaning": "Here it is.",
+    "thaiSentence": "นี่ครับ"
+  },
+  {
+    "englishMeaning": "Have you completed your course?",
+    "thaiSentence": "คุณเรียนจบหลักสูตรไหม",
+    "phonetic": "khun rian jòp làk-sùut mái",
+    "burmesePronunciation": "ခွွန် ရီယန် ဂျုပ် လက် စုတ် မိုင်"
+  },
+  {
+    "englishMeaning": "Not yet.",
+    "thaiSentence": "ยังไม่ครับ"
+  },
+  {
+    "englishMeaning": "Do you plan to extend your visa again?",
+    "thaiSentence": "คุณวางแผนต่อวีซ่าอีกไหม",
+    "phonetic": "khun waang phɛ̌ɛn dtɔ̀ɔ wii-sâa ìik mái",
+    "burmesePronunciation": "ခွွန် ဝမ် ဖျန် တိုး ဗီဇာ အစ် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I plan to.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Is your passport valid?",
+    "thaiSentence": "หนังสือเดินทางยังใช้ได้ไหม",
+    "phonetic": " năng-sʉ̌ʉ dern-thaang yang chái dâai mái",
+    "burmesePronunciation": "နန် ဆူး เดิน ထ่าง ရမ် ချိုင် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " valid for 2 years.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Have you ever been denied a visa?",
+    "thaiSentence": "คุณเคยถูกปฏิเสธวีซ่าหรือไม่",
+    "phonetic": "khun khooei thùuk bpa-dti-sèt wii-sâa rʉ̌ʉ mái",
+    "burmesePronunciation": "ခွွန် ခွေ ထုတ် ပတိဆက် ဗီဇာ မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " never.",
+    "phonetic": "ไม่เคยครับ"
+  },
+  {
+    "englishMeaning": "Do you have a return ticket?",
+    "thaiSentence": "คุณมีตั๋วกลับประเทศไหม",
+    "phonetic": "khun mii dtǔa glàp bprà-thêet mái",
+    "burmesePronunciation": "ခွွန် မီး တื้อ လပ် ပရသည် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " not yet.",
+    "phonetic": "ยังไม่มีครับ"
+  },
+  {
+    "englishMeaning": "Have you registered your address with the immigration?",
+    "thaiSentence": "คุณแจ้งที่อยู่กับตรวจคนเข้าเมืองไหม",
+    "phonetic": "khun jâeng thîi yùu gàp dtrùat khon khâo mʉang mái",
+    "burmesePronunciation": "ခွွန် ဂျင် ထီ ယု ဂပ် ဒြတ် ခွန် ခေါ် မွန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Do you understand Thai immigration laws?",
+    "thaiSentence": "คุณเข้าใจกฎหมายคนเข้าเมืองไหม",
+    "phonetic": "khun khâo-jai gòt-măai khon khâo mʉang mái",
+    "burmesePronunciation": "ခွွန် ခေါ် ဂျိုင် ဂုတ် မိုင် ခွန် ခေါ် မွန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I understand.",
+    "phonetic": "เข้าใจครับ"
+  },
+  {
+    "englishMeaning": "Have you received any fines before?",
+    "thaiSentence": "คุณเคยโดนปรับไหม",
+    "phonetic": "khun khooei dohn bpràp mái",
+    "burmesePronunciation": "ခွွန် ခွေ ဒုံ ပရပ် မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I have not.",
+    "phonetic": "ไม่ครับ"
+  },
+  {
+    "englishMeaning": "Are you planning to work part-time?",
+    "thaiSentence": "คุณวางแผนทำงานพาร์ทไทม์ไหม",
+    "phonetic": "khun waang phɛ̌ɛn tham-ngaan part-time mái",
+    "burmesePronunciation": "ခွွန် ဝမ် ဖျန် သမ် အန်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " just studying.",
+    "phonetic": "ไม่ครับ"
+  },
+  {
+    "englishMeaning": "Do you have proof of financial support?",
+    "thaiSentence": "คุณมีหลักฐานทางการเงินไหม",
+    "phonetic": "khun mii lǎk-thǎan thaang gaan ngern mái",
+    "burmesePronunciation": "ခွွန် မီး လတ် သန် ထောင်း ဂန်း ငွေ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "มีครับ"
+  },
+  {
+    "englishMeaning": "Are you currently attending school?",
+    "thaiSentence": "คุณกำลังเรียนอยู่ไหม",
+    "phonetic": "khun gam-lang rian yùu mái",
+    "burmesePronunciation": "ခွွန် ဂမ် လမ် ရီယန် ယု မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I am.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Do you want to apply for work permit?",
+    "thaiSentence": "คุณต้องการขอใบอนุญาตทำงานไหม",
+    "phonetic": "khun dtông-gaan khɔ̌ɔ bai à-nú-yâat tham-ngaan mái",
+    "burmesePronunciation": "ခွွန် တုံး ဂန်း ခေါ် ဘိုင် အနူရတ် သမ် အန် မိုင်"
+  },
+  {
+    "englishMeaning": "Not now.",
+    "thaiSentence": "ยังไม่ครับ"
+  },
+  {
+    "englishMeaning": "Have you registered your visa online?",
+    "thaiSentence": "คุณลงทะเบียนวีซ่าออนไลน์ไหม",
+    "phonetic": "khun long-thà-biian wii-sâa online mái",
+    "burmesePronunciation": "ခွွန် လုန် ထဘီယန် ဗီဇာ"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Are you aware of the visa expiration date?",
+    "thaiSentence": "คุณรู้วันที่วีซ่าหมดอายุไหม",
+    "phonetic": "khun rúu wan thîi wii-sâa mòht aa-yú mái",
+    "burmesePronunciation": "ခွွန် ရု ဝမ် ထီ ဗီဇာ မော့ အာယူ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I know.",
+    "phonetic": "รู้ครับ"
+  },
+  {
+    "englishMeaning": "Do you have any medical conditions?",
+    "thaiSentence": "คุณมีโรคประจำตัวไหม",
+    "phonetic": "khun mii rôok bprà-jam dtua mái",
+    "burmesePronunciation": "ခွွန် မီး ရုပ် ပရဂျမ် တု မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I am healthy.",
+    "phonetic": "ไม่ครับ"
+  },
+  {
+    "englishMeaning": "Are you living with family?",
+    "thaiSentence": "คุณอยู่กับครอบครัวไหม",
+    "phonetic": "khun yùu gàp khrôp-khrua mái",
+    "burmesePronunciation": "ခွွန် ယု ဂပ် ခရုပ် ခရူး မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I live alone.",
+    "phonetic": "ไม่ครับ"
+  },
+  {
+    "englishMeaning": "Have you ever traveled outside Thailand?",
+    "thaiSentence": "คุณเคยเดินทางออกนอกประเทศไหม",
+    "phonetic": "khun khooei dern-thaang òk nɔ̂ɔk bprà-thêet mái",
+    "burmesePronunciation": "ခွွန် ခွေ ဒြန် ထ่าง"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "เคยครับ"
+  },
+  {
+    "englishMeaning": "Is your visa multiple entry?",
+    "thaiSentence": "วีซ่าของคุณเข้าออกได้กี่ครั้ง",
+    "phonetic": "wii-sâa khǎawng khun khâo òk dâai gìi kráng",
+    "burmesePronunciation": "ဝီဇာ ခေါင် ခွွန် ခေါ် အုတ် ဒိုင် ဂီး ခရောင်း"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " it is.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Have you completed the visa renewal form?",
+    "thaiSentence": "คุณกรอกแบบฟอร์มต่อวีซ่าเรียบร้อยไหม",
+    "phonetic": "khun grɔ̀ɔk bàep-fɔɔm dtɔ̀ɔ wii-sâa rîap-ráawy mái",
+    "burmesePronunciation": "ခွွန် ဂရုပ် ဘပ် ဖောင်း တိုး ဗီဇာ ရီးယပ် ရွိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Do you have a valid study permit?",
+    "thaiSentence": "คุณมีใบอนุญาตเรียนไหม",
+    "phonetic": "khun mii bai à-nú-yâat rian mái",
+    "burmesePronunciation": "ခွွန် မီး ဘိုင် အနူရတ် ရီယန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "มีครับ"
+  },
+  {
+    "englishMeaning": "Have you registered your departure?",
+    "thaiSentence": "คุณแจ้งการออกเดินทางไหม",
+    "phonetic": "khun jâeng gaan òk dern-thaang mái",
+    "burmesePronunciation": "ခွွန် ဂျင် ဂန်း အုတ် ဒြန် ထ่าง မိုင်"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " not yet.",
+    "phonetic": "ยังไม่ครับ"
+  },
+  {
+    "englishMeaning": "Do you have any questions about your visa?",
+    "thaiSentence": "คุณมีคำถามเกี่ยวกับวีซ่าไหม",
+    "phonetic": "khun mii kham-thǎam gìao gàp wii-sâa mái",
+    "burmesePronunciation": "ခွွန် မီး ခမ် ထမ် ဂျီးယော"
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " thank you.",
+    "phonetic": "ไม่มีครับ ขอบคุณ"
+  },
+  {
+    "englishMeaning": "Can you read Thai documents?",
+    "thaiSentence": "คุณอ่านเอกสารภาษาไทยได้ไหม",
+    "phonetic": "khun àan èek-gà-sǎan phaa-sǎa thai dâai mái",
+    "burmesePronunciation": "ခွွန် အန် ဧက ဆာန် ဘာဆာ ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "A little.",
+    "thaiSentence": "ได้นิดหน่อยครับ"
+  },
+  {
+    "englishMeaning": "Are you planning to continue studying?",
+    "thaiSentence": "คุณวางแผนเรียนต่อไหม",
+    "phonetic": "khun waang phɛ̌ɛn rian dtɔ̀ɔ mái",
+    "burmesePronunciation": "ခွွန် ဝမ် ဖျန် ရီယန် တိုး မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I plan to.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Have you attended orientation?",
+    "thaiSentence": "คุณเข้าร่วมปฐมนิเทศไหม",
+    "phonetic": "khun khâo rûam bpa-thom ní-thét mái",
+    "burmesePronunciation": "ခွွန် ခေါ် ရွမ် ပတုမ နိသက် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I did.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Do you have a bank statement?",
+    "thaiSentence": "คุณมีรายการเดินบัญชีไหม",
+    "phonetic": "khun mii raai-gaan dern ban-chii mái",
+    "burmesePronunciation": "ခွွန် မီး ราย ဂန်း ဒြန် ဘန်ချီ မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I have.",
+    "phonetic": "มีครับ"
+  },
+  {
+    "englishMeaning": "Are you familiar with immigration rules?",
+    "thaiSentence": "คุณรู้จักกฎคนเข้าเมืองไหม",
+    "phonetic": "khun rúu jàk gòt khon khâo mʉang mái",
+    "burmesePronunciation": "ခွွန် ရု ဂတ် ခွန် ခေါ် မွန် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I am.",
+    "phonetic": "ใช่ครับ"
+  },
+  {
+    "englishMeaning": "Nice to meet you.",
+    "thaiSentence": "ยินดีที่ได้รู้จัก",
+    "phonetic": "yin-dii tîi dâai rúu-jàk",
+    "burmesePronunciation": "ယင်းဒီ ထီ ဒိုင် ရု ဇတ်"
+  },
+  {
+    "englishMeaning": "How are you?",
+    "thaiSentence": "สบายดีไหม",
+    "phonetic": "sà-baai dii mái",
+    "burmesePronunciation": "ဆဘိုင် ဒီ မိုင်"
+  },
+  {
+    "englishMeaning": "I’m fine.",
+    "thaiSentence": "สบายดี",
+    "phonetic": "sà-baai dii",
+    "burmesePronunciation": "ဆဘိုင် ဒီ"
+  },
+  {
+    "englishMeaning": "Thank you.",
+    "thaiSentence": "ขอบคุณครับ/ค่ะ",
+    "phonetic": "khàawp khun khráp/khâ",
+    "burmesePronunciation": "ခေါပ် ခွွန် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "Sorry.",
+    "thaiSentence": "ขอโทษ",
+    "phonetic": "khǎaw-thôot",
+    "burmesePronunciation": "ခေါ သုတ်"
+  },
+  {
+    "englishMeaning": "I don’t understand.",
+    "thaiSentence": "ไม่เข้าใจ",
+    "phonetic": "mâi khâo-jai",
+    "burmesePronunciation": "မိုင် ခေါို ဂျိုင်"
+  },
+  {
+    "englishMeaning": "Can you speak slowly?",
+    "thaiSentence": "พูดช้าๆได้ไหม",
+    "phonetic": "phûut cháa cháa dâai mái",
+    "burmesePronunciation": "ဖုတ် ချား ချား ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "I’m learning Thai.",
+    "thaiSentence": "ผมกำลังเรียนภาษาไทยอยู่",
+    "phonetic": "phǒm gam-lang rian phaa-sǎa thai yùu",
+    "burmesePronunciation": "ပွုံး ဂမ်လမ် ရီယန် ပါဆာ ထိုင် ယု"
+  },
+  {
+    "englishMeaning": "Please say again.",
+    "thaiSentence": "พูดอีกครั้งหนึ่งได้ไหม",
+    "phonetic": "phûut ìik khráŋ nʉ̀ŋ dâai mái",
+    "burmesePronunciation": "ဖုတ် အိတ် ခရင်း နင်း ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "What does this mean?",
+    "thaiSentence": "แปลว่าอะไร",
+    "phonetic": "plae wâa à-rai",
+    "burmesePronunciation": "ပလဲ ဝါ အာရိုင်"
+  },
+  {
+    "englishMeaning": "I don’t speak Thai.",
+    "thaiSentence": "ผมพูดภาษาไทยไม่ได้",
+    "phonetic": "phǒm phûut phaa-sǎa thai mâi dâai",
+    "burmesePronunciation": "ပွုံး ဖုတ် ပါဆာ ထိုင် မိုင် ဒိုင်"
+  },
+  {
+    "englishMeaning": "A little.",
+    "thaiSentence": "นิดหน่อย",
+    "phonetic": "nít nàawy",
+    "burmesePronunciation": "နစ် နွိုင်"
+  },
+  {
+    "englishMeaning": "Please help me.",
+    "thaiSentence": "ช่วยด้วยครับ/ค่ะ",
+    "phonetic": "chûay dûuai khráp/khâ",
+    "burmesePronunciation": "ချွေး ဒူယ် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "Where is the bathroom?",
+    "thaiSentence": "ห้องน้ำอยู่ที่ไหน",
+    "phonetic": "hâawng nám yùu tîi nǎi",
+    "burmesePronunciation": "ဟောင်း နမ် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I don’t know.",
+    "thaiSentence": "ไม่รู้",
+    "phonetic": "mâi rúu",
+    "burmesePronunciation": "မိုင် ရု"
+  },
+  {
+    "englishMeaning": "Excuse me.",
+    "thaiSentence": "ขอโทษครับ/ค่ะ",
+    "phonetic": "khǎaw-thôot khráp/khâ",
+    "burmesePronunciation": "ခေါ သုတ် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "Where are you going?",
+    "thaiSentence": "คุณจะไปไหน",
+    "phonetic": "kun jà bpai nǎi",
+    "burmesePronunciation": "ခွွန် စ ဗိုင် နိုင်"
+  },
+  {
+    "englishMeaning": "I’m going to school.",
+    "thaiSentence": "ผมจะไปโรงเรียน",
+    "phonetic": "phǒm jà bpai rohng-rian",
+    "burmesePronunciation": "ပွုံး စ ဗိုင် ရောင် ရီယန်"
+  },
+  {
+    "englishMeaning": "How much is this?",
+    "thaiSentence": "อันนี้เท่าไหร่",
+    "phonetic": "an níi tâo-rài",
+    "burmesePronunciation": "အန် နီ ထော ရိုင်"
+  },
+  {
+    "englishMeaning": "Too expensive.",
+    "thaiSentence": "แพงไป",
+    "phonetic": "phaaeng bpai",
+    "burmesePronunciation": "ဖှမ် ပိုင်"
+  },
+  {
+    "englishMeaning": "Can you lower the price?",
+    "thaiSentence": "ลดหน่อยได้ไหม",
+    "phonetic": "lót nàawy dâai mái",
+    "burmesePronunciation": "လုတ် နွိုင် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Okay.",
+    "thaiSentence": "ตกลง",
+    "phonetic": "tòk-long",
+    "burmesePronunciation": "တုပ် လုံ"
+  },
+  {
+    "englishMeaning": "Not yet.",
+    "thaiSentence": "ยังไม่ครับ/ค่ะ",
+    "phonetic": "yang mâi khráp/khâ",
+    "burmesePronunciation": "ယန် မိုင် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "Already.",
+    "thaiSentence": "แล้วครับ/ค่ะ",
+    "phonetic": "láew khráp/khâ",
+    "burmesePronunciation": "လဲော် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "Let’s go.",
+    "thaiSentence": "ไปกันเถอะ",
+    "phonetic": "bpai gan thòe",
+    "burmesePronunciation": "ပိုင် ဂန် ထုတ်"
+  },
+  {
+    "englishMeaning": "Wait a moment.",
+    "thaiSentence": "รอสักครู่",
+    "phonetic": "raw sàk-krûu",
+    "burmesePronunciation": "ရော စက် ခရူး"
+  },
+  {
+    "englishMeaning": "Do you understand?",
+    "thaiSentence": "เข้าใจไหม",
+    "phonetic": "khâo-jai mái",
+    "burmesePronunciation": "ခေါို ဂျိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I understand.",
+    "phonetic": "เข้าใจครับ/ค่ะ",
+    "burmesePronunciation": "khâo-jai khráp/khâ",
+    "__parsed_extra": [
+      "ခေါို ဂျိုင် ခရပ်/ခါ"
+    ]
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I don’t understand.",
+    "phonetic": "ไม่เข้าใจครับ/ค่ะ",
+    "burmesePronunciation": "mâi khâo-jai khráp/khâ",
+    "__parsed_extra": [
+      "မိုင် ခေါို ဂျိုင် ခရပ်/ခါ"
+    ]
+  },
+  {
+    "englishMeaning": "Do you speak English?",
+    "thaiSentence": "คุณพูดภาษาอังกฤษได้ไหม",
+    "phonetic": "kun phûut phaa-sǎa ang-grìt dâai mái",
+    "burmesePronunciation": "ခွွန် ဖုတ် ပါဆာ အင်ဂျဉ် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Just a moment.",
+    "thaiSentence": "แป๊บนึง",
+    "phonetic": "bpáp nʉng",
+    "burmesePronunciation": "ပျပ် နင်"
+  },
+  {
+    "englishMeaning": "Come here.",
+    "thaiSentence": "มานี่",
+    "phonetic": "maa nîi",
+    "burmesePronunciation": "မာ နီ"
+  },
+  {
+    "englishMeaning": "Go there.",
+    "thaiSentence": "ไปที่นั่น",
+    "phonetic": "bpai tîi nân",
+    "burmesePronunciation": "ပိုင် ထီ နန်"
+  },
+  {
+    "englishMeaning": "How far?",
+    "thaiSentence": "ไกลไหม",
+    "phonetic": "glai mái",
+    "burmesePronunciation": "ဂလိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Is it near?",
+    "thaiSentence": "ใกล้ไหม",
+    "phonetic": "glâi mái",
+    "burmesePronunciation": "ဂလဲ မိုင်"
+  },
+  {
+    "englishMeaning": "It’s far.",
+    "thaiSentence": "ไกลมาก",
+    "phonetic": "glai mâak",
+    "burmesePronunciation": "ဂလိုင် မက်"
+  },
+  {
+    "englishMeaning": "It’s near.",
+    "thaiSentence": "ใกล้มาก",
+    "phonetic": "glâi mâak",
+    "burmesePronunciation": "ဂလဲ မက်"
+  },
+  {
+    "englishMeaning": "What time is it?",
+    "thaiSentence": "ตอนนี้กี่โมง",
+    "phonetic": "dtaawn níi gìi moong",
+    "burmesePronunciation": "တောင်း နီ ဂီး မုန်း"
+  },
+  {
+    "englishMeaning": "It’s 3 o’clock.",
+    "thaiSentence": "ตอนนี้สามโมง",
+    "phonetic": "dtaawn níi sǎam moong",
+    "burmesePronunciation": "တောင်း နီ သမ် မုန်း"
+  },
+  {
+    "englishMeaning": "I’m hungry.",
+    "thaiSentence": "หิวข้าว",
+    "phonetic": "hǐw khâao",
+    "burmesePronunciation": "ဟီယူ ခေါ"
+  },
+  {
+    "englishMeaning": "I’m full.",
+    "thaiSentence": "อิ่มแล้ว",
+    "phonetic": "ìm láew",
+    "burmesePronunciation": "အိမ် လဲော်"
+  },
+  {
+    "englishMeaning": "Delicious.",
+    "thaiSentence": "อร่อย",
+    "phonetic": "à-ràwy",
+    "burmesePronunciation": "အရွိုင်"
+  },
+  {
+    "englishMeaning": "Spicy.",
+    "thaiSentence": "เผ็ด",
+    "phonetic": "pèt",
+    "burmesePronunciation": "ဖက်"
+  },
+  {
+    "englishMeaning": "Not spicy.",
+    "thaiSentence": "ไม่เผ็ด",
+    "phonetic": "mâi pèt",
+    "burmesePronunciation": "မိုင် ဖက်"
+  },
+  {
+    "englishMeaning": "Water",
+    "thaiSentence": "น้ำ",
+    "phonetic": "nám",
+    "burmesePronunciation": "နမ်"
+  },
+  {
+    "englishMeaning": "Rice",
+    "thaiSentence": "ข้าว",
+    "phonetic": "khâao",
+    "burmesePronunciation": "ခေါ"
+  },
+  {
+    "englishMeaning": "Meat",
+    "thaiSentence": "เนื้อ",
+    "phonetic": "núe-a",
+    "burmesePronunciation": "နွား"
+  },
+  {
+    "englishMeaning": "Vegetable",
+    "thaiSentence": "ผัก",
+    "phonetic": "phàk",
+    "burmesePronunciation": "ဖတ်"
+  },
+  {
+    "englishMeaning": "Fruit",
+    "thaiSentence": "ผลไม้",
+    "phonetic": "phŏn-lá-máai",
+    "burmesePronunciation": "ဖုန် လာ မိုင်"
+  },
+  {
+    "englishMeaning": "Fish",
+    "thaiSentence": "ปลา",
+    "phonetic": "bplaa",
+    "burmesePronunciation": "ပလာ"
+  },
+  {
+    "englishMeaning": "Chicken",
+    "thaiSentence": "ไก่",
+    "phonetic": "gài",
+    "burmesePronunciation": "ကိုက်"
+  },
+  {
+    "englishMeaning": "Pork",
+    "thaiSentence": "หมู",
+    "phonetic": "mǔu",
+    "burmesePronunciation": "မူ"
+  },
+  {
+    "englishMeaning": "Beef",
+    "thaiSentence": "เนื้อวัว",
+    "phonetic": "núe-a wua",
+    "burmesePronunciation": "နွား ဗွာ"
+  },
+  {
+    "englishMeaning": "Egg",
+    "thaiSentence": "ไข่",
+    "phonetic": "khài",
+    "burmesePronunciation": "ခိုင်"
+  },
+  {
+    "englishMeaning": "Soup",
+    "thaiSentence": "ต้ม",
+    "phonetic": "tôm",
+    "burmesePronunciation": "တုံး"
+  },
+  {
+    "englishMeaning": "Fried",
+    "thaiSentence": "ทอด",
+    "phonetic": "thâawt",
+    "burmesePronunciation": "ထော့"
+  },
+  {
+    "englishMeaning": "Boiled",
+    "thaiSentence": "ต้ม",
+    "phonetic": "tôm",
+    "burmesePronunciation": "တုံး"
+  },
+  {
+    "englishMeaning": "Grilled",
+    "thaiSentence": "ย่าง",
+    "phonetic": "yâang",
+    "burmesePronunciation": "ယမ်"
+  },
+  {
+    "englishMeaning": "Cold",
+    "thaiSentence": "เย็น",
+    "phonetic": "yen",
+    "burmesePronunciation": "ရင်း"
+  },
+  {
+    "englishMeaning": "Hot",
+    "thaiSentence": "ร้อน",
+    "phonetic": "ráawn",
+    "burmesePronunciation": "ရွန်"
+  },
+  {
+    "englishMeaning": "I’m sick.",
+    "thaiSentence": "ผมป่วย",
+    "phonetic": "phǒm bpùuai",
+    "burmesePronunciation": "ပွုံး ပွွယ်"
+  },
+  {
+    "englishMeaning": "I have a headache.",
+    "thaiSentence": "ปวดหัว",
+    "phonetic": "bpùat hǔa",
+    "burmesePronunciation": "ပွွတ် ဟွာ"
+  },
+  {
+    "englishMeaning": "I have a fever.",
+    "thaiSentence": "เป็นไข้",
+    "phonetic": "bpen khâi",
+    "burmesePronunciation": "ပိန် ခိုင်"
+  },
+  {
+    "englishMeaning": "I need to see a doctor.",
+    "thaiSentence": "ผมต้องไปหาหมอ",
+    "phonetic": "phǒm dtâwng bpai hǎa mǎaw",
+    "burmesePronunciation": "ပွုံး တောင်း ပိုင် ဟာ မော"
+  },
+  {
+    "englishMeaning": "I want medicine.",
+    "thaiSentence": "ผมอยากได้ยา",
+    "phonetic": "phǒm yàak dâai yaa",
+    "burmesePronunciation": "ပွုံး ယပ် ဒိုင် ယာ"
+  },
+  {
+    "englishMeaning": "Where is the hospital?",
+    "thaiSentence": "โรงพยาบาลอยู่ที่ไหน",
+    "phonetic": "rohng phá-yaa-baan yùu tîi nǎi",
+    "burmesePronunciation": "ရောင် ဖယာ ဘန် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "Call an ambulance!",
+    "thaiSentence": "เรียกรถพยาบาล!",
+    "phonetic": "rîiak rót phá-yaa-baan!",
+    "burmesePronunciation": "ရီးယပ် ရုတ် ဖယာ ဘန်!"
+  },
+  {
+    "englishMeaning": "Help!",
+    "thaiSentence": "ช่วยด้วย!",
+    "phonetic": "chûay dûuai!",
+    "burmesePronunciation": "ချွေး ဒူယ်!"
+  },
+  {
+    "englishMeaning": "I’m lost.",
+    "thaiSentence": "ผมหลงทาง",
+    "phonetic": "phǒm lŏng thaang",
+    "burmesePronunciation": "ပွုံး လုံး ထန်း"
+  },
+  {
+    "englishMeaning": "Where is the police station?",
+    "thaiSentence": "สถานีตำรวจอยู่ที่ไหน",
+    "phonetic": "sà-thǎa-nii dtam-rùat yùu tîi nǎi",
+    "burmesePronunciation": "စာ ထာ နီ တမ် ရွတ် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I’ve lost my passport.",
+    "thaiSentence": "ผมทำพาสปอร์ตหาย",
+    "phonetic": "phǒm tham pháat-bpòot hǎai",
+    "burmesePronunciation": "ပွုံး သမ် ဖတ်ဘော့ ဟိုင်"
+  },
+  {
+    "englishMeaning": "I don’t have money.",
+    "thaiSentence": "ผมไม่มีเงิน",
+    "phonetic": "phǒm mâi mii ngern",
+    "burmesePronunciation": "ပွုံး မိုင် မီး ငွေန်"
+  },
+  {
+    "englishMeaning": "Do you take card?",
+    "thaiSentence": "รับบัตรไหม",
+    "phonetic": "ráp bàt mái",
+    "burmesePronunciation": "ရပ် ဘတ် မိုင်"
+  },
+  {
+    "englishMeaning": "Cash only?",
+    "thaiSentence": "รับเงินสดอย่างเดียวไหม",
+    "phonetic": "ráp ngern-sòt yàang diaw mái",
+    "burmesePronunciation": "ရပ် ငွေ ဆုတ် ယမ် ဒီယော မိုင်"
+  },
+  {
+    "englishMeaning": "I’d like to pay.",
+    "thaiSentence": "ผมขอจ่ายเงิน",
+    "phonetic": "phǒm khǎaw jàai ngern",
+    "burmesePronunciation": "ပွုံး ခေါ စိုင် ငွေ"
+  },
+  {
+    "englishMeaning": "Let’s meet again.",
+    "thaiSentence": "เจอกันใหม่",
+    "phonetic": "jooe gan mài",
+    "burmesePronunciation": "ဂျော် ဂန် မိုင်"
+  },
+  {
+    "englishMeaning": "Goodbye.",
+    "thaiSentence": "ลาก่อน",
+    "phonetic": "laa-gàawn",
+    "burmesePronunciation": "လာ ကွန်"
+  },
+  {
+    "englishMeaning": "See you later.",
+    "thaiSentence": "แล้วเจอกันใหม่",
+    "phonetic": "láew jooe gan mài",
+    "burmesePronunciation": "လဲော် ဂျော် ဂန် မိုင်"
+  },
+  {
+    "englishMeaning": "Take care.",
+    "thaiSentence": "ดูแลตัวเองด้วยนะ",
+    "phonetic": "duu-lae dtua eeng dûuai ná",
+    "burmesePronunciation": "ဒူ လဲ တွာ အိန် ဒူယ် န"
+  },
+  {
+    "englishMeaning": "Where do you live?",
+    "thaiSentence": "คุณอาศัยอยู่ที่ไหน",
+    "phonetic": "kun aa-sǎi yùu tîi nǎi",
+    "burmesePronunciation": "ခွွန် အာစိုင် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "I live in Bangkok.",
+    "thaiSentence": "ผมอยู่ที่กรุงเทพฯ",
+    "phonetic": "phǒm yùu tîi grung-thêep",
+    "burmesePronunciation": "ပွုံး ယု ထီ ဂရွန် ထပ်"
+  },
+  {
+    "englishMeaning": "Do you like Thailand?",
+    "thaiSentence": "คุณชอบประเทศไทยไหม",
+    "phonetic": "kun châawp bprà-thêet thai mái",
+    "burmesePronunciation": "ခွွန် ချော့ ပြထက် ထိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Yes",
+    "thaiSentence": " I like it.",
+    "phonetic": "ชอบครับ",
+    "burmesePronunciation": "châawp khráp",
+    "__parsed_extra": [
+      "ချော့ ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "No",
+    "thaiSentence": " I don’t like it.",
+    "phonetic": "ไม่ชอบครับ",
+    "burmesePronunciation": "mâi châawp khráp",
+    "__parsed_extra": [
+      "မိုင် ချော့ ခရပ်"
+    ]
+  },
+  {
+    "englishMeaning": "I’m a student.",
+    "thaiSentence": "ผมเป็นนักเรียน",
+    "phonetic": "phǒm bpen nák-rian",
+    "burmesePronunciation": "ပွုံး ပိန် နက် ရီယန်"
+  },
+  {
+    "englishMeaning": "I’m a teacher.",
+    "thaiSentence": "ผมเป็นครู",
+    "phonetic": "phǒm bpen khruu",
+    "burmesePronunciation": "ပွုံး ပိန် ခရူး"
+  },
+  {
+    "englishMeaning": "I’m working.",
+    "thaiSentence": "ผมทำงานอยู่",
+    "phonetic": "phǒm tham-ngaan yùu",
+    "burmesePronunciation": "ပွုံး သမ် ငန်း ယု"
+  },
+  {
+    "englishMeaning": "This is my first time.",
+    "thaiSentence": "นี่เป็นครั้งแรก",
+    "phonetic": "nîi bpen khráŋ râek",
+    "burmesePronunciation": "နီ ပိန် ခရင်း ရက်"
+  },
+  {
+    "englishMeaning": "How long will you stay?",
+    "thaiSentence": "คุณจะอยู่นานแค่ไหน",
+    "phonetic": "kun jà yùu naan khâe nǎi",
+    "burmesePronunciation": "ခွွန် စ ယု နန်း ခဲ နိုင်"
+  },
+  {
+    "englishMeaning": "One month.",
+    "thaiSentence": "หนึ่งเดือน",
+    "phonetic": "nʉ̀ng dʉan",
+    "burmesePronunciation": "နင်း ဒွန်း"
+  },
+  {
+    "englishMeaning": "Three months.",
+    "thaiSentence": "สามเดือน",
+    "phonetic": "sǎam dʉan",
+    "burmesePronunciation": "သမ် ဒွန်း"
+  },
+  {
+    "englishMeaning": "One year.",
+    "thaiSentence": "หนึ่งปี",
+    "phonetic": "nʉ̀ng bpii",
+    "burmesePronunciation": "နင်း ปี"
+  },
+  {
+    "englishMeaning": "I like Thai food.",
+    "thaiSentence": "ผมชอบอาหารไทย",
+    "phonetic": "phǒm châawp aa-hǎan thai",
+    "burmesePronunciation": "ပွုံး ချော့ အာဟန်း ထိုင်"
+  },
+  {
+    "englishMeaning": "I don’t eat pork.",
+    "thaiSentence": "ผมไม่กินหมู",
+    "phonetic": "phǒm mâi gin mǔu",
+    "burmesePronunciation": "ပွုံး မိုင် ဂင် မူ"
+  },
+  {
+    "englishMeaning": "No sugar please.",
+    "thaiSentence": "ไม่ใส่น้ำตาล",
+    "phonetic": "mâi sài nám-dtaan",
+    "burmesePronunciation": "မိုင် စိုင် နမ် တန်"
+  },
+  {
+    "englishMeaning": "No ice please.",
+    "thaiSentence": "ไม่ใส่น้ำแข็ง",
+    "phonetic": "mâi sài nám-khǎeng",
+    "burmesePronunciation": "မိုင် စိုင် နမ် ချင်"
+  },
+  {
+    "englishMeaning": "It’s delicious.",
+    "thaiSentence": "อร่อยมาก",
+    "phonetic": "à-ràwy mâak",
+    "burmesePronunciation": "အရွိုင် မက်"
+  },
+  {
+    "englishMeaning": "Where do you want to go?",
+    "thaiSentence": "คุณอยากไปไหน",
+    "phonetic": "kun yàak bpai nǎi",
+    "burmesePronunciation": "ခွွန် ယပ် ပိုင် နိုင်"
+  },
+  {
+    "englishMeaning": "To the airport.",
+    "thaiSentence": "ไปสนามบิน",
+    "phonetic": "bpai sà-nǎam-bin",
+    "burmesePronunciation": "ပိုင် စနမ် ဘင်"
+  },
+  {
+    "englishMeaning": "To the hotel.",
+    "thaiSentence": "ไปโรงแรม",
+    "phonetic": "bpai rohng-raem",
+    "burmesePronunciation": "ပိုင် ရောင် လ်မ်"
+  },
+  {
+    "englishMeaning": "To the embassy.",
+    "thaiSentence": "ไปสถานทูต",
+    "phonetic": "bpai sà-thǎan-thûut",
+    "burmesePronunciation": "ပိုင် စထန်း ထုတ်"
+  },
+  {
+    "englishMeaning": "To immigration.",
+    "thaiSentence": "ไปตรวจคนเข้าเมือง",
+    "phonetic": "bpai dtrùat khon khâo mʉang",
+    "burmesePronunciation": "ပိုင် တရွတ် ခွန် ခေါ မွန်"
+  },
+  {
+    "englishMeaning": "Please take me to…",
+    "thaiSentence": "ช่วยพาไป…",
+    "phonetic": "chûay phaa bpai…",
+    "burmesePronunciation": "ချွေး ဖာ ပိုင်…"
+  },
+  {
+    "englishMeaning": "Turn left here.",
+    "thaiSentence": "เลี้ยวซ้ายตรงนี้",
+    "phonetic": "líew sáai dtrong níi",
+    "burmesePronunciation": "လီယော့ စာိုင် တုန် နီ"
+  },
+  {
+    "englishMeaning": "Turn right at the light.",
+    "thaiSentence": "เลี้ยวขวาที่ไฟแดง",
+    "phonetic": "líew kwǎa tîi fai-daeng",
+    "burmesePronunciation": "လီယော့ ခွါ ထီ ဖိုင် ဒင်"
+  },
+  {
+    "englishMeaning": "Go straight a bit.",
+    "thaiSentence": "ตรงไปอีกนิด",
+    "phonetic": "dtrong bpai ìik nít",
+    "burmesePronunciation": "တဲွန် ပိုင် အိတ် နစ်"
+  },
+  {
+    "englishMeaning": "Stop here.",
+    "thaiSentence": "หยุดตรงนี้",
+    "phonetic": "yùt dtrong níi",
+    "burmesePronunciation": "ယူတ် တုန် နီ"
+  },
+  {
+    "englishMeaning": "I want to get off.",
+    "thaiSentence": "ผมจะลงที่นี่",
+    "phonetic": "phǒm jà long tîi nîi",
+    "burmesePronunciation": "ပွုံး စ လုံ ထီ နီ"
+  },
+  {
+    "englishMeaning": "Can I sit here?",
+    "thaiSentence": "นั่งตรงนี้ได้ไหม",
+    "phonetic": "nâng dtrong níi dâai mái",
+    "burmesePronunciation": "နင်း တုန် နီ ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "This seat taken?",
+    "thaiSentence": "ที่นั่งนี้มีคนไหม",
+    "phonetic": "tîi nâng níi mii khon mái",
+    "burmesePronunciation": "ထီ နင်း နီ မီး ခွန် မိုင်"
+  },
+  {
+    "englishMeaning": "No problem.",
+    "thaiSentence": "ไม่เป็นไรครับ/ค่ะ",
+    "phonetic": "mâi bpen rai khráp/khâ",
+    "burmesePronunciation": "မိုင် ပိန် ရိုင် ခရပ်/ခါ"
+  },
+  {
+    "englishMeaning": "I like this.",
+    "thaiSentence": "ผมชอบอันนี้",
+    "phonetic": "phǒm châawp an níi",
+    "burmesePronunciation": "ပွုံး ချော့ အန် နီ"
+  },
+  {
+    "englishMeaning": "I don’t like that.",
+    "thaiSentence": "ผมไม่ชอบอันนั้น",
+    "phonetic": "phǒm mâi châawp an nán",
+    "burmesePronunciation": "ပွုံး မိုင် ချော့ အန် နန်"
+  },
+  {
+    "englishMeaning": "This one please.",
+    "thaiSentence": "เอาอันนี้ครับ",
+    "phonetic": "ao an níi khráp",
+    "burmesePronunciation": "အော အန် နီ ခရပ်"
+  },
+  {
+    "englishMeaning": "That one please.",
+    "thaiSentence": "เอาอันนั้นครับ",
+    "phonetic": "ao an nán khráp",
+    "burmesePronunciation": "အော အန် နန် ခရပ်"
+  },
+  {
+    "englishMeaning": "What color do you like?",
+    "thaiSentence": "คุณชอบสีอะไร",
+    "phonetic": "kun châawp sǐi à-rai",
+    "burmesePronunciation": "ခွွန် ချော့ စီ အာရိုင်"
+  },
+  {
+    "englishMeaning": "I like blue.",
+    "thaiSentence": "ผมชอบสีฟ้า",
+    "phonetic": "phǒm châawp sǐi fáa",
+    "burmesePronunciation": "ပွုံး ချော့ စီ ဖါး"
+  },
+  {
+    "englishMeaning": "What is your phone number?",
+    "thaiSentence": "เบอร์โทรศัพท์ของคุณคืออะไร",
+    "phonetic": "bəə thoo-rá-sàp khǎawng kun khʉʉ à-rai",
+    "burmesePronunciation": "ဘဲ သို ရ ဆပ် ခေါင် ခွွန် ခူ အာရိုင်"
+  },
+  {
+    "englishMeaning": "Here is my number.",
+    "thaiSentence": "นี่คือเบอร์ของผม",
+    "phonetic": "nîi khʉʉ bəə khǎawng phǒm",
+    "burmesePronunciation": "နီ ခူ ဘဲ ခေါင် ပွုံး"
+  },
+  {
+    "englishMeaning": "Can I have your LINE?",
+    "thaiSentence": "ขอไลน์ของคุณได้ไหม",
+    "phonetic": "khǎaw lai khǎawng kun dâai mái",
+    "burmesePronunciation": "ခေါ လိုင် ခေါင် ခွွန် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Let’s be friends.",
+    "thaiSentence": "มาเป็นเพื่อนกันนะ",
+    "phonetic": "maa bpen phʉ̂an gan ná",
+    "burmesePronunciation": "မာ ပိန် ဖွန် ဂန် န"
+  },
+  {
+    "englishMeaning": "I’m busy.",
+    "thaiSentence": "ผมยุ่งอยู่",
+    "phonetic": "phǒm yûng yùu",
+    "burmesePronunciation": "ပွုံး ယွန်း ယု"
+  },
+  {
+    "englishMeaning": "I’m free.",
+    "thaiSentence": "ผมว่างอยู่",
+    "phonetic": "phǒm wâang yùu",
+    "burmesePronunciation": "ပွုံး ဝမ် ယု"
+  },
+  {
+    "englishMeaning": "Do you want to go out?",
+    "thaiSentence": "อยากออกไปไหม",
+    "phonetic": "yàak àawk bpai mái",
+    "burmesePronunciation": "ယပ် အော့ ပိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Let’s eat together.",
+    "thaiSentence": "ไปกินข้าวด้วยกัน",
+    "phonetic": "bpai gin khâao dûuai gan",
+    "burmesePronunciation": "ပိုင် ဂင် ခေါ ဒူယ် ဂန်"
+  },
+  {
+    "englishMeaning": "Where should we meet?",
+    "thaiSentence": "เจอกันที่ไหนดี",
+    "phonetic": "jooe gan tîi nǎi dii",
+    "burmesePronunciation": "ဂျော် ဂန် ထီ နိုင် ဒီ"
+  },
+  {
+    "englishMeaning": "What time should we meet?",
+    "thaiSentence": "เจอกันกี่โมง",
+    "phonetic": "jooe gan gìi moong",
+    "burmesePronunciation": "ဂျော် ဂန် ဂီး မုန်း"
+  },
+  {
+    "englishMeaning": "Do you like movies?",
+    "thaiSentence": "คุณชอบดูหนังไหม",
+    "phonetic": "kun châawp duu năng mái",
+    "burmesePronunciation": "ခွွန် ချော့ ဒူ နန် မိုင်"
+  },
+  {
+    "englishMeaning": "Let’s go to the cinema.",
+    "thaiSentence": "ไปดูหนังกันเถอะ",
+    "phonetic": "bpai duu năng gan thòe",
+    "burmesePronunciation": "ပိုင် ဒူ နန် ဂန် ထုတ်"
+  },
+  {
+    "englishMeaning": "I’m tired.",
+    "thaiSentence": "ผมเหนื่อย",
+    "phonetic": "phǒm nʉ̀ai",
+    "burmesePronunciation": "ပွုံး နှွယ်"
+  },
+  {
+    "englishMeaning": "I want to rest.",
+    "thaiSentence": "ผมอยากพัก",
+    "phonetic": "phǒm yàak phák",
+    "burmesePronunciation": "ပွုံး ယပ် ဖတ်"
+  },
+  {
+    "englishMeaning": "Let’s take a break.",
+    "thaiSentence": "พักกันเถอะ",
+    "phonetic": "phák gan thòe",
+    "burmesePronunciation": "ဖတ် ဂန် ထုတ်"
+  },
+  {
+    "englishMeaning": "How are you feeling?",
+    "thaiSentence": "คุณรู้สึกยังไง",
+    "phonetic": "kun rúu-sʉ̀k yang-ngai",
+    "burmesePronunciation": "ခွွန် ရု စက် ယင် ငိုင်"
+  },
+  {
+    "englishMeaning": "I feel good.",
+    "thaiSentence": "รู้สึกดี",
+    "phonetic": "rúu-sʉ̀k dii",
+    "burmesePronunciation": "ရု စက် ဒီ"
+  },
+  {
+    "englishMeaning": "I’m hungry.",
+    "thaiSentence": "หิว",
+    "phonetic": "hǐw",
+    "burmesePronunciation": "ဟီယူ"
+  },
+  {
+    "englishMeaning": "Let’s eat.",
+    "thaiSentence": "กินข้าวกันเถอะ",
+    "phonetic": "gin khâao gan thòe",
+    "burmesePronunciation": "ဂင် ခေါ ဂန် ထုတ်"
+  },
+  {
+    "englishMeaning": "What time is it now?",
+    "thaiSentence": "ตอนนี้กี่โมง",
+    "phonetic": "dtaawn níi gìi moong",
+    "burmesePronunciation": "တောင်း နီ ဂီး မုန်း"
+  },
+  {
+    "englishMeaning": "It’s 6 PM.",
+    "thaiSentence": "หกโมงเย็น",
+    "phonetic": "hòk moong yen",
+    "burmesePronunciation": "ဟုတ် မုန်း ရင်း"
+  },
+  {
+    "englishMeaning": "It’s morning.",
+    "thaiSentence": "ตอนเช้า",
+    "phonetic": "dtaawn cháo",
+    "burmesePronunciation": "တောင်း ချော်"
+  },
+  {
+    "englishMeaning": "It’s night.",
+    "thaiSentence": "ตอนกลางคืน",
+    "phonetic": "dtaawn glaang-kʉʉn",
+    "burmesePronunciation": "တောင်း ဂလန် ချွန်"
+  },
+  {
+    "englishMeaning": "See you tomorrow.",
+    "thaiSentence": "เจอกันพรุ่งนี้",
+    "phonetic": "jooe gan phrûng-níi",
+    "burmesePronunciation": "ဂျော် ဂန် ဖရွင်း နီ"
+  },
+  {
+    "englishMeaning": "See you next week.",
+    "thaiSentence": "เจอกันสัปดาห์หน้า",
+    "phonetic": "jooe gan sàp-daa nâa",
+    "burmesePronunciation": "ဂျော် ဂန် စပ်ဒါ နာ"
+  },
+  {
+    "englishMeaning": "Can I take a photo?",
+    "thaiSentence": "ขอถ่ายรูปได้ไหม",
+    "phonetic": "khǎaw thàai rûup dâai mái",
+    "burmesePronunciation": "ခေါ ထာိုင် ရုပ် ဒိုင် မိုင်"
+  },
+  {
+    "englishMeaning": "Where are we?",
+    "thaiSentence": "เรากำลังอยู่ที่ไหน",
+    "phonetic": "rao gam-lang yùu tîi nǎi",
+    "burmesePronunciation": "ရာ ဂမ်လမ် ယု ထီ နိုင်"
+  },
+  {
+    "englishMeaning": "Let’s go home.",
+    "thaiSentence": "กลับบ้านกันเถอะ",
+    "phonetic": "glàp bâan gan thòe",
+    "burmesePronunciation": "ဂလပ် ဘန် ဂန် ထုတ်"
+  },
+  {
+    "englishMeaning": "I miss my family.",
+    "thaiSentence": "ผมคิดถึงครอบครัว",
+    "phonetic": "phǒm khít-thʉ̌ng khrâawp-khrua",
+    "burmesePronunciation": "ပွုံး ခစ် ထုံး ခရော့ ဖခွား"
+  },
+  {
+    "englishMeaning": "Please take care of yourself.",
+    "thaiSentence": "ดูแลตัวเองดีๆนะ",
+    "phonetic": "duu-lae dtua-eeng dii dii ná",
+    "burmesePronunciation": "ဒူ လဲ တွာအိန် ဒီဒီ န"
+  },
+  {
+    "englishMeaning": "It’s dangerous.",
+    "thaiSentence": "อันตราย",
+    "phonetic": "an-dtà-raai",
+    "burmesePronunciation": "အန် တာ ရိုင်"
+  },
+  {
+    "englishMeaning": "Be careful.",
+    "thaiSentence": "ระวัง",
+    "phonetic": "rá-wang",
+    "burmesePronunciation": "ရဝမ်"
+  },
+  {
+    "englishMeaning": "Calm down.",
+    "thaiSentence": "ใจเย็นๆ",
+    "phonetic": "jai yen yen",
+    "burmesePronunciation": "ဂျိုင် ရင်း ရင်း"
+  },
+  {
+    "englishMeaning": "Don’t worry.",
+    "thaiSentence": "ไม่ต้องห่วง",
+    "phonetic": "mâi dtâawng hùang",
+    "burmesePronunciation": "မိုင် တောင်း ဟွမ်"
+  },
+  {
+    "englishMeaning": "I understand.",
+    "thaiSentence": "เข้าใจ",
+    "phonetic": "khâo-jai",
+    "burmesePronunciation": "ခေါို ဂျိုင်"
+  },
+  {
+    "englishMeaning": "That’s okay.",
+    "thaiSentence": "ไม่เป็นไร",
+    "phonetic": "mâi bpen rai",
+    "burmesePronunciation": "မိုင် ပိန် ရိုင်"
+  },
+  {
+    "englishMeaning": "I agree.",
+    "thaiSentence": "เห็นด้วย",
+    "phonetic": "hěn dûuai",
+    "burmesePronunciation": "ဟင် ဒူယ်"
+  }
+]
